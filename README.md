@@ -44,6 +44,6 @@ Beta will focus on drop parity, stability, and more QoL Updates.
 
 For the full setup guide, casual races, providing feedback and future event information:
 
-👉 **Discord:** *([link here)](https://discord.gg/ignitesouls)*
+👉 **Discord:** *(Ignite](https://discord.gg/ignitesouls)*
 
 ---
