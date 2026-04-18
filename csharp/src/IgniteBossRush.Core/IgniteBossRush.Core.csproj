@@ -14,7 +14,7 @@
       so every C# piece of the pipeline produces/consumes bytes via the same
       binary reader/writer.
     -->
-    <ProjectReference Include="..\..\..\Phase0_RoundTripTest\vendor\SoulsFormatsNEXT\SoulsFormats\SoulsFormats.csproj" />
+    <ProjectReference Include="..\..\dependencies\SoulsFormatsNEXT\SoulsFormats\SoulsFormats.csproj" />
   </ItemGroup>
 
   <ItemGroup>

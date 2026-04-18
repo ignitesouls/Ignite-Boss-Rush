@@ -64,8 +64,8 @@
     checkouts where the DLL hasn't been dropped in yet.
   -->
   <ItemGroup>
-    <None Include="..\..\..\Phase0_RoundTripTest\oo2core_6_win64.dll"
-          Condition="Exists('..\..\..\Phase0_RoundTripTest\oo2core_6_win64.dll')">
+    <None Include="..\..\oo2core_6_win64.dll"
+          Condition="Exists('..\..\oo2core_6_win64.dll')">
       <Link>oo2core_6_win64.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

@@ -31,8 +31,8 @@
       the DLL isn't available (e.g. CI / source-only checkouts) — the
       affected tests skip cleanly via a NoOodleFoundException catch.
     -->
-    <None Include="..\..\..\Phase0_RoundTripTest\oo2core_6_win64.dll"
-          Condition="Exists('..\..\..\Phase0_RoundTripTest\oo2core_6_win64.dll')">
+    <None Include="..\..\oo2core_6_win64.dll"
+          Condition="Exists('..\..\oo2core_6_win64.dll')">
       <Link>oo2core_6_win64.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
