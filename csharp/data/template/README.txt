@@ -1,0 +1,1 @@
+Refer to https://www.nexusmods.com/eldenring/mods/5645 for the updated mod documentation.

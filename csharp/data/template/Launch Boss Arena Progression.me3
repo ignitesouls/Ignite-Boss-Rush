@@ -1,0 +1,12 @@
+profileVersion = "v1"
+savefile = "BossArenaProgression.sl2"
+
+[[supports]]
+game = "elden-ring"
+
+[[natives]]
+path = 'SeamlessCoop/ersc.dll'
+
+[[packages]]
+id = "ERBossArenaProgression"
+path = 'mod'

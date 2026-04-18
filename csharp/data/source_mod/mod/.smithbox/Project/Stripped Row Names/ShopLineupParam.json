@@ -1,0 +1,9779 @@
+{
+  "Name": "ShopLineupParam",
+  "Entries": [
+    {
+      "ID": 1,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 1000,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 1001,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 1002,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 1003,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110000,
+      "Entries": [
+        "[Alteration] Drake Knight Helm (Altered)"
+      ]
+    },
+    {
+      "ID": 110001,
+      "Entries": [
+        "[Alteration] Drake Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110002,
+      "Entries": [
+        "[Alteration] Scaled Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110003,
+      "Entries": [
+        "[Alteration] Perfumer Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110004,
+      "Entries": [
+        "[Alteration] Perfumer's Traveling Garb (Altered)"
+      ]
+    },
+    {
+      "ID": 110005,
+      "Entries": [
+        "[Alteration] Spellblade's Traveling Attire (Altered)"
+      ]
+    },
+    {
+      "ID": 110006,
+      "Entries": [
+        "[Alteration] Ronin's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110007,
+      "Entries": [
+        "[Alteration] Blaidd's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110008,
+      "Entries": [
+        "[Alteration] Black Knife Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110009,
+      "Entries": [
+        "[Alteration] Briar Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110010,
+      "Entries": [
+        "[Alteration] Page Garb (Altered)"
+      ]
+    },
+    {
+      "ID": 110011,
+      "Entries": [
+        "[Alteration] Night's Cavalry Helm (Altered)"
+      ]
+    },
+    {
+      "ID": 110012,
+      "Entries": [
+        "[Alteration] Night's Cavalry Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110013,
+      "Entries": [
+        "[Alteration] Blue Silver Mail Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110014,
+      "Entries": [
+        "[Alteration] Nomadic Merchant's Finery (Altered)"
+      ]
+    },
+    {
+      "ID": 110015,
+      "Entries": [
+        "[Alteration] Tree Sentinel Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110016,
+      "Entries": [
+        "[Alteration] Royal Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110017,
+      "Entries": [
+        "[Alteration] Nox Monk Hood (Altered)"
+      ]
+    },
+    {
+      "ID": 110018,
+      "Entries": [
+        "[Alteration] Nox Monk Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110019,
+      "Entries": [
+        "[Alteration] Nox Swordstress Crown (Altered)"
+      ]
+    },
+    {
+      "ID": 110020,
+      "Entries": [
+        "[Alteration] Nox Swordstress Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110021,
+      "Entries": [
+        "[Alteration] Gravekeeper Cloak (Altered)"
+      ]
+    },
+    {
+      "ID": 110022,
+      "Entries": [
+        "[Alteration] Cleanrot Helm (Altered)"
+      ]
+    },
+    {
+      "ID": 110023,
+      "Entries": [
+        "[Alteration] Cleanrot Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110024,
+      "Entries": [
+        "[Alteration] Depraved Perfumer Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110025,
+      "Entries": [
+        "[Alteration] All-Knowing Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110026,
+      "Entries": [
+        "[Alteration] Twinned Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110029,
+      "Entries": [
+        "[Alteration] Prophet Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110030,
+      "Entries": [
+        "[Alteration] Astrologer Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110031,
+      "Entries": [
+        "[Alteration] Lionel's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110032,
+      "Entries": [
+        "[Alteration] Hoslow's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110033,
+      "Entries": [
+        "[Alteration] Vagabond Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110034,
+      "Entries": [
+        "[Alteration] War Surgeon Gown (Altered)"
+      ]
+    },
+    {
+      "ID": 110036,
+      "Entries": [
+        "[Alteration] Veteran's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110037,
+      "Entries": [
+        "[Alteration] Bloodhound Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110038,
+      "Entries": [
+        "[Alteration] Festive Hood (Altered)"
+      ]
+    },
+    {
+      "ID": 110039,
+      "Entries": [
+        "[Alteration] Commoner's Garb (Altered)"
+      ]
+    },
+    {
+      "ID": 110040,
+      "Entries": [
+        "[Alteration] Commoner's Simple Garb (Altered)"
+      ]
+    },
+    {
+      "ID": 110041,
+      "Entries": [
+        "[Alteration] Raging Wolf Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110042,
+      "Entries": [
+        "[Alteration] Land of Reeds Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110043,
+      "Entries": [
+        "[Alteration] Confessor Hood (Altered)"
+      ]
+    },
+    {
+      "ID": 110044,
+      "Entries": [
+        "[Alteration] Confessor Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110045,
+      "Entries": [
+        "[Alteration] Finger Maiden Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110047,
+      "Entries": [
+        "[Alteration] Preceptor's Long Gown (Altered)"
+      ]
+    },
+    {
+      "ID": 110049,
+      "Entries": [
+        "[Alteration] Eccentric's Hood (Altered)"
+      ]
+    },
+    {
+      "ID": 110050,
+      "Entries": [
+        "[Alteration] Fingerprint Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110051,
+      "Entries": [
+        "[Alteration] Carian Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110052,
+      "Entries": [
+        "[Alteration] Errant Sorcerer Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110053,
+      "Entries": [
+        "[Alteration] Gelmir Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110054,
+      "Entries": [
+        "[Alteration] Godrick Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110055,
+      "Entries": [
+        "[Alteration] Cuckoo Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110056,
+      "Entries": [
+        "[Alteration] Leyndell Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110057,
+      "Entries": [
+        "[Alteration] Redmane Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110058,
+      "Entries": [
+        "[Alteration] Mausoleum Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110059,
+      "Entries": [
+        "[Alteration] Haligtree Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110060,
+      "Entries": [
+        "[Alteration] High Page Clothes (Altered)"
+      ]
+    },
+    {
+      "ID": 110061,
+      "Entries": [
+        "[Alteration] Rotten Gravekeeper Cloak (Altered)"
+      ]
+    },
+    {
+      "ID": 110062,
+      "Entries": [
+        "[Alteration] Beast Champion Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110063,
+      "Entries": [
+        "[Alteration] Snow Witch Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110064,
+      "Entries": [
+        "[Alteration] Crucible Axe Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110065,
+      "Entries": [
+        "[Alteration] Crucible Tree Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110066,
+      "Entries": [
+        "[Alteration] Fia's Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110067,
+      "Entries": [
+        "[Alteration] Alberich's Pointed Hat (Altered)"
+      ]
+    },
+    {
+      "ID": 110068,
+      "Entries": [
+        "[Alteration] Alberich's Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110069,
+      "Entries": [
+        "[Alteration] Traveling Maiden Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110070,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110073,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110074,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110075,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110076,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110077,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110078,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110079,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110080,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110081,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110082,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110100,
+      "Entries": [
+        "[Alteration] Elden Lord Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110101,
+      "Entries": [
+        "[Alteration] Radahn's Lion Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110102,
+      "Entries": [
+        "[Alteration] Lord of Blood's Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 110103,
+      "Entries": [
+        "[Alteration] Maliketh's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110104,
+      "Entries": [
+        "[Alteration] Malenia's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 110105,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110106,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110200,
+      "Entries": [
+        "[Reversion] Drake Knight Helm"
+      ]
+    },
+    {
+      "ID": 110201,
+      "Entries": [
+        "[Reversion] Drake Knight Armor"
+      ]
+    },
+    {
+      "ID": 110202,
+      "Entries": [
+        "[Reversion] Scaled Armor"
+      ]
+    },
+    {
+      "ID": 110203,
+      "Entries": [
+        "[Reversion] Perfumer Robe"
+      ]
+    },
+    {
+      "ID": 110204,
+      "Entries": [
+        "[Reversion] Perfumer's Traveling Garb"
+      ]
+    },
+    {
+      "ID": 110205,
+      "Entries": [
+        "[Reversion] Spellblade's Traveling Attire"
+      ]
+    },
+    {
+      "ID": 110206,
+      "Entries": [
+        "[Reversion] Ronin's Armor"
+      ]
+    },
+    {
+      "ID": 110207,
+      "Entries": [
+        "[Reversion] Blaidd's Armor"
+      ]
+    },
+    {
+      "ID": 110208,
+      "Entries": [
+        "[Reversion] Black Knife Armor"
+      ]
+    },
+    {
+      "ID": 110209,
+      "Entries": [
+        "[Reversion] Briar Armor"
+      ]
+    },
+    {
+      "ID": 110210,
+      "Entries": [
+        "[Reversion] Page Garb"
+      ]
+    },
+    {
+      "ID": 110211,
+      "Entries": [
+        "[Reversion] Night's Cavalry Helm"
+      ]
+    },
+    {
+      "ID": 110212,
+      "Entries": [
+        "[Reversion] Night's Cavalry Armor"
+      ]
+    },
+    {
+      "ID": 110213,
+      "Entries": [
+        "[Reversion] Blue Silver Mail Armor"
+      ]
+    },
+    {
+      "ID": 110214,
+      "Entries": [
+        "[Reversion] Nomadic Merchant's Finery"
+      ]
+    },
+    {
+      "ID": 110215,
+      "Entries": [
+        "[Reversion] Tree Sentinel Armor"
+      ]
+    },
+    {
+      "ID": 110216,
+      "Entries": [
+        "[Reversion] Royal Knight Armor"
+      ]
+    },
+    {
+      "ID": 110217,
+      "Entries": [
+        "[Reversion] Nox Monk Hood"
+      ]
+    },
+    {
+      "ID": 110218,
+      "Entries": [
+        "[Reversion] Nox Monk Armor"
+      ]
+    },
+    {
+      "ID": 110219,
+      "Entries": [
+        "[Reversion] Nox Swordstress Crown"
+      ]
+    },
+    {
+      "ID": 110220,
+      "Entries": [
+        "[Reversion] Nox Swordstress Armor"
+      ]
+    },
+    {
+      "ID": 110221,
+      "Entries": [
+        "[Reversion] Gravekeeper Cloak"
+      ]
+    },
+    {
+      "ID": 110222,
+      "Entries": [
+        "[Reversion] Cleanrot Helm"
+      ]
+    },
+    {
+      "ID": 110223,
+      "Entries": [
+        "[Reversion] Cleanrot Armor"
+      ]
+    },
+    {
+      "ID": 110224,
+      "Entries": [
+        "[Reversion] Depraved Perfumer Robe"
+      ]
+    },
+    {
+      "ID": 110225,
+      "Entries": [
+        "[Reversion] All-Knowing Armor"
+      ]
+    },
+    {
+      "ID": 110226,
+      "Entries": [
+        "[Reversion] Twinned Armor"
+      ]
+    },
+    {
+      "ID": 110229,
+      "Entries": [
+        "[Reversion] Prophet Robe"
+      ]
+    },
+    {
+      "ID": 110230,
+      "Entries": [
+        "[Reversion] Astrologer Robe"
+      ]
+    },
+    {
+      "ID": 110231,
+      "Entries": [
+        "[Reversion] Lionel's Armor"
+      ]
+    },
+    {
+      "ID": 110232,
+      "Entries": [
+        "[Reversion] Hoslow's Armor"
+      ]
+    },
+    {
+      "ID": 110233,
+      "Entries": [
+        "[Reversion] Vagabond Knight Armor"
+      ]
+    },
+    {
+      "ID": 110234,
+      "Entries": [
+        "[Reversion] War Surgeon Gown"
+      ]
+    },
+    {
+      "ID": 110236,
+      "Entries": [
+        "[Reversion] Veteran's Armor"
+      ]
+    },
+    {
+      "ID": 110237,
+      "Entries": [
+        "[Reversion] Bloodhound Knight Armor"
+      ]
+    },
+    {
+      "ID": 110238,
+      "Entries": [
+        "[Reversion] Festive Hood"
+      ]
+    },
+    {
+      "ID": 110239,
+      "Entries": [
+        "[Reversion] Commoner's Garb"
+      ]
+    },
+    {
+      "ID": 110240,
+      "Entries": [
+        "[Reversion] Commoner's Simple Garb"
+      ]
+    },
+    {
+      "ID": 110241,
+      "Entries": [
+        "[Reversion] Raging Wolf Armor"
+      ]
+    },
+    {
+      "ID": 110242,
+      "Entries": [
+        "[Reversion] Land of Reeds Armor"
+      ]
+    },
+    {
+      "ID": 110243,
+      "Entries": [
+        "[Reversion] Confessor Hood"
+      ]
+    },
+    {
+      "ID": 110244,
+      "Entries": [
+        "[Reversion] Confessor Armor"
+      ]
+    },
+    {
+      "ID": 110245,
+      "Entries": [
+        "[Reversion] Finger Maiden Robe"
+      ]
+    },
+    {
+      "ID": 110247,
+      "Entries": [
+        "[Reversion] Preceptor's Long Gown"
+      ]
+    },
+    {
+      "ID": 110249,
+      "Entries": [
+        "[Reversion] Eccentric's Hood"
+      ]
+    },
+    {
+      "ID": 110250,
+      "Entries": [
+        "[Reversion] Fingerprint Armor"
+      ]
+    },
+    {
+      "ID": 110251,
+      "Entries": [
+        "[Reversion] Carian Knight Armor"
+      ]
+    },
+    {
+      "ID": 110252,
+      "Entries": [
+        "[Reversion] Errant Sorcerer Robe"
+      ]
+    },
+    {
+      "ID": 110253,
+      "Entries": [
+        "[Reversion] Gelmir Knight Armor"
+      ]
+    },
+    {
+      "ID": 110254,
+      "Entries": [
+        "[Reversion] Godrick Knight Armor"
+      ]
+    },
+    {
+      "ID": 110255,
+      "Entries": [
+        "[Reversion] Cuckoo Knight Armor"
+      ]
+    },
+    {
+      "ID": 110256,
+      "Entries": [
+        "[Reversion] Leyndell Knight Armor"
+      ]
+    },
+    {
+      "ID": 110257,
+      "Entries": [
+        "[Reversion] Redmane Knight Armor"
+      ]
+    },
+    {
+      "ID": 110258,
+      "Entries": [
+        "[Reversion] Mausoleum Knight Armor"
+      ]
+    },
+    {
+      "ID": 110259,
+      "Entries": [
+        "[Reversion] Haligtree Knight Armor"
+      ]
+    },
+    {
+      "ID": 110260,
+      "Entries": [
+        "[Reversion] High Page Clothes"
+      ]
+    },
+    {
+      "ID": 110261,
+      "Entries": [
+        "[Reversion] Rotten Gravekeeper Cloak"
+      ]
+    },
+    {
+      "ID": 110262,
+      "Entries": [
+        "[Reversion] Beast Champion Armor"
+      ]
+    },
+    {
+      "ID": 110263,
+      "Entries": [
+        "[Reversion] Snow Witch Robe"
+      ]
+    },
+    {
+      "ID": 110264,
+      "Entries": [
+        "[Reversion] Crucible Axe Armor"
+      ]
+    },
+    {
+      "ID": 110265,
+      "Entries": [
+        "[Reversion] Crucible Tree Armor"
+      ]
+    },
+    {
+      "ID": 110266,
+      "Entries": [
+        "[Reversion] Fia's Robe"
+      ]
+    },
+    {
+      "ID": 110267,
+      "Entries": [
+        "[Reversion] Alberich's Pointed Hat"
+      ]
+    },
+    {
+      "ID": 110268,
+      "Entries": [
+        "[Reversion] Alberich's Robe"
+      ]
+    },
+    {
+      "ID": 110269,
+      "Entries": [
+        "[Reversion] Traveling Maiden Robe"
+      ]
+    },
+    {
+      "ID": 110270,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110273,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110274,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110275,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110276,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110277,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110278,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110279,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110280,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110281,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110282,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110300,
+      "Entries": [
+        "[Reversion] Elden Lord Armor"
+      ]
+    },
+    {
+      "ID": 110301,
+      "Entries": [
+        "[Reversion] Radahn's Lion Armor"
+      ]
+    },
+    {
+      "ID": 110302,
+      "Entries": [
+        "[Reversion] Lord of Blood's Robe"
+      ]
+    },
+    {
+      "ID": 110303,
+      "Entries": [
+        "[Reversion] Maliketh's Armor"
+      ]
+    },
+    {
+      "ID": 110304,
+      "Entries": [
+        "[Reversion] Malenia's Armor"
+      ]
+    },
+    {
+      "ID": 110305,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 110306,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111000,
+      "Entries": [
+        "[Alteration] Drake Knight Helm (Altered)"
+      ]
+    },
+    {
+      "ID": 111001,
+      "Entries": [
+        "[Alteration] Drake Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111002,
+      "Entries": [
+        "[Alteration] Scaled Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111003,
+      "Entries": [
+        "[Alteration] Perfumer Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111004,
+      "Entries": [
+        "[Alteration] Perfumer's Traveling Garb (Altered)"
+      ]
+    },
+    {
+      "ID": 111005,
+      "Entries": [
+        "[Alteration] Spellblade's Traveling Attire (Altered)"
+      ]
+    },
+    {
+      "ID": 111006,
+      "Entries": [
+        "[Alteration] Ronin's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111007,
+      "Entries": [
+        "[Alteration] Blaidd's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111008,
+      "Entries": [
+        "[Alteration] Black Knife Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111009,
+      "Entries": [
+        "[Alteration] Briar Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111010,
+      "Entries": [
+        "[Alteration] Page Garb (Altered)"
+      ]
+    },
+    {
+      "ID": 111011,
+      "Entries": [
+        "[Alteration] Night's Cavalry Helm (Altered)"
+      ]
+    },
+    {
+      "ID": 111012,
+      "Entries": [
+        "[Alteration] Night's Cavalry Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111013,
+      "Entries": [
+        "[Alteration] Blue Silver Mail Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111014,
+      "Entries": [
+        "[Alteration] Nomadic Merchant's Finery (Altered)"
+      ]
+    },
+    {
+      "ID": 111015,
+      "Entries": [
+        "[Alteration] Tree Sentinel Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111016,
+      "Entries": [
+        "[Alteration] Royal Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111017,
+      "Entries": [
+        "[Alteration] Nox Monk Hood (Altered)"
+      ]
+    },
+    {
+      "ID": 111018,
+      "Entries": [
+        "[Alteration] Nox Monk Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111019,
+      "Entries": [
+        "[Alteration] Nox Swordstress Crown (Altered)"
+      ]
+    },
+    {
+      "ID": 111020,
+      "Entries": [
+        "[Alteration] Nox Swordstress Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111021,
+      "Entries": [
+        "[Alteration] Gravekeeper Cloak (Altered)"
+      ]
+    },
+    {
+      "ID": 111022,
+      "Entries": [
+        "[Alteration] Cleanrot Helm (Altered)"
+      ]
+    },
+    {
+      "ID": 111023,
+      "Entries": [
+        "[Alteration] Cleanrot Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111024,
+      "Entries": [
+        "[Alteration] Depraved Perfumer Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111025,
+      "Entries": [
+        "[Alteration] All-Knowing Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111026,
+      "Entries": [
+        "[Alteration] Twinned Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111029,
+      "Entries": [
+        "[Alteration] Prophet Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111030,
+      "Entries": [
+        "[Alteration] Astrologer Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111031,
+      "Entries": [
+        "[Alteration] Lionel's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111032,
+      "Entries": [
+        "[Alteration] Hoslow's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111033,
+      "Entries": [
+        "[Alteration] Vagabond Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111034,
+      "Entries": [
+        "[Alteration] War Surgeon Gown (Altered)"
+      ]
+    },
+    {
+      "ID": 111036,
+      "Entries": [
+        "[Alteration] Veteran's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111037,
+      "Entries": [
+        "[Alteration] Bloodhound Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111038,
+      "Entries": [
+        "[Alteration] Festive Hood (Altered)"
+      ]
+    },
+    {
+      "ID": 111039,
+      "Entries": [
+        "[Alteration] Commoner's Garb (Altered)"
+      ]
+    },
+    {
+      "ID": 111040,
+      "Entries": [
+        "[Alteration] Commoner's Simple Garb (Altered)"
+      ]
+    },
+    {
+      "ID": 111041,
+      "Entries": [
+        "[Alteration] Raging Wolf Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111042,
+      "Entries": [
+        "[Alteration] Land of Reeds Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111043,
+      "Entries": [
+        "[Alteration] Confessor Hood (Altered)"
+      ]
+    },
+    {
+      "ID": 111044,
+      "Entries": [
+        "[Alteration] Confessor Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111045,
+      "Entries": [
+        "[Alteration] Finger Maiden Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111047,
+      "Entries": [
+        "[Alteration] Preceptor's Long Gown (Altered)"
+      ]
+    },
+    {
+      "ID": 111049,
+      "Entries": [
+        "[Alteration] Eccentric's Hood (Altered)"
+      ]
+    },
+    {
+      "ID": 111050,
+      "Entries": [
+        "[Alteration] Fingerprint Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111051,
+      "Entries": [
+        "[Alteration] Carian Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111052,
+      "Entries": [
+        "[Alteration] Errant Sorcerer Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111053,
+      "Entries": [
+        "[Alteration] Gelmir Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111054,
+      "Entries": [
+        "[Alteration] Godrick Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111055,
+      "Entries": [
+        "[Alteration] Cuckoo Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111056,
+      "Entries": [
+        "[Alteration] Leyndell Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111057,
+      "Entries": [
+        "[Alteration] Redmane Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111058,
+      "Entries": [
+        "[Alteration] Mausoleum Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111059,
+      "Entries": [
+        "[Alteration] Haligtree Knight Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111060,
+      "Entries": [
+        "[Alteration] High Page Clothes (Altered)"
+      ]
+    },
+    {
+      "ID": 111061,
+      "Entries": [
+        "[Alteration] Rotten Gravekeeper Cloak (Altered)"
+      ]
+    },
+    {
+      "ID": 111062,
+      "Entries": [
+        "[Alteration] Beast Champion Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111063,
+      "Entries": [
+        "[Alteration] Snow Witch Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111064,
+      "Entries": [
+        "[Alteration] Crucible Axe Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111065,
+      "Entries": [
+        "[Alteration] Crucible Tree Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111066,
+      "Entries": [
+        "[Alteration] Fia's Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111067,
+      "Entries": [
+        "[Alteration] Alberich's Pointed Hat (Altered)"
+      ]
+    },
+    {
+      "ID": 111068,
+      "Entries": [
+        "[Alteration] Alberich's Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111069,
+      "Entries": [
+        "[Alteration] Traveling Maiden Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111070,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111073,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111074,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111075,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111076,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111077,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111078,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111079,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111080,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111081,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111082,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111100,
+      "Entries": [
+        "[Alteration] Elden Lord Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111101,
+      "Entries": [
+        "[Alteration] Radahn's Lion Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111102,
+      "Entries": [
+        "[Alteration] Lord of Blood's Robe (Altered)"
+      ]
+    },
+    {
+      "ID": 111103,
+      "Entries": [
+        "[Alteration] Maliketh's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111104,
+      "Entries": [
+        "[Alteration] Malenia's Armor (Altered)"
+      ]
+    },
+    {
+      "ID": 111105,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111106,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111200,
+      "Entries": [
+        "[Reversion] Drake Knight Helm"
+      ]
+    },
+    {
+      "ID": 111201,
+      "Entries": [
+        "[Reversion] Drake Knight Armor"
+      ]
+    },
+    {
+      "ID": 111202,
+      "Entries": [
+        "[Reversion] Scaled Armor"
+      ]
+    },
+    {
+      "ID": 111203,
+      "Entries": [
+        "[Reversion] Perfumer Robe"
+      ]
+    },
+    {
+      "ID": 111204,
+      "Entries": [
+        "[Reversion] Perfumer's Traveling Garb"
+      ]
+    },
+    {
+      "ID": 111205,
+      "Entries": [
+        "[Reversion] Spellblade's Traveling Attire"
+      ]
+    },
+    {
+      "ID": 111206,
+      "Entries": [
+        "[Reversion] Ronin's Armor"
+      ]
+    },
+    {
+      "ID": 111207,
+      "Entries": [
+        "[Reversion] Blaidd's Armor"
+      ]
+    },
+    {
+      "ID": 111208,
+      "Entries": [
+        "[Reversion] Black Knife Armor"
+      ]
+    },
+    {
+      "ID": 111209,
+      "Entries": [
+        "[Reversion] Briar Armor"
+      ]
+    },
+    {
+      "ID": 111210,
+      "Entries": [
+        "[Reversion] Page Garb"
+      ]
+    },
+    {
+      "ID": 111211,
+      "Entries": [
+        "[Reversion] Night's Cavalry Helm"
+      ]
+    },
+    {
+      "ID": 111212,
+      "Entries": [
+        "[Reversion] Night's Cavalry Armor"
+      ]
+    },
+    {
+      "ID": 111213,
+      "Entries": [
+        "[Reversion] Blue Silver Mail Armor"
+      ]
+    },
+    {
+      "ID": 111214,
+      "Entries": [
+        "[Reversion] Nomadic Merchant's Finery"
+      ]
+    },
+    {
+      "ID": 111215,
+      "Entries": [
+        "[Reversion] Tree Sentinel Armor"
+      ]
+    },
+    {
+      "ID": 111216,
+      "Entries": [
+        "[Reversion] Royal Knight Armor"
+      ]
+    },
+    {
+      "ID": 111217,
+      "Entries": [
+        "[Reversion] Nox Monk Hood"
+      ]
+    },
+    {
+      "ID": 111218,
+      "Entries": [
+        "[Reversion] Nox Monk Armor"
+      ]
+    },
+    {
+      "ID": 111219,
+      "Entries": [
+        "[Reversion] Nox Swordstress Crown"
+      ]
+    },
+    {
+      "ID": 111220,
+      "Entries": [
+        "[Reversion] Nox Swordstress Armor"
+      ]
+    },
+    {
+      "ID": 111221,
+      "Entries": [
+        "[Reversion] Gravekeeper Cloak"
+      ]
+    },
+    {
+      "ID": 111222,
+      "Entries": [
+        "[Reversion] Cleanrot Helm"
+      ]
+    },
+    {
+      "ID": 111223,
+      "Entries": [
+        "[Reversion] Cleanrot Armor"
+      ]
+    },
+    {
+      "ID": 111224,
+      "Entries": [
+        "[Reversion] Depraved Perfumer Robe"
+      ]
+    },
+    {
+      "ID": 111225,
+      "Entries": [
+        "[Reversion] All-Knowing Armor"
+      ]
+    },
+    {
+      "ID": 111226,
+      "Entries": [
+        "[Reversion] Twinned Armor"
+      ]
+    },
+    {
+      "ID": 111229,
+      "Entries": [
+        "[Reversion] Prophet Robe"
+      ]
+    },
+    {
+      "ID": 111230,
+      "Entries": [
+        "[Reversion] Astrologer Robe"
+      ]
+    },
+    {
+      "ID": 111231,
+      "Entries": [
+        "[Reversion] Lionel's Armor"
+      ]
+    },
+    {
+      "ID": 111232,
+      "Entries": [
+        "[Reversion] Hoslow's Armor"
+      ]
+    },
+    {
+      "ID": 111233,
+      "Entries": [
+        "[Reversion] Vagabond Knight Armor"
+      ]
+    },
+    {
+      "ID": 111234,
+      "Entries": [
+        "[Reversion] War Surgeon Gown"
+      ]
+    },
+    {
+      "ID": 111236,
+      "Entries": [
+        "[Reversion] Veteran's Armor"
+      ]
+    },
+    {
+      "ID": 111237,
+      "Entries": [
+        "[Reversion] Bloodhound Knight Armor"
+      ]
+    },
+    {
+      "ID": 111238,
+      "Entries": [
+        "[Reversion] Festive Hood"
+      ]
+    },
+    {
+      "ID": 111239,
+      "Entries": [
+        "[Reversion] Commoner's Garb"
+      ]
+    },
+    {
+      "ID": 111240,
+      "Entries": [
+        "[Reversion] Commoner's Simple Garb"
+      ]
+    },
+    {
+      "ID": 111241,
+      "Entries": [
+        "[Reversion] Raging Wolf Armor"
+      ]
+    },
+    {
+      "ID": 111242,
+      "Entries": [
+        "[Reversion] Land of Reeds Armor"
+      ]
+    },
+    {
+      "ID": 111243,
+      "Entries": [
+        "[Reversion] Confessor Hood"
+      ]
+    },
+    {
+      "ID": 111244,
+      "Entries": [
+        "[Reversion] Confessor Armor"
+      ]
+    },
+    {
+      "ID": 111245,
+      "Entries": [
+        "[Reversion] Finger Maiden Robe"
+      ]
+    },
+    {
+      "ID": 111247,
+      "Entries": [
+        "[Reversion] Preceptor's Long Gown"
+      ]
+    },
+    {
+      "ID": 111249,
+      "Entries": [
+        "[Reversion] Eccentric's Hood"
+      ]
+    },
+    {
+      "ID": 111250,
+      "Entries": [
+        "[Reversion] Fingerprint Armor"
+      ]
+    },
+    {
+      "ID": 111251,
+      "Entries": [
+        "[Reversion] Carian Knight Armor"
+      ]
+    },
+    {
+      "ID": 111252,
+      "Entries": [
+        "[Reversion] Errant Sorcerer Robe"
+      ]
+    },
+    {
+      "ID": 111253,
+      "Entries": [
+        "[Reversion] Gelmir Knight Armor"
+      ]
+    },
+    {
+      "ID": 111254,
+      "Entries": [
+        "[Reversion] Godrick Knight Armor"
+      ]
+    },
+    {
+      "ID": 111255,
+      "Entries": [
+        "[Reversion] Cuckoo Knight Armor"
+      ]
+    },
+    {
+      "ID": 111256,
+      "Entries": [
+        "[Reversion] Leyndell Knight Armor"
+      ]
+    },
+    {
+      "ID": 111257,
+      "Entries": [
+        "[Reversion] Redmane Knight Armor"
+      ]
+    },
+    {
+      "ID": 111258,
+      "Entries": [
+        "[Reversion] Mausoleum Knight Armor"
+      ]
+    },
+    {
+      "ID": 111259,
+      "Entries": [
+        "[Reversion] Haligtree Knight Armor"
+      ]
+    },
+    {
+      "ID": 111260,
+      "Entries": [
+        "[Reversion] High Page Clothes"
+      ]
+    },
+    {
+      "ID": 111261,
+      "Entries": [
+        "[Reversion] Rotten Gravekeeper Cloak"
+      ]
+    },
+    {
+      "ID": 111262,
+      "Entries": [
+        "[Reversion] Beast Champion Armor"
+      ]
+    },
+    {
+      "ID": 111263,
+      "Entries": [
+        "[Reversion] Snow Witch Robe"
+      ]
+    },
+    {
+      "ID": 111264,
+      "Entries": [
+        "[Reversion] Crucible Axe Armor"
+      ]
+    },
+    {
+      "ID": 111265,
+      "Entries": [
+        "[Reversion] Crucible Tree Armor"
+      ]
+    },
+    {
+      "ID": 111266,
+      "Entries": [
+        "[Reversion] Fia's Robe"
+      ]
+    },
+    {
+      "ID": 111267,
+      "Entries": [
+        "[Reversion] Alberich's Pointed Hat"
+      ]
+    },
+    {
+      "ID": 111268,
+      "Entries": [
+        "[Reversion] Alberich's Robe"
+      ]
+    },
+    {
+      "ID": 111269,
+      "Entries": [
+        "[Reversion] Traveling Maiden Robe"
+      ]
+    },
+    {
+      "ID": 111270,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111273,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111274,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111275,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111276,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111277,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111278,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111279,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111280,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111281,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111282,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111300,
+      "Entries": [
+        "[Reversion] Elden Lord Armor"
+      ]
+    },
+    {
+      "ID": 111301,
+      "Entries": [
+        "[Reversion] Radahn's Lion Armor"
+      ]
+    },
+    {
+      "ID": 111302,
+      "Entries": [
+        "[Reversion] Lord of Blood's Robe"
+      ]
+    },
+    {
+      "ID": 111303,
+      "Entries": [
+        "[Reversion] Maliketh's Armor"
+      ]
+    },
+    {
+      "ID": 111304,
+      "Entries": [
+        "[Reversion] Malenia's Armor"
+      ]
+    },
+    {
+      "ID": 111305,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 111306,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 112000,
+      "Entries": [
+        "Ash of War: Impaling Thrust"
+      ]
+    },
+    {
+      "ID": 112001,
+      "Entries": [
+        "Ash of War: Piercing Fang"
+      ]
+    },
+    {
+      "ID": 112002,
+      "Entries": [
+        "Ash of War: Spinning Slash"
+      ]
+    },
+    {
+      "ID": 112003,
+      "Entries": [
+        "Ash of War: Repeating Thrust"
+      ]
+    },
+    {
+      "ID": 112004,
+      "Entries": [
+        "Ash of War: Double Slash"
+      ]
+    },
+    {
+      "ID": 112005,
+      "Entries": [
+        "Ash of War: Unsheathe"
+      ]
+    },
+    {
+      "ID": 112006,
+      "Entries": [
+        "Ash of War: Sword Dance"
+      ]
+    },
+    {
+      "ID": 112008,
+      "Entries": [
+        "Ash of War: Quickstep"
+      ]
+    },
+    {
+      "ID": 112009,
+      "Entries": [
+        "Ash of War: Bloodhound's Step"
+      ]
+    },
+    {
+      "ID": 112010,
+      "Entries": [
+        "Ash of War: Lion's Claw"
+      ]
+    },
+    {
+      "ID": 112011,
+      "Entries": [
+        "Ash of War: Stamp (Upward Cut)"
+      ]
+    },
+    {
+      "ID": 112012,
+      "Entries": [
+        "Ash of War: Stamp (Sweep)"
+      ]
+    },
+    {
+      "ID": 112013,
+      "Entries": [
+        "Ash of War: Wild Strikes"
+      ]
+    },
+    {
+      "ID": 112014,
+      "Entries": [
+        "Ash of War: Earthshaker"
+      ]
+    },
+    {
+      "ID": 112015,
+      "Entries": [
+        "Ash of War: Kick"
+      ]
+    },
+    {
+      "ID": 112016,
+      "Entries": [
+        "Ash of War: Ground Slam"
+      ]
+    },
+    {
+      "ID": 112017,
+      "Entries": [
+        "Ash of War: Hoarah Loux's Earthshaker"
+      ]
+    },
+    {
+      "ID": 112018,
+      "Entries": [
+        "Ash of War: Barbaric Roar"
+      ]
+    },
+    {
+      "ID": 112019,
+      "Entries": [
+        "Ash of War: War Cry"
+      ]
+    },
+    {
+      "ID": 112020,
+      "Entries": [
+        "Ash of War: Troll's Roar"
+      ]
+    },
+    {
+      "ID": 112021,
+      "Entries": [
+        "Ash of War: Braggart's Roar"
+      ]
+    },
+    {
+      "ID": 112022,
+      "Entries": [
+        "Ash of War: Endure"
+      ]
+    },
+    {
+      "ID": 112023,
+      "Entries": [
+        "Ash of War: Charge Forth"
+      ]
+    },
+    {
+      "ID": 112024,
+      "Entries": [
+        "Ash of War: Square Off"
+      ]
+    },
+    {
+      "ID": 112025,
+      "Entries": [
+        "Ash of War: Giant Hunt"
+      ]
+    },
+    {
+      "ID": 112026,
+      "Entries": [
+        "Ash of War: Spinning Strikes"
+      ]
+    },
+    {
+      "ID": 112027,
+      "Entries": [
+        "Ash of War: Storm Assault"
+      ]
+    },
+    {
+      "ID": 112028,
+      "Entries": [
+        "Ash of War: Stormcaller"
+      ]
+    },
+    {
+      "ID": 112029,
+      "Entries": [
+        "Ash of War: Storm Blade"
+      ]
+    },
+    {
+      "ID": 112030,
+      "Entries": [
+        "Ash of War: Vacuum Slice"
+      ]
+    },
+    {
+      "ID": 112031,
+      "Entries": [
+        "Ash of War: Storm Stomp"
+      ]
+    },
+    {
+      "ID": 112032,
+      "Entries": [
+        "Ash of War: Determination"
+      ]
+    },
+    {
+      "ID": 112033,
+      "Entries": [
+        "Ash of War: Royal Knight's Resolve"
+      ]
+    },
+    {
+      "ID": 112034,
+      "Entries": [
+        "Ash of War: Prelate's Charge"
+      ]
+    },
+    {
+      "ID": 112035,
+      "Entries": [
+        "Ash of War: Eruption"
+      ]
+    },
+    {
+      "ID": 112036,
+      "Entries": [
+        "Ash of War: Flaming Strike"
+      ]
+    },
+    {
+      "ID": 112037,
+      "Entries": [
+        "Ash of War: Black Flame Tornado"
+      ]
+    },
+    {
+      "ID": 112038,
+      "Entries": [
+        "Ash of War: Flame of the Redmanes"
+      ]
+    },
+    {
+      "ID": 112039,
+      "Entries": [
+        "Ash of War: Thunderbolt"
+      ]
+    },
+    {
+      "ID": 112040,
+      "Entries": [
+        "Ash of War: Lightning Slash"
+      ]
+    },
+    {
+      "ID": 112041,
+      "Entries": [
+        "Ash of War: Lightning Ram"
+      ]
+    },
+    {
+      "ID": 112042,
+      "Entries": [
+        "Ash of War: Loretta's Slash"
+      ]
+    },
+    {
+      "ID": 112043,
+      "Entries": [
+        "Ash of War: Spinning Weapon"
+      ]
+    },
+    {
+      "ID": 112044,
+      "Entries": [
+        "Ash of War: Glintblade Phalanx"
+      ]
+    },
+    {
+      "ID": 112045,
+      "Entries": [
+        "Ash of War: Glintstone Pebble"
+      ]
+    },
+    {
+      "ID": 112046,
+      "Entries": [
+        "Ash of War: Gravitas"
+      ]
+    },
+    {
+      "ID": 112047,
+      "Entries": [
+        "Ash of War: Carian Grandeur"
+      ]
+    },
+    {
+      "ID": 112048,
+      "Entries": [
+        "Ash of War: Carian Greatsword"
+      ]
+    },
+    {
+      "ID": 112049,
+      "Entries": [
+        "Ash of War: Waves of Darkness"
+      ]
+    },
+    {
+      "ID": 112050,
+      "Entries": [
+        "Ash of War: Cragblade"
+      ]
+    },
+    {
+      "ID": 112051,
+      "Entries": [
+        "Ash of War: Sacred Blade"
+      ]
+    },
+    {
+      "ID": 112052,
+      "Entries": [
+        "Ash of War: Prayerful Strike"
+      ]
+    },
+    {
+      "ID": 112053,
+      "Entries": [
+        "Ash of War: Golden Land"
+      ]
+    },
+    {
+      "ID": 112054,
+      "Entries": [
+        "Ash of War: Sacred Ring of Light"
+      ]
+    },
+    {
+      "ID": 112055,
+      "Entries": [
+        "Ash of War: Golden Slam"
+      ]
+    },
+    {
+      "ID": 112056,
+      "Entries": [
+        "Ash of War: Golden Vow"
+      ]
+    },
+    {
+      "ID": 112057,
+      "Entries": [
+        "Ash of War: Sacred Order"
+      ]
+    },
+    {
+      "ID": 112058,
+      "Entries": [
+        "Ash of War: Shared Order"
+      ]
+    },
+    {
+      "ID": 112059,
+      "Entries": [
+        "Ash of War: Beast's Roar"
+      ]
+    },
+    {
+      "ID": 112060,
+      "Entries": [
+        "Ash of War: Phantom Slash"
+      ]
+    },
+    {
+      "ID": 112061,
+      "Entries": [
+        "Ash of War: Spectral Lance"
+      ]
+    },
+    {
+      "ID": 112062,
+      "Entries": [
+        "Ash of War: Raptor of the Mists"
+      ]
+    },
+    {
+      "ID": 112063,
+      "Entries": [
+        "Ash of War: White Shadow's Lure"
+      ]
+    },
+    {
+      "ID": 112064,
+      "Entries": [
+        "Ash of War: Poison Moth Flight"
+      ]
+    },
+    {
+      "ID": 112065,
+      "Entries": [
+        "Ash of War: Poisonous Mist"
+      ]
+    },
+    {
+      "ID": 112066,
+      "Entries": [
+        "Ash of War: Blood Tax"
+      ]
+    },
+    {
+      "ID": 112067,
+      "Entries": [
+        "Ash of War: Bloody Slash"
+      ]
+    },
+    {
+      "ID": 112068,
+      "Entries": [
+        "Ash of War: Lifesteal Fist"
+      ]
+    },
+    {
+      "ID": 112069,
+      "Entries": [
+        "Ash of War: Blood Blade"
+      ]
+    },
+    {
+      "ID": 112070,
+      "Entries": [
+        "Ash of War: Assassin's Gambit"
+      ]
+    },
+    {
+      "ID": 112071,
+      "Entries": [
+        "Ash of War: Seppuku"
+      ]
+    },
+    {
+      "ID": 112072,
+      "Entries": [
+        "Ash of War: Ice Spear"
+      ]
+    },
+    {
+      "ID": 112073,
+      "Entries": [
+        "Ash of War: Chilling Mist"
+      ]
+    },
+    {
+      "ID": 112074,
+      "Entries": [
+        "Ash of War: Hoarfrost Stomp"
+      ]
+    },
+    {
+      "ID": 112075,
+      "Entries": [
+        "Ash of War: No Skill"
+      ]
+    },
+    {
+      "ID": 112076,
+      "Entries": [
+        "Ash of War: Shield Bash"
+      ]
+    },
+    {
+      "ID": 112077,
+      "Entries": [
+        "Ash of War: Shield Crash"
+      ]
+    },
+    {
+      "ID": 112078,
+      "Entries": [
+        "Ash of War: Barricade Shield"
+      ]
+    },
+    {
+      "ID": 112079,
+      "Entries": [
+        "Ash of War: Parry"
+      ]
+    },
+    {
+      "ID": 112080,
+      "Entries": [
+        "Ash of War: Carian Retaliation"
+      ]
+    },
+    {
+      "ID": 112081,
+      "Entries": [
+        "Ash of War: Storm Wall"
+      ]
+    },
+    {
+      "ID": 112082,
+      "Entries": [
+        "Ash of War: Golden Parry"
+      ]
+    },
+    {
+      "ID": 112083,
+      "Entries": [
+        "Ash of War: Thops's Barrier"
+      ]
+    },
+    {
+      "ID": 112084,
+      "Entries": [
+        "Ash of War: Holy Ground"
+      ]
+    },
+    {
+      "ID": 112085,
+      "Entries": [
+        "Ash of War: Vow of the Indomitable"
+      ]
+    },
+    {
+      "ID": 112086,
+      "Entries": [
+        "Ash of War: Barrage"
+      ]
+    },
+    {
+      "ID": 112087,
+      "Entries": [
+        "Ash of War: Mighty Shot"
+      ]
+    },
+    {
+      "ID": 112088,
+      "Entries": [
+        "Ash of War: Sky Shot"
+      ]
+    },
+    {
+      "ID": 112089,
+      "Entries": [
+        "Ash of War: Through and Through"
+      ]
+    },
+    {
+      "ID": 112090,
+      "Entries": [
+        "Ash of War: Enchanted Shot"
+      ]
+    },
+    {
+      "ID": 112091,
+      "Entries": [
+        "Ash of War: Rain of Arrows"
+      ]
+    },
+    {
+      "ID": 112100,
+      "Entries": [
+        "Ash of War: Dryleaf Whirlwind"
+      ]
+    },
+    {
+      "ID": 112101,
+      "Entries": [
+        "Ash of War: Aspects of the Crucible: Wings"
+      ]
+    },
+    {
+      "ID": 112102,
+      "Entries": [
+        "Ash of War: Spinning Gravity Thrust"
+      ]
+    },
+    {
+      "ID": 112103,
+      "Entries": [
+        "Ash of War: Palm Blast"
+      ]
+    },
+    {
+      "ID": 112104,
+      "Entries": [
+        "Ash of War: Piercing Throw"
+      ]
+    },
+    {
+      "ID": 112105,
+      "Entries": [
+        "Ash of War: Scattershot Throw"
+      ]
+    },
+    {
+      "ID": 112106,
+      "Entries": [
+        "Ash of War: Wall of Sparks"
+      ]
+    },
+    {
+      "ID": 112107,
+      "Entries": [
+        "Ash of War: Rolling Sparks"
+      ]
+    },
+    {
+      "ID": 112108,
+      "Entries": [
+        "Ash of War: Raging Beast"
+      ]
+    },
+    {
+      "ID": 112109,
+      "Entries": [
+        "Ash of War: Savage Claws"
+      ]
+    },
+    {
+      "ID": 112110,
+      "Entries": [
+        "Ash of War: Blind Spot"
+      ]
+    },
+    {
+      "ID": 112111,
+      "Entries": [
+        "Ash of War: Swift Slash"
+      ]
+    },
+    {
+      "ID": 112112,
+      "Entries": [
+        "Ash of War: Overhead Stance"
+      ]
+    },
+    {
+      "ID": 112113,
+      "Entries": [
+        "Ash of War: Wing Stance"
+      ]
+    },
+    {
+      "ID": 112114,
+      "Entries": [
+        "Ash of War: Blinkbolt"
+      ]
+    },
+    {
+      "ID": 112115,
+      "Entries": [
+        "Ash of War: Flame Skewer"
+      ]
+    },
+    {
+      "ID": 112116,
+      "Entries": [
+        "Ash of War: Savage Lion's Claw"
+      ]
+    },
+    {
+      "ID": 112117,
+      "Entries": [
+        "Ash of War: Divine Beast Frost Stomp"
+      ]
+    },
+    {
+      "ID": 112118,
+      "Entries": [
+        "Ash of War: Flame Spear"
+      ]
+    },
+    {
+      "ID": 112119,
+      "Entries": [
+        "Ash of War: Carian Sovereignty"
+      ]
+    },
+    {
+      "ID": 112120,
+      "Entries": [
+        "Ash of War: Shriek of Sorrow"
+      ]
+    },
+    {
+      "ID": 112121,
+      "Entries": [
+        "Ash of War: Ghostflame Call"
+      ]
+    },
+    {
+      "ID": 112122,
+      "Entries": [
+        "Ash of War: The Poison Flower Blooms Twice"
+      ]
+    },
+    {
+      "ID": 112123,
+      "Entries": [
+        "Ash of War: Igon's Drake Hunt"
+      ]
+    },
+    {
+      "ID": 112124,
+      "Entries": [
+        "Ash of War: Shield Strike"
+      ]
+    },
+    {
+      "ID": 6000000,
+      "Entries": [
+        "[Kale - DLC Weapons] Velvet Sword of St. Trina"
+      ]
+    },
+    {
+      "ID": 6000001,
+      "Entries": [
+        "[Kale - DLC Weapons] Star-Lined Sword"
+      ]
+    },
+    {
+      "ID": 6000002,
+      "Entries": [
+        "[Kale - DLC Weapons] Carian Sorcery Sword"
+      ]
+    },
+    {
+      "ID": 6000003,
+      "Entries": [
+        "[Kale - DLC Weapons] Stone-Sheathed Sword"
+      ]
+    },
+    {
+      "ID": 6000004,
+      "Entries": [
+        "[Kale - DLC Weapons] Sword of Light"
+      ]
+    },
+    {
+      "ID": 6000005,
+      "Entries": [
+        "[Kale - DLC Weapons] Sword of Darkness"
+      ]
+    },
+    {
+      "ID": 6000007,
+      "Entries": [
+        "[Kale - DLC Weapons] Leda's Sword"
+      ]
+    },
+    {
+      "ID": 6000008,
+      "Entries": [
+        "[Kale - DLC Weapons] Rellana's Twin Blades"
+      ]
+    },
+    {
+      "ID": 6000009,
+      "Entries": [
+        "[Kale - DLC Weapons] Sword Lance"
+      ]
+    },
+    {
+      "ID": 6000010,
+      "Entries": [
+        "[Kale - DLC Weapons] Greatsword of Damnation"
+      ]
+    },
+    {
+      "ID": 6000011,
+      "Entries": [
+        "[Kale - DLC Weapons] Lizard Greatsword"
+      ]
+    },
+    {
+      "ID": 6000012,
+      "Entries": [
+        "[Kale - DLC Weapons] Greatsword of Solitude"
+      ]
+    },
+    {
+      "ID": 6000013,
+      "Entries": [
+        "[Kale - DLC Weapons] Ancient Meteoric Ore Greatsword"
+      ]
+    },
+    {
+      "ID": 6000014,
+      "Entries": [
+        "[Kale - DLC Weapons] Fire Knight's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000015,
+      "Entries": [
+        "[Kale - DLC Weapons] Greatsword of Radahn (Lord)"
+      ]
+    },
+    {
+      "ID": 6000016,
+      "Entries": [
+        "[Kale - DLC Weapons] Moonrithyll's Knight Sword"
+      ]
+    },
+    {
+      "ID": 6000017,
+      "Entries": [
+        "[Kale - DLC Weapons] Greatsword of Radahn (Light)"
+      ]
+    },
+    {
+      "ID": 6000018,
+      "Entries": [
+        "[Kale - DLC Weapons] Queelign's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000019,
+      "Entries": [
+        "[Kale - DLC Weapons] Spirit Sword"
+      ]
+    },
+    {
+      "ID": 6000020,
+      "Entries": [
+        "[Kale - DLC Weapons] Falx"
+      ]
+    },
+    {
+      "ID": 6000021,
+      "Entries": [
+        "[Kale - DLC Weapons] Dancing Blade of Ranah"
+      ]
+    },
+    {
+      "ID": 6000022,
+      "Entries": [
+        "[Kale - DLC Weapons] Horned Warrior's Sword"
+      ]
+    },
+    {
+      "ID": 6000023,
+      "Entries": [
+        "[Kale - DLC Weapons] Putrescence Cleaver"
+      ]
+    },
+    {
+      "ID": 6000024,
+      "Entries": [
+        "[Kale - DLC Weapons] Freyja's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000025,
+      "Entries": [
+        "[Kale - DLC Weapons] Horned Warrior's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000026,
+      "Entries": [
+        "[Kale - DLC Weapons] Sword of Night"
+      ]
+    },
+    {
+      "ID": 6000028,
+      "Entries": [
+        "[Kale - DLC Weapons] Dragon-Hunter's Great Katana"
+      ]
+    },
+    {
+      "ID": 6000029,
+      "Entries": [
+        "[Kale - DLC Weapons] Rakshasa's Great Katana"
+      ]
+    },
+    {
+      "ID": 6000030,
+      "Entries": [
+        "[Kale - DLC Weapons] Euporia"
+      ]
+    },
+    {
+      "ID": 6000031,
+      "Entries": [
+        "[Kale - DLC Weapons] Black Steel Twinblade"
+      ]
+    },
+    {
+      "ID": 6000033,
+      "Entries": [
+        "[Kale - DLC Weapons] Smithscript Cirque"
+      ]
+    },
+    {
+      "ID": 6000034,
+      "Entries": [
+        "[Kale - DLC Weapons] Curseblade's Cirque"
+      ]
+    },
+    {
+      "ID": 6000035,
+      "Entries": [
+        "[Kale - DLC Weapons] Flowerstone Gavel"
+      ]
+    },
+    {
+      "ID": 6000036,
+      "Entries": [
+        "[Kale - DLC Weapons] Smithscript Greathammer"
+      ]
+    },
+    {
+      "ID": 6000037,
+      "Entries": [
+        "[Kale - DLC Weapons] Anvil Hammer"
+      ]
+    },
+    {
+      "ID": 6000038,
+      "Entries": [
+        "[Kale - DLC Weapons] Black Steel Greathammer"
+      ]
+    },
+    {
+      "ID": 6000039,
+      "Entries": [
+        "[Kale - DLC Weapons] Bloodfiend's Arm"
+      ]
+    },
+    {
+      "ID": 6000040,
+      "Entries": [
+        "[Kale - DLC Weapons] Serpent Flail"
+      ]
+    },
+    {
+      "ID": 6000041,
+      "Entries": [
+        "[Kale - DLC Weapons] Smithscript Axe"
+      ]
+    },
+    {
+      "ID": 6000042,
+      "Entries": [
+        "[Kale - DLC Weapons] Death Knight's Twin Axes"
+      ]
+    },
+    {
+      "ID": 6000043,
+      "Entries": [
+        "[Kale - DLC Weapons] Messmer Soldier's Axe"
+      ]
+    },
+    {
+      "ID": 6000044,
+      "Entries": [
+        "[Kale - DLC Weapons] Forked-Tongue Hatchet"
+      ]
+    },
+    {
+      "ID": 6000045,
+      "Entries": [
+        "[Kale - DLC Weapons] Death Knight's Longhaft Axe"
+      ]
+    },
+    {
+      "ID": 6000046,
+      "Entries": [
+        "[Kale - DLC Weapons] Bonny Butchering Knife"
+      ]
+    },
+    {
+      "ID": 6000047,
+      "Entries": [
+        "[Kale - DLC Weapons] Devonia's Hammer"
+      ]
+    },
+    {
+      "ID": 6000048,
+      "Entries": [
+        "[Kale - DLC Weapons] Shadow Sunflower Blossom"
+      ]
+    },
+    {
+      "ID": 6000049,
+      "Entries": [
+        "[Kale - DLC Weapons] Gazing Finger"
+      ]
+    },
+    {
+      "ID": 6000050,
+      "Entries": [
+        "[Kale - DLC Weapons] Smithscript Spear"
+      ]
+    },
+    {
+      "ID": 6000051,
+      "Entries": [
+        "[Kale - DLC Weapons] Swift Spear"
+      ]
+    },
+    {
+      "ID": 6000052,
+      "Entries": [
+        "[Kale - DLC Weapons] Bloodfiend's Fork"
+      ]
+    },
+    {
+      "ID": 6000053,
+      "Entries": [
+        "[Kale - DLC Weapons] Bloodfiend's Sacred Spear"
+      ]
+    },
+    {
+      "ID": 6000054,
+      "Entries": [
+        "[Kale - DLC Weapons] Spear of the Impaler"
+      ]
+    },
+    {
+      "ID": 6000055,
+      "Entries": [
+        "[Kale - DLC Weapons] Messmer Soldier's Spear"
+      ]
+    },
+    {
+      "ID": 6000056,
+      "Entries": [
+        "[Kale - DLC Weapons] Barbed Staff-Spear"
+      ]
+    },
+    {
+      "ID": 6000057,
+      "Entries": [
+        "[Kale - DLC Weapons] Spirit Glaive"
+      ]
+    },
+    {
+      "ID": 6000058,
+      "Entries": [
+        "[Kale - DLC Weapons] Poleblade of the Bud"
+      ]
+    },
+    {
+      "ID": 6000059,
+      "Entries": [
+        "[Kale - DLC Weapons] Obsidian Lamina"
+      ]
+    },
+    {
+      "ID": 6000060,
+      "Entries": [
+        "[Kale - DLC Weapons] Main-gauche"
+      ]
+    },
+    {
+      "ID": 6000061,
+      "Entries": [
+        "[Kale - DLC Weapons] Fire Knight's Shortsword"
+      ]
+    },
+    {
+      "ID": 6000062,
+      "Entries": [
+        "[Kale - DLC Weapons] Tooth Whip"
+      ]
+    },
+    {
+      "ID": 6000063,
+      "Entries": [
+        "[Kale - DLC Weapons] Thiollier's Hidden Needle"
+      ]
+    },
+    {
+      "ID": 6000064,
+      "Entries": [
+        "[Kale - DLC Weapons] Pata"
+      ]
+    },
+    {
+      "ID": 6000065,
+      "Entries": [
+        "[Kale - DLC Weapons] Poisoned Hand"
+      ]
+    },
+    {
+      "ID": 6000066,
+      "Entries": [
+        "[Kale - DLC Weapons] Madding Hand"
+      ]
+    },
+    {
+      "ID": 6000067,
+      "Entries": [
+        "[Kale - DLC Weapons] Golem Fist"
+      ]
+    },
+    {
+      "ID": 6000068,
+      "Entries": [
+        "[Kale - DLC Weapons] Claws of Night"
+      ]
+    },
+    {
+      "ID": 6000071,
+      "Entries": [
+        "[Kale - DLC Weapons] Red Bear's Claw"
+      ]
+    },
+    {
+      "ID": 6000073,
+      "Entries": [
+        "[Kale - DLC Weapons] Dane's Footwork"
+      ]
+    },
+    {
+      "ID": 6000075,
+      "Entries": [
+        "[Kale - DLC Weapons] Chilling Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 6000076,
+      "Entries": [
+        "[Kale - DLC Weapons] Frenzyflame Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 6000079,
+      "Entries": [
+        "[Kale - DLC Weapons] Nanaya's Torch"
+      ]
+    },
+    {
+      "ID": 6000080,
+      "Entries": [
+        "[Kale - DLC Weapons] Lamenting Visage"
+      ]
+    },
+    {
+      "ID": 6000081,
+      "Entries": [
+        "[Kale - DLC Weapons] Shield of Night"
+      ]
+    },
+    {
+      "ID": 6000082,
+      "Entries": [
+        "[Kale - DLC Weapons] Smithscript Shield"
+      ]
+    },
+    {
+      "ID": 6000084,
+      "Entries": [
+        "[Kale - DLC Weapons] Messmer Soldier Shield"
+      ]
+    },
+    {
+      "ID": 6000085,
+      "Entries": [
+        "[Kale - DLC Weapons] Wolf Crest Shield"
+      ]
+    },
+    {
+      "ID": 6000086,
+      "Entries": [
+        "[Kale - DLC Weapons] Serpent Crest Shield"
+      ]
+    },
+    {
+      "ID": 6000087,
+      "Entries": [
+        "[Kale - DLC Weapons] Golden Lion Shield"
+      ]
+    },
+    {
+      "ID": 6000088,
+      "Entries": [
+        "[Kale - DLC Weapons] Black Steel Greatshield"
+      ]
+    },
+    {
+      "ID": 6000089,
+      "Entries": [
+        "[Kale - DLC Weapons] Verdigris Greatshield"
+      ]
+    },
+    {
+      "ID": 6000091,
+      "Entries": [
+        "[Kale - DLC Weapons] Carian Thrusting Shield"
+      ]
+    },
+    {
+      "ID": 6000092,
+      "Entries": [
+        "[Kale - DLC Weapons] Staff of the Great Beyond"
+      ]
+    },
+    {
+      "ID": 6000093,
+      "Entries": [
+        "[Kale - DLC Weapons] Maternal Staff"
+      ]
+    },
+    {
+      "ID": 6000094,
+      "Entries": [
+        "[Kale - DLC Weapons] Dryleaf Seal"
+      ]
+    },
+    {
+      "ID": 6000095,
+      "Entries": [
+        "[Kale - DLC Weapons] Fire Knight's Seal"
+      ]
+    },
+    {
+      "ID": 6000096,
+      "Entries": [
+        "[Kale - DLC Weapons] Spiraltree Seal"
+      ]
+    },
+    {
+      "ID": 6000097,
+      "Entries": [
+        "[Kale - DLC Weapons] Bone Bow"
+      ]
+    },
+    {
+      "ID": 6000098,
+      "Entries": [
+        "[Kale - DLC Weapons] Ansbach's Longbow"
+      ]
+    },
+    {
+      "ID": 6000099,
+      "Entries": [
+        "[Kale - DLC Weapons] Igon's Greatbow"
+      ]
+    },
+    {
+      "ID": 6000100,
+      "Entries": [
+        "[Kale - DLC Weapons] Repeating Crossbow"
+      ]
+    },
+    {
+      "ID": 6000101,
+      "Entries": [
+        "[Kale - DLC Weapons] Spread Crossbow"
+      ]
+    },
+    {
+      "ID": 6000102,
+      "Entries": [
+        "[Kale - DLC Weapons] Rabbath's Cannon"
+      ]
+    },
+    {
+      "ID": 6000103,
+      "Entries": [
+        "[Merchant Kale - Weapons] Weathered Straight Sword"
+      ]
+    },
+    {
+      "ID": 6000104,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ornamental Straight Sword"
+      ]
+    },
+    {
+      "ID": 6000105,
+      "Entries": [
+        "[Merchant Kale - Weapons] Golden Epitaph"
+      ]
+    },
+    {
+      "ID": 6000106,
+      "Entries": [
+        "[Merchant Kale - Weapons] Inseparable Sword"
+      ]
+    },
+    {
+      "ID": 6000107,
+      "Entries": [
+        "[Merchant Kale - Weapons] Coded Sword"
+      ]
+    },
+    {
+      "ID": 6000108,
+      "Entries": [
+        "[Merchant Kale - Weapons] Sword of Night and Flame"
+      ]
+    },
+    {
+      "ID": 6000109,
+      "Entries": [
+        "[Merchant Kale - Weapons] Crystal Sword"
+      ]
+    },
+    {
+      "ID": 6000110,
+      "Entries": [
+        "[Merchant Kale - Weapons] Carian Knight's Sword"
+      ]
+    },
+    {
+      "ID": 6000111,
+      "Entries": [
+        "[Merchant Kale - Weapons] Sword of St. Trina"
+      ]
+    },
+    {
+      "ID": 6000112,
+      "Entries": [
+        "[Merchant Kale - Weapons] Miquellan Knight's Sword"
+      ]
+    },
+    {
+      "ID": 6000113,
+      "Entries": [
+        "[Merchant Kale - Weapons] Cane Sword"
+      ]
+    },
+    {
+      "ID": 6000115,
+      "Entries": [
+        "[Merchant Kale - Weapons] Noble's Slender Sword"
+      ]
+    },
+    {
+      "ID": 6000116,
+      "Entries": [
+        "[Merchant Kale - Weapons] Warhawk's Talon"
+      ]
+    },
+    {
+      "ID": 6000117,
+      "Entries": [
+        "[Merchant Kale - Weapons] Lazuli Glintstone Sword"
+      ]
+    },
+    {
+      "ID": 6000118,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rotten Crystal Sword"
+      ]
+    },
+    {
+      "ID": 6000120,
+      "Entries": [
+        "[Merchant Kale - Weapons] Forked Greatsword"
+      ]
+    },
+    {
+      "ID": 6000121,
+      "Entries": [
+        "[Merchant Kale - Weapons] Iron Greatsword"
+      ]
+    },
+    {
+      "ID": 6000122,
+      "Entries": [
+        "[Merchant Kale - Weapons] Lordsworn's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000123,
+      "Entries": [
+        "[Merchant Kale - Weapons] Knight's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000124,
+      "Entries": [
+        "[Merchant Kale - Weapons] Flamberge"
+      ]
+    },
+    {
+      "ID": 6000125,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ordovis's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000126,
+      "Entries": [
+        "[Merchant Kale - Weapons] Alabaster Lord's Sword"
+      ]
+    },
+    {
+      "ID": 6000127,
+      "Entries": [
+        "[Merchant Kale - Weapons] Banished Knight's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000128,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dark Moon Greatsword"
+      ]
+    },
+    {
+      "ID": 6000129,
+      "Entries": [
+        "[Merchant Kale - Weapons] Sacred Relic Sword"
+      ]
+    },
+    {
+      "ID": 6000130,
+      "Entries": [
+        "[Merchant Kale - Weapons] Helphen's Steeple"
+      ]
+    },
+    {
+      "ID": 6000131,
+      "Entries": [
+        "[Merchant Kale - Weapons] Blasphemous Blade"
+      ]
+    },
+    {
+      "ID": 6000132,
+      "Entries": [
+        "[Merchant Kale - Weapons] Marais Executioner's Sword"
+      ]
+    },
+    {
+      "ID": 6000133,
+      "Entries": [
+        "[Merchant Kale - Weapons] Sword of Milos"
+      ]
+    },
+    {
+      "ID": 6000134,
+      "Entries": [
+        "[Merchant Kale - Weapons] Golden Order Greatsword"
+      ]
+    },
+    {
+      "ID": 6000135,
+      "Entries": [
+        "[Merchant Kale - Weapons] Claymore"
+      ]
+    },
+    {
+      "ID": 6000136,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gargoyle's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000137,
+      "Entries": [
+        "[Merchant Kale - Weapons] Death's Poker"
+      ]
+    },
+    {
+      "ID": 6000138,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gargoyle's Blackblade"
+      ]
+    },
+    {
+      "ID": 6000139,
+      "Entries": [
+        "[Merchant Kale - Weapons] Greatsword"
+      ]
+    },
+    {
+      "ID": 6000140,
+      "Entries": [
+        "[Merchant Kale - Weapons] Watchdog's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000141,
+      "Entries": [
+        "[Merchant Kale - Weapons] Maliketh's Black Blade"
+      ]
+    },
+    {
+      "ID": 6000142,
+      "Entries": [
+        "[Merchant Kale - Weapons] Troll's Golden Sword"
+      ]
+    },
+    {
+      "ID": 6000144,
+      "Entries": [
+        "[Merchant Kale - Weapons] Starscourge Greatsword"
+      ]
+    },
+    {
+      "ID": 6000145,
+      "Entries": [
+        "[Merchant Kale - Weapons] Royal Greatsword"
+      ]
+    },
+    {
+      "ID": 6000146,
+      "Entries": [
+        "[Merchant Kale - Weapons] Godslayer's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000147,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ruins Greatsword"
+      ]
+    },
+    {
+      "ID": 6000148,
+      "Entries": [
+        "[Merchant Kale - Weapons] Grafted Blade Greatsword"
+      ]
+    },
+    {
+      "ID": 6000149,
+      "Entries": [
+        "[Merchant Kale - Weapons] Troll Knight's Sword"
+      ]
+    },
+    {
+      "ID": 6000151,
+      "Entries": [
+        "[Merchant Kale - Weapons] Cleanrot Knight's Sword"
+      ]
+    },
+    {
+      "ID": 6000153,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rogier's Rapier"
+      ]
+    },
+    {
+      "ID": 6000154,
+      "Entries": [
+        "[Merchant Kale - Weapons] Antspur Rapier"
+      ]
+    },
+    {
+      "ID": 6000155,
+      "Entries": [
+        "[Merchant Kale - Weapons] Frozen Needle"
+      ]
+    },
+    {
+      "ID": 6000156,
+      "Entries": [
+        "[Merchant Kale - Weapons] Noble's Estoc"
+      ]
+    },
+    {
+      "ID": 6000157,
+      "Entries": [
+        "[Merchant Kale - Weapons] Bloody Helice"
+      ]
+    },
+    {
+      "ID": 6000158,
+      "Entries": [
+        "[Merchant Kale - Weapons] Godskin Stitcher"
+      ]
+    },
+    {
+      "ID": 6000159,
+      "Entries": [
+        "[Merchant Kale - Weapons] Great epee"
+      ]
+    },
+    {
+      "ID": 6000160,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dragon King's Cragblade"
+      ]
+    },
+    {
+      "ID": 6000161,
+      "Entries": [
+        "[Merchant Kale - Weapons] Regalia of Eochaid"
+      ]
+    },
+    {
+      "ID": 6000199,
+      "Entries": [
+        "[Merchant Kale - Weapons] Nox Flowing Sword"
+      ]
+    },
+    {
+      "ID": 6000200,
+      "Entries": [
+        "[Merchant Kale - Weapons] Falchion"
+      ]
+    },
+    {
+      "ID": 6000201,
+      "Entries": [
+        "[Merchant Kale - Weapons] Beastman's Curved Sword"
+      ]
+    },
+    {
+      "ID": 6000203,
+      "Entries": [
+        "[Merchant Kale - Weapons] Shamshir"
+      ]
+    },
+    {
+      "ID": 6000204,
+      "Entries": [
+        "[Merchant Kale - Weapons] Bandit's Curved Sword"
+      ]
+    },
+    {
+      "ID": 6000205,
+      "Entries": [
+        "[Merchant Kale - Weapons] Magma Blade"
+      ]
+    },
+    {
+      "ID": 6000206,
+      "Entries": [
+        "[Merchant Kale - Weapons] Flowing Curved Sword"
+      ]
+    },
+    {
+      "ID": 6000207,
+      "Entries": [
+        "[Merchant Kale - Weapons] Wing of Astel"
+      ]
+    },
+    {
+      "ID": 6000208,
+      "Entries": [
+        "[Merchant Kale - Weapons] Scavenger's Curved Sword"
+      ]
+    },
+    {
+      "ID": 6000209,
+      "Entries": [
+        "[Merchant Kale - Weapons] Eclipse Shotel"
+      ]
+    },
+    {
+      "ID": 6000210,
+      "Entries": [
+        "[Merchant Kale - Weapons] Serpent-God's Curved Sword"
+      ]
+    },
+    {
+      "ID": 6000211,
+      "Entries": [
+        "[Merchant Kale - Weapons] Mantis Blade"
+      ]
+    },
+    {
+      "ID": 6000213,
+      "Entries": [
+        "[Merchant Kale - Weapons] Grossmesser"
+      ]
+    },
+    {
+      "ID": 6000214,
+      "Entries": [
+        "[Merchant Kale - Weapons] Onyx Lord's Greatsword"
+      ]
+    },
+    {
+      "ID": 6000215,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dismounter"
+      ]
+    },
+    {
+      "ID": 6000216,
+      "Entries": [
+        "[Merchant Kale - Weapons] Bloodhound's Fang"
+      ]
+    },
+    {
+      "ID": 6000217,
+      "Entries": [
+        "[Merchant Kale - Weapons] Magma Wyrm's Scalesword"
+      ]
+    },
+    {
+      "ID": 6000218,
+      "Entries": [
+        "[Merchant Kale - Weapons] Zamor Curved Sword"
+      ]
+    },
+    {
+      "ID": 6000220,
+      "Entries": [
+        "[Merchant Kale - Weapons] Monk's Flameblade"
+      ]
+    },
+    {
+      "ID": 6000221,
+      "Entries": [
+        "[Merchant Kale - Weapons] Beastman's Cleaver"
+      ]
+    },
+    {
+      "ID": 6000222,
+      "Entries": [
+        "[Merchant Kale - Weapons] Morgott's Cursed Sword"
+      ]
+    },
+    {
+      "ID": 6000224,
+      "Entries": [
+        "[Merchant Kale - Weapons] Nagakiba"
+      ]
+    },
+    {
+      "ID": 6000225,
+      "Entries": [
+        "[Merchant Kale - Weapons] Hand of Malenia"
+      ]
+    },
+    {
+      "ID": 6000226,
+      "Entries": [
+        "[Merchant Kale - Weapons] Meteoric Ore Blade"
+      ]
+    },
+    {
+      "ID": 6000227,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rivers of Blood"
+      ]
+    },
+    {
+      "ID": 6000228,
+      "Entries": [
+        "[Merchant Kale - Weapons] Moonveil"
+      ]
+    },
+    {
+      "ID": 6000229,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dragonscale Blade"
+      ]
+    },
+    {
+      "ID": 6000230,
+      "Entries": [
+        "[Merchant Kale - Weapons] Serpentbone Blade"
+      ]
+    },
+    {
+      "ID": 6000231,
+      "Entries": [
+        "[Merchant Kale - Weapons] Twinblade"
+      ]
+    },
+    {
+      "ID": 6000232,
+      "Entries": [
+        "[Merchant Kale - Weapons] Godskin Peeler"
+      ]
+    },
+    {
+      "ID": 6000233,
+      "Entries": [
+        "[Merchant Kale - Weapons] Twinned Knight Swords"
+      ]
+    },
+    {
+      "ID": 6000234,
+      "Entries": [
+        "[Merchant Kale - Weapons] Eleonora's Poleblade"
+      ]
+    },
+    {
+      "ID": 6000235,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gargoyle's Twinblade"
+      ]
+    },
+    {
+      "ID": 6000236,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gargoyle's Black Blades"
+      ]
+    },
+    {
+      "ID": 6000301,
+      "Entries": [
+        "[Merchant Kale - Weapons] Curved Club"
+      ]
+    },
+    {
+      "ID": 6000303,
+      "Entries": [
+        "[Merchant Kale - Weapons] Morning Star"
+      ]
+    },
+    {
+      "ID": 6000304,
+      "Entries": [
+        "[Merchant Kale - Weapons] Varre's Bouquet"
+      ]
+    },
+    {
+      "ID": 6000307,
+      "Entries": [
+        "[Merchant Kale - Weapons] Monk's Flamemace"
+      ]
+    },
+    {
+      "ID": 6000308,
+      "Entries": [
+        "[Merchant Kale - Weapons] Envoy's Horn"
+      ]
+    },
+    {
+      "ID": 6000309,
+      "Entries": [
+        "[Merchant Kale - Weapons] Scepter of the All-Knowing"
+      ]
+    },
+    {
+      "ID": 6000310,
+      "Entries": [
+        "[Merchant Kale - Weapons] Nox Flowing Hammer"
+      ]
+    },
+    {
+      "ID": 6000311,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ringed Finger"
+      ]
+    },
+    {
+      "ID": 6000312,
+      "Entries": [
+        "[Merchant Kale - Weapons] Stone Club"
+      ]
+    },
+    {
+      "ID": 6000313,
+      "Entries": [
+        "[Merchant Kale - Weapons] Marika's Hammer"
+      ]
+    },
+    {
+      "ID": 6000314,
+      "Entries": [
+        "[Merchant Kale - Weapons] Large Club"
+      ]
+    },
+    {
+      "ID": 6000315,
+      "Entries": [
+        "[Merchant Kale - Weapons] Greathorn Hammer"
+      ]
+    },
+    {
+      "ID": 6000316,
+      "Entries": [
+        "[Merchant Kale - Weapons] Battle Hammer"
+      ]
+    },
+    {
+      "ID": 6000317,
+      "Entries": [
+        "[Merchant Kale - Weapons] Great Mace"
+      ]
+    },
+    {
+      "ID": 6000318,
+      "Entries": [
+        "[Merchant Kale - Weapons] Curved Great Club"
+      ]
+    },
+    {
+      "ID": 6000319,
+      "Entries": [
+        "[Merchant Kale - Weapons] Celebrant's Skull"
+      ]
+    },
+    {
+      "ID": 6000320,
+      "Entries": [
+        "[Merchant Kale - Weapons] Pickaxe"
+      ]
+    },
+    {
+      "ID": 6000321,
+      "Entries": [
+        "[Merchant Kale - Weapons] Beastclaw Greathammer"
+      ]
+    },
+    {
+      "ID": 6000322,
+      "Entries": [
+        "[Merchant Kale - Weapons] Envoy's Long Horn"
+      ]
+    },
+    {
+      "ID": 6000323,
+      "Entries": [
+        "[Merchant Kale - Weapons] Cranial Vessel Candlestand"
+      ]
+    },
+    {
+      "ID": 6000324,
+      "Entries": [
+        "[Merchant Kale - Weapons] Great Stars"
+      ]
+    },
+    {
+      "ID": 6000325,
+      "Entries": [
+        "[Merchant Kale - Weapons] Brick Hammer"
+      ]
+    },
+    {
+      "ID": 6000326,
+      "Entries": [
+        "[Merchant Kale - Weapons] Devourer's Scepter"
+      ]
+    },
+    {
+      "ID": 6000327,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rotten Battle Hammer"
+      ]
+    },
+    {
+      "ID": 6000328,
+      "Entries": [
+        "[Merchant Kale - Weapons] Nightrider Flail"
+      ]
+    },
+    {
+      "ID": 6000330,
+      "Entries": [
+        "[Merchant Kale - Weapons] Family Heads"
+      ]
+    },
+    {
+      "ID": 6000331,
+      "Entries": [
+        "[Merchant Kale - Weapons] Bastard's Stars"
+      ]
+    },
+    {
+      "ID": 6000332,
+      "Entries": [
+        "[Merchant Kale - Weapons] Chainlink Flail"
+      ]
+    },
+    {
+      "ID": 6000334,
+      "Entries": [
+        "[Merchant Kale - Weapons] Forked Hatchet"
+      ]
+    },
+    {
+      "ID": 6000336,
+      "Entries": [
+        "[Merchant Kale - Weapons] Jawbone Axe"
+      ]
+    },
+    {
+      "ID": 6000337,
+      "Entries": [
+        "[Merchant Kale - Weapons] Iron Cleaver"
+      ]
+    },
+    {
+      "ID": 6000339,
+      "Entries": [
+        "[Merchant Kale - Weapons] Celebrant's Cleaver"
+      ]
+    },
+    {
+      "ID": 6000340,
+      "Entries": [
+        "[Merchant Kale - Weapons] Icerind Hatchet"
+      ]
+    },
+    {
+      "ID": 6000342,
+      "Entries": [
+        "[Merchant Kale - Weapons] Sacrificial Axe"
+      ]
+    },
+    {
+      "ID": 6000343,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rosus' Axe"
+      ]
+    },
+    {
+      "ID": 6000344,
+      "Entries": [
+        "[Merchant Kale - Weapons] Stormhawk Axe"
+      ]
+    },
+    {
+      "ID": 6000345,
+      "Entries": [
+        "[Merchant Kale - Weapons] Greataxe"
+      ]
+    },
+    {
+      "ID": 6000346,
+      "Entries": [
+        "[Merchant Kale - Weapons] Warped Axe"
+      ]
+    },
+    {
+      "ID": 6000347,
+      "Entries": [
+        "[Merchant Kale - Weapons] Great Omenkiller Cleaver"
+      ]
+    },
+    {
+      "ID": 6000349,
+      "Entries": [
+        "[Merchant Kale - Weapons] Axe of Godrick"
+      ]
+    },
+    {
+      "ID": 6000350,
+      "Entries": [
+        "[Merchant Kale - Weapons] Longhaft Axe"
+      ]
+    },
+    {
+      "ID": 6000351,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rusted Anchor"
+      ]
+    },
+    {
+      "ID": 6000352,
+      "Entries": [
+        "[Merchant Kale - Weapons] Executioner's Greataxe"
+      ]
+    },
+    {
+      "ID": 6000353,
+      "Entries": [
+        "[Merchant Kale - Weapons] Winged Greathorn"
+      ]
+    },
+    {
+      "ID": 6000354,
+      "Entries": [
+        "[Merchant Kale - Weapons] Butchering Knife"
+      ]
+    },
+    {
+      "ID": 6000355,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gargoyle's Great Axe"
+      ]
+    },
+    {
+      "ID": 6000356,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gargoyle's Black Axe"
+      ]
+    },
+    {
+      "ID": 6000357,
+      "Entries": [
+        "[Merchant Kale - Weapons] Prelate's Inferno Crozier"
+      ]
+    },
+    {
+      "ID": 6000358,
+      "Entries": [
+        "[Merchant Kale - Weapons] Watchdog's Staff"
+      ]
+    },
+    {
+      "ID": 6000359,
+      "Entries": [
+        "[Merchant Kale - Weapons] Great Club"
+      ]
+    },
+    {
+      "ID": 6000360,
+      "Entries": [
+        "[Merchant Kale - Weapons] Envoy's Greathorn"
+      ]
+    },
+    {
+      "ID": 6000361,
+      "Entries": [
+        "[Merchant Kale - Weapons] Duelist Greataxe"
+      ]
+    },
+    {
+      "ID": 6000362,
+      "Entries": [
+        "[Merchant Kale - Weapons] Axe of Godfrey"
+      ]
+    },
+    {
+      "ID": 6000363,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dragon Greatclaw"
+      ]
+    },
+    {
+      "ID": 6000364,
+      "Entries": [
+        "[Merchant Kale - Weapons] Staff of the Avatar"
+      ]
+    },
+    {
+      "ID": 6000365,
+      "Entries": [
+        "[Merchant Kale - Weapons] Fallingstar Beast Jaw"
+      ]
+    },
+    {
+      "ID": 6000366,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ghiza's Wheel"
+      ]
+    },
+    {
+      "ID": 6000367,
+      "Entries": [
+        "[Merchant Kale - Weapons] Giant-Crusher"
+      ]
+    },
+    {
+      "ID": 6000368,
+      "Entries": [
+        "[Merchant Kale - Weapons] Golem's Halberd"
+      ]
+    },
+    {
+      "ID": 6000369,
+      "Entries": [
+        "[Merchant Kale - Weapons] Troll's Hammer"
+      ]
+    },
+    {
+      "ID": 6000370,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rotten Staff"
+      ]
+    },
+    {
+      "ID": 6000371,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rotten Greataxe"
+      ]
+    },
+    {
+      "ID": 6000401,
+      "Entries": [
+        "[Merchant Kale - Weapons] Crystal Spear"
+      ]
+    },
+    {
+      "ID": 6000402,
+      "Entries": [
+        "[Merchant Kale - Weapons] Clayman's Harpoon"
+      ]
+    },
+    {
+      "ID": 6000403,
+      "Entries": [
+        "[Merchant Kale - Weapons] Cleanrot Spear"
+      ]
+    },
+    {
+      "ID": 6000404,
+      "Entries": [
+        "[Merchant Kale - Weapons] Partisan"
+      ]
+    },
+    {
+      "ID": 6000405,
+      "Entries": [
+        "[Merchant Kale - Weapons] Celebrant's Rib-Rake"
+      ]
+    },
+    {
+      "ID": 6000408,
+      "Entries": [
+        "[Merchant Kale - Weapons] Bolt of Gransax"
+      ]
+    },
+    {
+      "ID": 6000409,
+      "Entries": [
+        "[Merchant Kale - Weapons] Cross-Naginata"
+      ]
+    },
+    {
+      "ID": 6000410,
+      "Entries": [
+        "[Merchant Kale - Weapons] Death Ritual Spear"
+      ]
+    },
+    {
+      "ID": 6000411,
+      "Entries": [
+        "[Merchant Kale - Weapons] Inquisitor's Girandole"
+      ]
+    },
+    {
+      "ID": 6000412,
+      "Entries": [
+        "[Merchant Kale - Weapons] Spiked Spear"
+      ]
+    },
+    {
+      "ID": 6000414,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rotten Crystal Spear"
+      ]
+    },
+    {
+      "ID": 6000415,
+      "Entries": [
+        "[Merchant Kale - Weapons] Mohgwyn's Sacred Spear"
+      ]
+    },
+    {
+      "ID": 6000416,
+      "Entries": [
+        "[Merchant Kale - Weapons] Siluria's Tree"
+      ]
+    },
+    {
+      "ID": 6000417,
+      "Entries": [
+        "[Merchant Kale - Weapons] Serpent-Hunter"
+      ]
+    },
+    {
+      "ID": 6000418,
+      "Entries": [
+        "[Merchant Kale - Weapons] Vyke's War Spear"
+      ]
+    },
+    {
+      "ID": 6000420,
+      "Entries": [
+        "[Merchant Kale - Weapons] Treespear"
+      ]
+    },
+    {
+      "ID": 6000422,
+      "Entries": [
+        "[Merchant Kale - Weapons] Pest's Glaive"
+      ]
+    },
+    {
+      "ID": 6000423,
+      "Entries": [
+        "[Merchant Kale - Weapons] Lucerne"
+      ]
+    },
+    {
+      "ID": 6000424,
+      "Entries": [
+        "[Merchant Kale - Weapons] Banished Knight's Halberd"
+      ]
+    },
+    {
+      "ID": 6000425,
+      "Entries": [
+        "[Merchant Kale - Weapons] Commander's Standard"
+      ]
+    },
+    {
+      "ID": 6000426,
+      "Entries": [
+        "[Merchant Kale - Weapons] Nightrider Glaive"
+      ]
+    },
+    {
+      "ID": 6000427,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ripple Crescent Halberd"
+      ]
+    },
+    {
+      "ID": 6000428,
+      "Entries": [
+        "[Merchant Kale - Weapons] Vulgar Militia Saw"
+      ]
+    },
+    {
+      "ID": 6000429,
+      "Entries": [
+        "[Merchant Kale - Weapons] Golden Halberd"
+      ]
+    },
+    {
+      "ID": 6000430,
+      "Entries": [
+        "[Merchant Kale - Weapons] Glaive"
+      ]
+    },
+    {
+      "ID": 6000431,
+      "Entries": [
+        "[Merchant Kale - Weapons] Loretta's War Sickle"
+      ]
+    },
+    {
+      "ID": 6000432,
+      "Entries": [
+        "[Merchant Kale - Weapons] Guardian's Swordspear"
+      ]
+    },
+    {
+      "ID": 6000433,
+      "Entries": [
+        "[Merchant Kale - Weapons] Vulgar Militia Shotel"
+      ]
+    },
+    {
+      "ID": 6000434,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dragon Halberd"
+      ]
+    },
+    {
+      "ID": 6000435,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gargoyle's Halberd"
+      ]
+    },
+    {
+      "ID": 6000436,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gargoyle's Black Halberd"
+      ]
+    },
+    {
+      "ID": 6000437,
+      "Entries": [
+        "[Merchant Kale - Weapons] Scythe"
+      ]
+    },
+    {
+      "ID": 6000438,
+      "Entries": [
+        "[Merchant Kale - Weapons] Grave Scythe"
+      ]
+    },
+    {
+      "ID": 6000439,
+      "Entries": [
+        "[Merchant Kale - Weapons] Halo Scythe"
+      ]
+    },
+    {
+      "ID": 6000440,
+      "Entries": [
+        "[Merchant Kale - Weapons] Winged Scythe"
+      ]
+    },
+    {
+      "ID": 6000500,
+      "Entries": [
+        "[Merchant Kale - Weapons] Black Knife"
+      ]
+    },
+    {
+      "ID": 6000502,
+      "Entries": [
+        "[Merchant Kale - Weapons] Misericorde"
+      ]
+    },
+    {
+      "ID": 6000503,
+      "Entries": [
+        "[Merchant Kale - Weapons] Reduvia"
+      ]
+    },
+    {
+      "ID": 6000504,
+      "Entries": [
+        "[Merchant Kale - Weapons] Crystal Knife"
+      ]
+    },
+    {
+      "ID": 6000505,
+      "Entries": [
+        "[Merchant Kale - Weapons] Celebrant's Sickle"
+      ]
+    },
+    {
+      "ID": 6000506,
+      "Entries": [
+        "[Merchant Kale - Weapons] Glintstone Kris"
+      ]
+    },
+    {
+      "ID": 6000507,
+      "Entries": [
+        "[Merchant Kale - Weapons] Scorpion's Stinger"
+      ]
+    },
+    {
+      "ID": 6000508,
+      "Entries": [
+        "[Merchant Kale - Weapons] Great Knife"
+      ]
+    },
+    {
+      "ID": 6000509,
+      "Entries": [
+        "[Merchant Kale - Weapons] Wakizashi"
+      ]
+    },
+    {
+      "ID": 6000510,
+      "Entries": [
+        "[Merchant Kale - Weapons] Cinquedea"
+      ]
+    },
+    {
+      "ID": 6000511,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ivory Sickle"
+      ]
+    },
+    {
+      "ID": 6000512,
+      "Entries": [
+        "[Merchant Kale - Weapons] Bloodstained Dagger"
+      ]
+    },
+    {
+      "ID": 6000513,
+      "Entries": [
+        "[Merchant Kale - Weapons] Erdsteel Dagger"
+      ]
+    },
+    {
+      "ID": 6000514,
+      "Entries": [
+        "[Merchant Kale - Weapons] Blade of Calling"
+      ]
+    },
+    {
+      "ID": 6000516,
+      "Entries": [
+        "[Merchant Kale - Weapons] Thorned Whip"
+      ]
+    },
+    {
+      "ID": 6000517,
+      "Entries": [
+        "[Merchant Kale - Weapons] Magma Whip Candlestick"
+      ]
+    },
+    {
+      "ID": 6000518,
+      "Entries": [
+        "[Merchant Kale - Weapons] Hoslow's Petal Whip"
+      ]
+    },
+    {
+      "ID": 6000519,
+      "Entries": [
+        "[Merchant Kale - Weapons] Giant's Red Braid"
+      ]
+    },
+    {
+      "ID": 6000520,
+      "Entries": [
+        "[Merchant Kale - Weapons] Urumi"
+      ]
+    },
+    {
+      "ID": 6000523,
+      "Entries": [
+        "[Merchant Kale - Weapons] Grafted Dragon"
+      ]
+    },
+    {
+      "ID": 6000524,
+      "Entries": [
+        "[Merchant Kale - Weapons] Iron Ball"
+      ]
+    },
+    {
+      "ID": 6000525,
+      "Entries": [
+        "[Merchant Kale - Weapons] Star Fist"
+      ]
+    },
+    {
+      "ID": 6000526,
+      "Entries": [
+        "[Merchant Kale - Weapons] Katar"
+      ]
+    },
+    {
+      "ID": 6000527,
+      "Entries": [
+        "[Merchant Kale - Weapons] Clinging Bone"
+      ]
+    },
+    {
+      "ID": 6000528,
+      "Entries": [
+        "[Merchant Kale - Weapons] Veteran's Prosthesis"
+      ]
+    },
+    {
+      "ID": 6000529,
+      "Entries": [
+        "[Merchant Kale - Weapons] Cipher Pata"
+      ]
+    },
+    {
+      "ID": 6000531,
+      "Entries": [
+        "[Merchant Kale - Weapons] Venomous Fang"
+      ]
+    },
+    {
+      "ID": 6000532,
+      "Entries": [
+        "[Merchant Kale - Weapons] Bloodhound Claws"
+      ]
+    },
+    {
+      "ID": 6000533,
+      "Entries": [
+        "[Merchant Kale - Weapons] Raptor Talons"
+      ]
+    },
+    {
+      "ID": 6000600,
+      "Entries": [
+        "[Merchant Kale - Weapons] Misbegotten Shortbow"
+      ]
+    },
+    {
+      "ID": 6000601,
+      "Entries": [
+        "[Merchant Kale - Weapons] Red Branch Shortbow"
+      ]
+    },
+    {
+      "ID": 6000602,
+      "Entries": [
+        "[Merchant Kale - Weapons] Harp Bow"
+      ]
+    },
+    {
+      "ID": 6000605,
+      "Entries": [
+        "[Merchant Kale - Weapons] Albinauric Bow"
+      ]
+    },
+    {
+      "ID": 6000606,
+      "Entries": [
+        "[Merchant Kale - Weapons] Horn Bow"
+      ]
+    },
+    {
+      "ID": 6000607,
+      "Entries": [
+        "[Merchant Kale - Weapons] Erdtree Bow"
+      ]
+    },
+    {
+      "ID": 6000608,
+      "Entries": [
+        "[Merchant Kale - Weapons] Serpent Bow"
+      ]
+    },
+    {
+      "ID": 6000609,
+      "Entries": [
+        "[Merchant Kale - Weapons] Pulley Bow"
+      ]
+    },
+    {
+      "ID": 6000610,
+      "Entries": [
+        "[Merchant Kale - Weapons] Black Bow"
+      ]
+    },
+    {
+      "ID": 6000611,
+      "Entries": [
+        "[Merchant Kale - Weapons] Lion Greatbow"
+      ]
+    },
+    {
+      "ID": 6000612,
+      "Entries": [
+        "[Merchant Kale - Weapons] Golem Greatbow"
+      ]
+    },
+    {
+      "ID": 6000613,
+      "Entries": [
+        "[Merchant Kale - Weapons] Erdtree Greatbow"
+      ]
+    },
+    {
+      "ID": 6000614,
+      "Entries": [
+        "[Merchant Kale - Weapons] Greatbow"
+      ]
+    },
+    {
+      "ID": 6000615,
+      "Entries": [
+        "[Merchant Kale - Weapons] Soldier's Crossbow"
+      ]
+    },
+    {
+      "ID": 6000617,
+      "Entries": [
+        "[Merchant Kale - Weapons] Heavy Crossbow"
+      ]
+    },
+    {
+      "ID": 6000618,
+      "Entries": [
+        "[Merchant Kale - Weapons] Pulley Crossbow"
+      ]
+    },
+    {
+      "ID": 6000619,
+      "Entries": [
+        "[Merchant Kale - Weapons] Full Moon Crossbow"
+      ]
+    },
+    {
+      "ID": 6000621,
+      "Entries": [
+        "[Merchant Kale - Weapons] Crepus's Black-Key Crossbow"
+      ]
+    },
+    {
+      "ID": 6000622,
+      "Entries": [
+        "[Merchant Kale - Weapons] Hand Ballista"
+      ]
+    },
+    {
+      "ID": 6000623,
+      "Entries": [
+        "[Merchant Kale - Weapons] Jar Cannon"
+      ]
+    },
+    {
+      "ID": 6000699,
+      "Entries": [
+        "[Merchant Kale - Weapons] Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6000700,
+      "Entries": [
+        "[Merchant Kale - Weapons] Crystal Staff"
+      ]
+    },
+    {
+      "ID": 6000701,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gelmir Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6000703,
+      "Entries": [
+        "[Merchant Kale - Weapons] Carian Regal Scepter"
+      ]
+    },
+    {
+      "ID": 6000704,
+      "Entries": [
+        "[Merchant Kale - Weapons] Digger's Staff"
+      ]
+    },
+    {
+      "ID": 6000706,
+      "Entries": [
+        "[Merchant Kale - Weapons] Carian Glintblade Staff"
+      ]
+    },
+    {
+      "ID": 6000707,
+      "Entries": [
+        "[Merchant Kale - Weapons] Prince of Death's Staff"
+      ]
+    },
+    {
+      "ID": 6000708,
+      "Entries": [
+        "[Merchant Kale - Weapons] Albinauric Staff"
+      ]
+    },
+    {
+      "ID": 6000709,
+      "Entries": [
+        "[Merchant Kale - Weapons] Academy Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6000710,
+      "Entries": [
+        "[Merchant Kale - Weapons] Carian Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6000711,
+      "Entries": [
+        "[Merchant Kale - Weapons] Azur's Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6000712,
+      "Entries": [
+        "[Merchant Kale - Weapons] Lusat's Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6000713,
+      "Entries": [
+        "[Merchant Kale - Weapons] Meteorite Staff"
+      ]
+    },
+    {
+      "ID": 6000714,
+      "Entries": [
+        "[Merchant Kale - Weapons] Staff of the Guilty"
+      ]
+    },
+    {
+      "ID": 6000715,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rotten Crystal Staff"
+      ]
+    },
+    {
+      "ID": 6000716,
+      "Entries": [
+        "[Merchant Kale - Weapons] Staff of Loss"
+      ]
+    },
+    {
+      "ID": 6000718,
+      "Entries": [
+        "[Merchant Kale - Weapons] Godslayer's Seal"
+      ]
+    },
+    {
+      "ID": 6000719,
+      "Entries": [
+        "[Merchant Kale - Weapons] Giant's Seal"
+      ]
+    },
+    {
+      "ID": 6000720,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gravel Stone Seal"
+      ]
+    },
+    {
+      "ID": 6000721,
+      "Entries": [
+        "[Merchant Kale - Weapons] Clawmark Seal"
+      ]
+    },
+    {
+      "ID": 6000722,
+      "Entries": [
+        "[Merchant Kale - Weapons] Golden Order Seal"
+      ]
+    },
+    {
+      "ID": 6000723,
+      "Entries": [
+        "[Merchant Kale - Weapons] Erdtree Seal"
+      ]
+    },
+    {
+      "ID": 6000724,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dragon Communion Seal"
+      ]
+    },
+    {
+      "ID": 6000725,
+      "Entries": [
+        "[Merchant Kale - Weapons] Frenzied Flame Seal"
+      ]
+    },
+    {
+      "ID": 6000800,
+      "Entries": [
+        "[Merchant Kale - Weapons] Perfumer's Shield"
+      ]
+    },
+    {
+      "ID": 6000801,
+      "Entries": [
+        "[Merchant Kale - Weapons] Man-Serpent's Shield"
+      ]
+    },
+    {
+      "ID": 6000802,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rickety Shield"
+      ]
+    },
+    {
+      "ID": 6000803,
+      "Entries": [
+        "[Merchant Kale - Weapons] Pillory Shield"
+      ]
+    },
+    {
+      "ID": 6000804,
+      "Entries": [
+        "[Merchant Kale - Weapons] Beastman's Jar-Shield"
+      ]
+    },
+    {
+      "ID": 6000806,
+      "Entries": [
+        "[Merchant Kale - Weapons] Scripture Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6000808,
+      "Entries": [
+        "[Merchant Kale - Weapons] Blue-White Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6000811,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gilded Iron Shield"
+      ]
+    },
+    {
+      "ID": 6000812,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ice Crest Shield"
+      ]
+    },
+    {
+      "ID": 6000813,
+      "Entries": [
+        "[Merchant Kale - Weapons] Smoldering Shield"
+      ]
+    },
+    {
+      "ID": 6000814,
+      "Entries": [
+        "[Merchant Kale - Weapons] Spiralhorn Shield"
+      ]
+    },
+    {
+      "ID": 6000815,
+      "Entries": [
+        "[Merchant Kale - Weapons] Coil Shield"
+      ]
+    },
+    {
+      "ID": 6000817,
+      "Entries": [
+        "[Merchant Kale - Weapons] Marred Leather Shield"
+      ]
+    },
+    {
+      "ID": 6000819,
+      "Entries": [
+        "[Merchant Kale - Weapons] Banished Knight's Shield"
+      ]
+    },
+    {
+      "ID": 6000820,
+      "Entries": [
+        "[Merchant Kale - Weapons] Albinauric Shield"
+      ]
+    },
+    {
+      "ID": 6000821,
+      "Entries": [
+        "[Merchant Kale - Weapons] Sun Realm Shield"
+      ]
+    },
+    {
+      "ID": 6000822,
+      "Entries": [
+        "[Merchant Kale - Weapons] Silver Mirrorshield"
+      ]
+    },
+    {
+      "ID": 6000825,
+      "Entries": [
+        "[Merchant Kale - Weapons] Twinbird Kite Shield"
+      ]
+    },
+    {
+      "ID": 6000827,
+      "Entries": [
+        "[Merchant Kale - Weapons] Brass Shield"
+      ]
+    },
+    {
+      "ID": 6000828,
+      "Entries": [
+        "[Merchant Kale - Weapons] Great Turtle Shell"
+      ]
+    },
+    {
+      "ID": 6000829,
+      "Entries": [
+        "[Merchant Kale - Weapons] Shield of the Guilty"
+      ]
+    },
+    {
+      "ID": 6000830,
+      "Entries": [
+        "[Merchant Kale - Weapons] Carian Knight's Shield"
+      ]
+    },
+    {
+      "ID": 6000833,
+      "Entries": [
+        "[Merchant Kale - Weapons] Candletree Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6000834,
+      "Entries": [
+        "[Merchant Kale - Weapons] Flame Crest Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6000836,
+      "Entries": [
+        "[Merchant Kale - Weapons] Beast Crest Heater Shield"
+      ]
+    },
+    {
+      "ID": 6000839,
+      "Entries": [
+        "[Merchant Kale - Weapons] Eclipse Crest Heater Shield"
+      ]
+    },
+    {
+      "ID": 6000843,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dragon Towershield"
+      ]
+    },
+    {
+      "ID": 6000845,
+      "Entries": [
+        "[Merchant Kale - Weapons] Crucible Hornshield"
+      ]
+    },
+    {
+      "ID": 6000846,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dragonclaw Shield"
+      ]
+    },
+    {
+      "ID": 6000847,
+      "Entries": [
+        "[Merchant Kale - Weapons] Briar Greatshield"
+      ]
+    },
+    {
+      "ID": 6000848,
+      "Entries": [
+        "[Merchant Kale - Weapons] Erdtree Greatshield"
+      ]
+    },
+    {
+      "ID": 6000849,
+      "Entries": [
+        "[Merchant Kale - Weapons] Golden Beast Crest Shield"
+      ]
+    },
+    {
+      "ID": 6000850,
+      "Entries": [
+        "[Merchant Kale - Weapons] Jellyfish Shield"
+      ]
+    },
+    {
+      "ID": 6000851,
+      "Entries": [
+        "[Merchant Kale - Weapons] Fingerprint Stone Shield"
+      ]
+    },
+    {
+      "ID": 6000852,
+      "Entries": [
+        "[Merchant Kale - Weapons] Icon Shield"
+      ]
+    },
+    {
+      "ID": 6000853,
+      "Entries": [
+        "[Merchant Kale - Weapons] One-Eyed Shield"
+      ]
+    },
+    {
+      "ID": 6000854,
+      "Entries": [
+        "[Merchant Kale - Weapons] Visage Shield"
+      ]
+    },
+    {
+      "ID": 6000855,
+      "Entries": [
+        "[Merchant Kale - Weapons] Spiked Palisade Shield"
+      ]
+    },
+    {
+      "ID": 6000856,
+      "Entries": [
+        "[Merchant Kale - Weapons] Manor Towershield"
+      ]
+    },
+    {
+      "ID": 6000858,
+      "Entries": [
+        "[Merchant Kale - Weapons] Inverted Hawk Towershield"
+      ]
+    },
+    {
+      "ID": 6000859,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ant's Skull Plate"
+      ]
+    },
+    {
+      "ID": 6000860,
+      "Entries": [
+        "[Merchant Kale - Weapons] Redmane Greatshield"
+      ]
+    },
+    {
+      "ID": 6000861,
+      "Entries": [
+        "[Merchant Kale - Weapons] Eclipse Crest Greatshield"
+      ]
+    },
+    {
+      "ID": 6000862,
+      "Entries": [
+        "[Merchant Kale - Weapons] Cuckoo Greatshield"
+      ]
+    },
+    {
+      "ID": 6000863,
+      "Entries": [
+        "[Merchant Kale - Weapons] Golden Greatshield"
+      ]
+    },
+    {
+      "ID": 6000864,
+      "Entries": [
+        "[Merchant Kale - Weapons] Gilded Greatshield"
+      ]
+    },
+    {
+      "ID": 6000865,
+      "Entries": [
+        "[Merchant Kale - Weapons] Haligtree Crest Greatshield"
+      ]
+    },
+    {
+      "ID": 6000867,
+      "Entries": [
+        "[Merchant Kale - Weapons] Lordsworn's Shield"
+      ]
+    },
+    {
+      "ID": 6000900,
+      "Entries": [
+        "[Merchant Kale - Weapons] Steel-Wire Torch"
+      ]
+    },
+    {
+      "ID": 6000901,
+      "Entries": [
+        "[Merchant Kale - Weapons] St. Trina's Torch"
+      ]
+    },
+    {
+      "ID": 6000902,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ghostflame Torch"
+      ]
+    },
+    {
+      "ID": 6100000,
+      "Entries": [
+        "[DLC Upgraded Weapons] Velvet Sword of St. Trina"
+      ]
+    },
+    {
+      "ID": 6100001,
+      "Entries": [
+        "[DLC Upgraded Weapons] Star-Lined Sword"
+      ]
+    },
+    {
+      "ID": 6100002,
+      "Entries": [
+        "[DLC Upgraded Weapons] Carian Sorcery Sword"
+      ]
+    },
+    {
+      "ID": 6100003,
+      "Entries": [
+        "[DLC Upgraded Weapons] Stone-Sheathed Sword"
+      ]
+    },
+    {
+      "ID": 6100004,
+      "Entries": [
+        "[DLC Upgraded Weapons] Sword of Light"
+      ]
+    },
+    {
+      "ID": 6100005,
+      "Entries": [
+        "[DLC Upgraded Weapons] Sword of Darkness"
+      ]
+    },
+    {
+      "ID": 6100007,
+      "Entries": [
+        "[DLC Upgraded Weapons] Leda's Sword"
+      ]
+    },
+    {
+      "ID": 6100008,
+      "Entries": [
+        "[DLC Upgraded Weapons] Rellana's Twin Blades"
+      ]
+    },
+    {
+      "ID": 6100009,
+      "Entries": [
+        "[DLC Upgraded Weapons] Sword Lance"
+      ]
+    },
+    {
+      "ID": 6100010,
+      "Entries": [
+        "[DLC Upgraded Weapons] Greatsword of Damnation"
+      ]
+    },
+    {
+      "ID": 6100011,
+      "Entries": [
+        "[DLC Upgraded Weapons] Lizard Greatsword"
+      ]
+    },
+    {
+      "ID": 6100012,
+      "Entries": [
+        "[DLC Upgraded Weapons] Greatsword of Solitude"
+      ]
+    },
+    {
+      "ID": 6100013,
+      "Entries": [
+        "[DLC Upgraded Weapons] Ancient Meteoric Ore Greatsword"
+      ]
+    },
+    {
+      "ID": 6100014,
+      "Entries": [
+        "[DLC Upgraded Weapons] Fire Knight's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100015,
+      "Entries": [
+        "[DLC Upgraded Weapons] Greatsword of Radahn (Lord)"
+      ]
+    },
+    {
+      "ID": 6100016,
+      "Entries": [
+        "[DLC Upgraded Weapons] Moonrithyll's Knight Sword"
+      ]
+    },
+    {
+      "ID": 6100017,
+      "Entries": [
+        "[DLC Upgraded Weapons] Greatsword of Radahn (Light)"
+      ]
+    },
+    {
+      "ID": 6100018,
+      "Entries": [
+        "[DLC Upgraded Weapons] Queelign's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100019,
+      "Entries": [
+        "[DLC Upgraded Weapons] Spirit Sword"
+      ]
+    },
+    {
+      "ID": 6100020,
+      "Entries": [
+        "[DLC Upgraded Weapons] Falx"
+      ]
+    },
+    {
+      "ID": 6100021,
+      "Entries": [
+        "[DLC Upgraded Weapons] Dancing Blade of Ranah"
+      ]
+    },
+    {
+      "ID": 6100022,
+      "Entries": [
+        "[DLC Upgraded Weapons] Horned Warrior's Sword"
+      ]
+    },
+    {
+      "ID": 6100023,
+      "Entries": [
+        "[DLC Upgraded Weapons] Putrescence Cleaver"
+      ]
+    },
+    {
+      "ID": 6100024,
+      "Entries": [
+        "[DLC Upgraded Weapons] Freyja's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100025,
+      "Entries": [
+        "[DLC Upgraded Weapons] Horned Warrior's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100026,
+      "Entries": [
+        "[DLC Upgraded Weapons] Sword of Night"
+      ]
+    },
+    {
+      "ID": 6100028,
+      "Entries": [
+        "[DLC Upgraded Weapons] Dragon-Hunter's Great Katana"
+      ]
+    },
+    {
+      "ID": 6100029,
+      "Entries": [
+        "[DLC Upgraded Weapons] Rakshasa's Great Katana"
+      ]
+    },
+    {
+      "ID": 6100030,
+      "Entries": [
+        "[DLC Upgraded Weapons] Euporia"
+      ]
+    },
+    {
+      "ID": 6100031,
+      "Entries": [
+        "[DLC Upgraded Weapons] Black Steel Twinblade"
+      ]
+    },
+    {
+      "ID": 6100033,
+      "Entries": [
+        "[DLC Upgraded Weapons] Smithscript Cirque"
+      ]
+    },
+    {
+      "ID": 6100034,
+      "Entries": [
+        "[DLC Upgraded Weapons] Curseblade's Cirque"
+      ]
+    },
+    {
+      "ID": 6100035,
+      "Entries": [
+        "[DLC Upgraded Weapons] Flowerstone Gavel"
+      ]
+    },
+    {
+      "ID": 6100036,
+      "Entries": [
+        "[DLC Upgraded Weapons] Smithscript Greathammer"
+      ]
+    },
+    {
+      "ID": 6100037,
+      "Entries": [
+        "[DLC Upgraded Weapons] Anvil Hammer"
+      ]
+    },
+    {
+      "ID": 6100038,
+      "Entries": [
+        "[DLC Upgraded Weapons] Black Steel Greathammer"
+      ]
+    },
+    {
+      "ID": 6100039,
+      "Entries": [
+        "[DLC Upgraded Weapons] Bloodfiend's Arm"
+      ]
+    },
+    {
+      "ID": 6100040,
+      "Entries": [
+        "[DLC Upgraded Weapons] Serpent Flail"
+      ]
+    },
+    {
+      "ID": 6100041,
+      "Entries": [
+        "[DLC Upgraded Weapons] Smithscript Axe"
+      ]
+    },
+    {
+      "ID": 6100042,
+      "Entries": [
+        "[DLC Upgraded Weapons] Death Knight's Twin Axes"
+      ]
+    },
+    {
+      "ID": 6100043,
+      "Entries": [
+        "[DLC Upgraded Weapons] Messmer Soldier's Axe"
+      ]
+    },
+    {
+      "ID": 6100044,
+      "Entries": [
+        "[DLC Upgraded Weapons] Forked-Tongue Hatchet"
+      ]
+    },
+    {
+      "ID": 6100045,
+      "Entries": [
+        "[DLC Upgraded Weapons] Death Knight's Longhaft Axe"
+      ]
+    },
+    {
+      "ID": 6100046,
+      "Entries": [
+        "[DLC Upgraded Weapons] Bonny Butchering Knife"
+      ]
+    },
+    {
+      "ID": 6100047,
+      "Entries": [
+        "[DLC Upgraded Weapons] Devonia's Hammer"
+      ]
+    },
+    {
+      "ID": 6100048,
+      "Entries": [
+        "[DLC Upgraded Weapons] Shadow Sunflower Blossom"
+      ]
+    },
+    {
+      "ID": 6100049,
+      "Entries": [
+        "[DLC Upgraded Weapons] Gazing Finger"
+      ]
+    },
+    {
+      "ID": 6100050,
+      "Entries": [
+        "[DLC Upgraded Weapons] Smithscript Spear"
+      ]
+    },
+    {
+      "ID": 6100051,
+      "Entries": [
+        "[DLC Upgraded Weapons] Swift Spear"
+      ]
+    },
+    {
+      "ID": 6100052,
+      "Entries": [
+        "[DLC Upgraded Weapons] Bloodfiend's Fork"
+      ]
+    },
+    {
+      "ID": 6100053,
+      "Entries": [
+        "[DLC Upgraded Weapons] Bloodfiend's Sacred Spear"
+      ]
+    },
+    {
+      "ID": 6100054,
+      "Entries": [
+        "[DLC Upgraded Weapons] Spear of the Impaler"
+      ]
+    },
+    {
+      "ID": 6100055,
+      "Entries": [
+        "[DLC Upgraded Weapons] Messmer Soldier's Spear"
+      ]
+    },
+    {
+      "ID": 6100056,
+      "Entries": [
+        "[DLC Upgraded Weapons] Barbed Staff-Spear"
+      ]
+    },
+    {
+      "ID": 6100057,
+      "Entries": [
+        "[DLC Upgraded Weapons] Spirit Glaive"
+      ]
+    },
+    {
+      "ID": 6100058,
+      "Entries": [
+        "[DLC Upgraded Weapons] Poleblade of the Bud"
+      ]
+    },
+    {
+      "ID": 6100059,
+      "Entries": [
+        "[DLC Upgraded Weapons] Obsidian Lamina"
+      ]
+    },
+    {
+      "ID": 6100060,
+      "Entries": [
+        "[DLC Upgraded Weapons] Main-gauche"
+      ]
+    },
+    {
+      "ID": 6100061,
+      "Entries": [
+        "[DLC Upgraded Weapons] Fire Knight's Shortsword"
+      ]
+    },
+    {
+      "ID": 6100062,
+      "Entries": [
+        "[DLC Upgraded Weapons] Tooth Whip"
+      ]
+    },
+    {
+      "ID": 6100063,
+      "Entries": [
+        "[DLC Upgraded Weapons] Thiollier's Hidden Needle"
+      ]
+    },
+    {
+      "ID": 6100064,
+      "Entries": [
+        "[DLC Upgraded Weapons] Pata"
+      ]
+    },
+    {
+      "ID": 6100065,
+      "Entries": [
+        "[DLC Upgraded Weapons] Poisoned Hand"
+      ]
+    },
+    {
+      "ID": 6100066,
+      "Entries": [
+        "[DLC Upgraded Weapons] Madding Hand"
+      ]
+    },
+    {
+      "ID": 6100067,
+      "Entries": [
+        "[DLC Upgraded Weapons] Golem Fist"
+      ]
+    },
+    {
+      "ID": 6100068,
+      "Entries": [
+        "[DLC Upgraded Weapons] Claws of Night"
+      ]
+    },
+    {
+      "ID": 6100071,
+      "Entries": [
+        "[DLC Upgraded Weapons] Red Bear's Claw"
+      ]
+    },
+    {
+      "ID": 6100073,
+      "Entries": [
+        "[DLC Upgraded Weapons] Dane's Footwork"
+      ]
+    },
+    {
+      "ID": 6100075,
+      "Entries": [
+        "[DLC Upgraded Weapons] Chilling Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 6100076,
+      "Entries": [
+        "[DLC Upgraded Weapons] Frenzyflame Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 6100079,
+      "Entries": [
+        "[DLC Upgraded Weapons] Nanaya's Torch"
+      ]
+    },
+    {
+      "ID": 6100080,
+      "Entries": [
+        "[DLC Upgraded Weapons] Lamenting Visage"
+      ]
+    },
+    {
+      "ID": 6100081,
+      "Entries": [
+        "[DLC Upgraded Weapons] Shield of Night"
+      ]
+    },
+    {
+      "ID": 6100082,
+      "Entries": [
+        "[DLC Upgraded Weapons] Smithscript Shield"
+      ]
+    },
+    {
+      "ID": 6100084,
+      "Entries": [
+        "[DLC Upgraded Weapons] Messmer Soldier Shield"
+      ]
+    },
+    {
+      "ID": 6100085,
+      "Entries": [
+        "[DLC Upgraded Weapons] Wolf Crest Shield"
+      ]
+    },
+    {
+      "ID": 6100086,
+      "Entries": [
+        "[DLC Upgraded Weapons] Serpent Crest Shield"
+      ]
+    },
+    {
+      "ID": 6100087,
+      "Entries": [
+        "[DLC Upgraded Weapons] Golden Lion Shield"
+      ]
+    },
+    {
+      "ID": 6100088,
+      "Entries": [
+        "[DLC Upgraded Weapons] Black Steel Greatshield"
+      ]
+    },
+    {
+      "ID": 6100089,
+      "Entries": [
+        "[DLC Upgraded Weapons] Verdigris Greatshield"
+      ]
+    },
+    {
+      "ID": 6100091,
+      "Entries": [
+        "[DLC Upgraded Weapons] Carian Thrusting Shield"
+      ]
+    },
+    {
+      "ID": 6100092,
+      "Entries": [
+        "[DLC Upgraded Weapons] Staff of the Great Beyond"
+      ]
+    },
+    {
+      "ID": 6100093,
+      "Entries": [
+        "[DLC Upgraded Weapons] Maternal Staff"
+      ]
+    },
+    {
+      "ID": 6100094,
+      "Entries": [
+        "[DLC Upgraded Weapons] Dryleaf Seal"
+      ]
+    },
+    {
+      "ID": 6100095,
+      "Entries": [
+        "[DLC Upgraded Weapons] Fire Knight's Seal"
+      ]
+    },
+    {
+      "ID": 6100096,
+      "Entries": [
+        "[DLC Upgraded Weapons] Spiraltree Seal"
+      ]
+    },
+    {
+      "ID": 6100097,
+      "Entries": [
+        "[DLC Upgraded Weapons] Bone Bow"
+      ]
+    },
+    {
+      "ID": 6100098,
+      "Entries": [
+        "[DLC Upgraded Weapons] Ansbach's Longbow"
+      ]
+    },
+    {
+      "ID": 6100099,
+      "Entries": [
+        "[DLC Upgraded Weapons] Igon's Greatbow"
+      ]
+    },
+    {
+      "ID": 6100100,
+      "Entries": [
+        "[DLC Upgraded Weapons] Repeating Crossbow"
+      ]
+    },
+    {
+      "ID": 6100101,
+      "Entries": [
+        "[DLC Upgraded Weapons] Spread Crossbow"
+      ]
+    },
+    {
+      "ID": 6100102,
+      "Entries": [
+        "[DLC Upgraded Weapons] Rabbath's Cannon"
+      ]
+    },
+    {
+      "ID": 6100103,
+      "Entries": [
+        "[Upgraded Weapons] Weathered Straight Sword"
+      ]
+    },
+    {
+      "ID": 6100104,
+      "Entries": [
+        "[Upgraded Weapons] Ornamental Straight Sword"
+      ]
+    },
+    {
+      "ID": 6100105,
+      "Entries": [
+        "[Upgraded Weapons] Golden Epitaph"
+      ]
+    },
+    {
+      "ID": 6100106,
+      "Entries": [
+        "[Upgraded Weapons] Inseparable Sword"
+      ]
+    },
+    {
+      "ID": 6100107,
+      "Entries": [
+        "[Upgraded Weapons] Coded Sword"
+      ]
+    },
+    {
+      "ID": 6100108,
+      "Entries": [
+        "[Upgraded Weapons] Sword of Night and Flame"
+      ]
+    },
+    {
+      "ID": 6100109,
+      "Entries": [
+        "[Upgraded Weapons] Crystal Sword"
+      ]
+    },
+    {
+      "ID": 6100110,
+      "Entries": [
+        "[Upgraded Weapons] Carian Knight's Sword"
+      ]
+    },
+    {
+      "ID": 6100111,
+      "Entries": [
+        "[Upgraded Weapons] Sword of St. Trina"
+      ]
+    },
+    {
+      "ID": 6100112,
+      "Entries": [
+        "[Upgraded Weapons] Miquellan Knight's Sword"
+      ]
+    },
+    {
+      "ID": 6100113,
+      "Entries": [
+        "[Upgraded Weapons] Cane Sword"
+      ]
+    },
+    {
+      "ID": 6100115,
+      "Entries": [
+        "[Upgraded Weapons] Noble's Slender Sword"
+      ]
+    },
+    {
+      "ID": 6100116,
+      "Entries": [
+        "[Upgraded Weapons] Warhawk's Talon"
+      ]
+    },
+    {
+      "ID": 6100117,
+      "Entries": [
+        "[Upgraded Weapons] Lazuli Glintstone Sword"
+      ]
+    },
+    {
+      "ID": 6100118,
+      "Entries": [
+        "[Upgraded Weapons] Rotten Crystal Sword"
+      ]
+    },
+    {
+      "ID": 6100120,
+      "Entries": [
+        "[Upgraded Weapons] Forked Greatsword"
+      ]
+    },
+    {
+      "ID": 6100121,
+      "Entries": [
+        "[Upgraded Weapons] Iron Greatsword"
+      ]
+    },
+    {
+      "ID": 6100122,
+      "Entries": [
+        "[Upgraded Weapons] Lordsworn's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100123,
+      "Entries": [
+        "[Upgraded Weapons] Knight's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100124,
+      "Entries": [
+        "[Upgraded Weapons] Flamberge"
+      ]
+    },
+    {
+      "ID": 6100125,
+      "Entries": [
+        "[Upgraded Weapons] Ordovis's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100126,
+      "Entries": [
+        "[Upgraded Weapons] Alabaster Lord's Sword"
+      ]
+    },
+    {
+      "ID": 6100127,
+      "Entries": [
+        "[Upgraded Weapons] Banished Knight's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100128,
+      "Entries": [
+        "[Upgraded Weapons] Dark Moon Greatsword"
+      ]
+    },
+    {
+      "ID": 6100129,
+      "Entries": [
+        "[Upgraded Weapons] Sacred Relic Sword"
+      ]
+    },
+    {
+      "ID": 6100130,
+      "Entries": [
+        "[Upgraded Weapons] Helphen's Steeple"
+      ]
+    },
+    {
+      "ID": 6100131,
+      "Entries": [
+        "[Upgraded Weapons] Blasphemous Blade"
+      ]
+    },
+    {
+      "ID": 6100132,
+      "Entries": [
+        "[Upgraded Weapons] Marais Executioner's Sword"
+      ]
+    },
+    {
+      "ID": 6100133,
+      "Entries": [
+        "[Upgraded Weapons] Sword of Milos"
+      ]
+    },
+    {
+      "ID": 6100134,
+      "Entries": [
+        "[Upgraded Weapons] Golden Order Greatsword"
+      ]
+    },
+    {
+      "ID": 6100135,
+      "Entries": [
+        "[Upgraded Weapons] Claymore"
+      ]
+    },
+    {
+      "ID": 6100136,
+      "Entries": [
+        "[Upgraded Weapons] Gargoyle's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100137,
+      "Entries": [
+        "[Upgraded Weapons] Death's Poker"
+      ]
+    },
+    {
+      "ID": 6100138,
+      "Entries": [
+        "[Upgraded Weapons] Gargoyle's Blackblade"
+      ]
+    },
+    {
+      "ID": 6100139,
+      "Entries": [
+        "[Upgraded Weapons] Greatsword"
+      ]
+    },
+    {
+      "ID": 6100140,
+      "Entries": [
+        "[Upgraded Weapons] Watchdog's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100141,
+      "Entries": [
+        "[Upgraded Weapons] Maliketh's Black Blade"
+      ]
+    },
+    {
+      "ID": 6100142,
+      "Entries": [
+        "[Upgraded Weapons] Troll's Golden Sword"
+      ]
+    },
+    {
+      "ID": 6100144,
+      "Entries": [
+        "[Upgraded Weapons] Starscourge Greatsword"
+      ]
+    },
+    {
+      "ID": 6100145,
+      "Entries": [
+        "[Upgraded Weapons] Royal Greatsword"
+      ]
+    },
+    {
+      "ID": 6100146,
+      "Entries": [
+        "[Upgraded Weapons] Godslayer's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100147,
+      "Entries": [
+        "[Upgraded Weapons] Ruins Greatsword"
+      ]
+    },
+    {
+      "ID": 6100148,
+      "Entries": [
+        "[Upgraded Weapons] Grafted Blade Greatsword"
+      ]
+    },
+    {
+      "ID": 6100149,
+      "Entries": [
+        "[Upgraded Weapons] Troll Knight's Sword"
+      ]
+    },
+    {
+      "ID": 6100151,
+      "Entries": [
+        "[Upgraded Weapons] Cleanrot Knight's Sword"
+      ]
+    },
+    {
+      "ID": 6100153,
+      "Entries": [
+        "[Upgraded Weapons] Rogier's Rapier"
+      ]
+    },
+    {
+      "ID": 6100154,
+      "Entries": [
+        "[Upgraded Weapons] Antspur Rapier"
+      ]
+    },
+    {
+      "ID": 6100155,
+      "Entries": [
+        "[Upgraded Weapons] Frozen Needle"
+      ]
+    },
+    {
+      "ID": 6100156,
+      "Entries": [
+        "[Upgraded Weapons] Noble's Estoc"
+      ]
+    },
+    {
+      "ID": 6100157,
+      "Entries": [
+        "[Upgraded Weapons] Bloody Helice"
+      ]
+    },
+    {
+      "ID": 6100158,
+      "Entries": [
+        "[Upgraded Weapons] Godskin Stitcher"
+      ]
+    },
+    {
+      "ID": 6100159,
+      "Entries": [
+        "[Upgraded Weapons] Great epee"
+      ]
+    },
+    {
+      "ID": 6100160,
+      "Entries": [
+        "[Upgraded Weapons] Dragon King's Cragblade"
+      ]
+    },
+    {
+      "ID": 6100161,
+      "Entries": [
+        "[Upgraded Weapons] Regalia of Eochaid"
+      ]
+    },
+    {
+      "ID": 6100199,
+      "Entries": [
+        "[Upgraded Weapons] Nox Flowing Sword"
+      ]
+    },
+    {
+      "ID": 6100200,
+      "Entries": [
+        "[Upgraded Weapons] Falchion"
+      ]
+    },
+    {
+      "ID": 6100201,
+      "Entries": [
+        "[Upgraded Weapons] Beastman's Curved Sword"
+      ]
+    },
+    {
+      "ID": 6100203,
+      "Entries": [
+        "[Upgraded Weapons] Shamshir"
+      ]
+    },
+    {
+      "ID": 6100204,
+      "Entries": [
+        "[Upgraded Weapons] Bandit's Curved Sword"
+      ]
+    },
+    {
+      "ID": 6100205,
+      "Entries": [
+        "[Upgraded Weapons] Magma Blade"
+      ]
+    },
+    {
+      "ID": 6100206,
+      "Entries": [
+        "[Upgraded Weapons] Flowing Curved Sword"
+      ]
+    },
+    {
+      "ID": 6100207,
+      "Entries": [
+        "[Upgraded Weapons] Wing of Astel"
+      ]
+    },
+    {
+      "ID": 6100208,
+      "Entries": [
+        "[Upgraded Weapons] Scavenger's Curved Sword"
+      ]
+    },
+    {
+      "ID": 6100209,
+      "Entries": [
+        "[Upgraded Weapons] Eclipse Shotel"
+      ]
+    },
+    {
+      "ID": 6100210,
+      "Entries": [
+        "[Upgraded Weapons] Serpent-God's Curved Sword"
+      ]
+    },
+    {
+      "ID": 6100211,
+      "Entries": [
+        "[Upgraded Weapons] Mantis Blade"
+      ]
+    },
+    {
+      "ID": 6100213,
+      "Entries": [
+        "[Upgraded Weapons] Grossmesser"
+      ]
+    },
+    {
+      "ID": 6100214,
+      "Entries": [
+        "[Upgraded Weapons] Onyx Lord's Greatsword"
+      ]
+    },
+    {
+      "ID": 6100215,
+      "Entries": [
+        "[Upgraded Weapons] Dismounter"
+      ]
+    },
+    {
+      "ID": 6100216,
+      "Entries": [
+        "[Upgraded Weapons] Bloodhound's Fang"
+      ]
+    },
+    {
+      "ID": 6100217,
+      "Entries": [
+        "[Upgraded Weapons] Magma Wyrm's Scalesword"
+      ]
+    },
+    {
+      "ID": 6100218,
+      "Entries": [
+        "[Upgraded Weapons] Zamor Curved Sword"
+      ]
+    },
+    {
+      "ID": 6100220,
+      "Entries": [
+        "[Upgraded Weapons] Monk's Flameblade"
+      ]
+    },
+    {
+      "ID": 6100221,
+      "Entries": [
+        "[Upgraded Weapons] Beastman's Cleaver"
+      ]
+    },
+    {
+      "ID": 6100222,
+      "Entries": [
+        "[Upgraded Weapons] Morgott's Cursed Sword"
+      ]
+    },
+    {
+      "ID": 6100224,
+      "Entries": [
+        "[Upgraded Weapons] Nagakiba"
+      ]
+    },
+    {
+      "ID": 6100225,
+      "Entries": [
+        "[Upgraded Weapons] Hand of Malenia"
+      ]
+    },
+    {
+      "ID": 6100226,
+      "Entries": [
+        "[Upgraded Weapons] Meteoric Ore Blade"
+      ]
+    },
+    {
+      "ID": 6100227,
+      "Entries": [
+        "[Upgraded Weapons] Rivers of Blood"
+      ]
+    },
+    {
+      "ID": 6100228,
+      "Entries": [
+        "[Upgraded Weapons] Moonveil"
+      ]
+    },
+    {
+      "ID": 6100229,
+      "Entries": [
+        "[Upgraded Weapons] Dragonscale Blade"
+      ]
+    },
+    {
+      "ID": 6100230,
+      "Entries": [
+        "[Upgraded Weapons] Serpentbone Blade"
+      ]
+    },
+    {
+      "ID": 6100231,
+      "Entries": [
+        "[Upgraded Weapons] Twinblade"
+      ]
+    },
+    {
+      "ID": 6100232,
+      "Entries": [
+        "[Upgraded Weapons] Godskin Peeler"
+      ]
+    },
+    {
+      "ID": 6100233,
+      "Entries": [
+        "[Upgraded Weapons] Twinned Knight Swords"
+      ]
+    },
+    {
+      "ID": 6100234,
+      "Entries": [
+        "[Upgraded Weapons] Eleonora's Poleblade"
+      ]
+    },
+    {
+      "ID": 6100235,
+      "Entries": [
+        "[Upgraded Weapons] Gargoyle's Twinblade"
+      ]
+    },
+    {
+      "ID": 6100236,
+      "Entries": [
+        "[Upgraded Weapons] Gargoyle's Black Blades"
+      ]
+    },
+    {
+      "ID": 6100301,
+      "Entries": [
+        "[Upgraded Weapons] Curved Club"
+      ]
+    },
+    {
+      "ID": 6100303,
+      "Entries": [
+        "[Upgraded Weapons] Morning Star"
+      ]
+    },
+    {
+      "ID": 6100304,
+      "Entries": [
+        "[Upgraded Weapons] Varre's Bouquet"
+      ]
+    },
+    {
+      "ID": 6100307,
+      "Entries": [
+        "[Upgraded Weapons] Monk's Flamemace"
+      ]
+    },
+    {
+      "ID": 6100308,
+      "Entries": [
+        "[Upgraded Weapons] Envoy's Horn"
+      ]
+    },
+    {
+      "ID": 6100309,
+      "Entries": [
+        "[Upgraded Weapons] Scepter of the All-Knowing"
+      ]
+    },
+    {
+      "ID": 6100310,
+      "Entries": [
+        "[Upgraded Weapons] Nox Flowing Hammer"
+      ]
+    },
+    {
+      "ID": 6100311,
+      "Entries": [
+        "[Upgraded Weapons] Ringed Finger"
+      ]
+    },
+    {
+      "ID": 6100312,
+      "Entries": [
+        "[Upgraded Weapons] Stone Club"
+      ]
+    },
+    {
+      "ID": 6100313,
+      "Entries": [
+        "[Upgraded Weapons] Marika's Hammer"
+      ]
+    },
+    {
+      "ID": 6100314,
+      "Entries": [
+        "[Upgraded Weapons] Large Club"
+      ]
+    },
+    {
+      "ID": 6100315,
+      "Entries": [
+        "[Upgraded Weapons] Greathorn Hammer"
+      ]
+    },
+    {
+      "ID": 6100316,
+      "Entries": [
+        "[Upgraded Weapons] Battle Hammer"
+      ]
+    },
+    {
+      "ID": 6100317,
+      "Entries": [
+        "[Upgraded Weapons] Great Mace"
+      ]
+    },
+    {
+      "ID": 6100318,
+      "Entries": [
+        "[Upgraded Weapons] Curved Great Club"
+      ]
+    },
+    {
+      "ID": 6100319,
+      "Entries": [
+        "[Upgraded Weapons] Celebrant's Skull"
+      ]
+    },
+    {
+      "ID": 6100320,
+      "Entries": [
+        "[Upgraded Weapons] Pickaxe"
+      ]
+    },
+    {
+      "ID": 6100321,
+      "Entries": [
+        "[Upgraded Weapons] Beastclaw Greathammer"
+      ]
+    },
+    {
+      "ID": 6100322,
+      "Entries": [
+        "[Upgraded Weapons] Envoy's Long Horn"
+      ]
+    },
+    {
+      "ID": 6100323,
+      "Entries": [
+        "[Upgraded Weapons] Cranial Vessel Candlestand"
+      ]
+    },
+    {
+      "ID": 6100324,
+      "Entries": [
+        "[Upgraded Weapons] Great Stars"
+      ]
+    },
+    {
+      "ID": 6100325,
+      "Entries": [
+        "[Upgraded Weapons] Brick Hammer"
+      ]
+    },
+    {
+      "ID": 6100326,
+      "Entries": [
+        "[Upgraded Weapons] Devourer's Scepter"
+      ]
+    },
+    {
+      "ID": 6100327,
+      "Entries": [
+        "[Upgraded Weapons] Rotten Battle Hammer"
+      ]
+    },
+    {
+      "ID": 6100328,
+      "Entries": [
+        "[Upgraded Weapons] Nightrider Flail"
+      ]
+    },
+    {
+      "ID": 6100330,
+      "Entries": [
+        "[Upgraded Weapons] Family Heads"
+      ]
+    },
+    {
+      "ID": 6100331,
+      "Entries": [
+        "[Upgraded Weapons] Bastard's Stars"
+      ]
+    },
+    {
+      "ID": 6100332,
+      "Entries": [
+        "[Upgraded Weapons] Chainlink Flail"
+      ]
+    },
+    {
+      "ID": 6100334,
+      "Entries": [
+        "[Upgraded Weapons] Forked Hatchet"
+      ]
+    },
+    {
+      "ID": 6100336,
+      "Entries": [
+        "[Upgraded Weapons] Jawbone Axe"
+      ]
+    },
+    {
+      "ID": 6100337,
+      "Entries": [
+        "[Upgraded Weapons] Iron Cleaver"
+      ]
+    },
+    {
+      "ID": 6100339,
+      "Entries": [
+        "[Upgraded Weapons] Celebrant's Cleaver"
+      ]
+    },
+    {
+      "ID": 6100340,
+      "Entries": [
+        "[Upgraded Weapons] Icerind Hatchet"
+      ]
+    },
+    {
+      "ID": 6100342,
+      "Entries": [
+        "[Upgraded Weapons] Sacrificial Axe"
+      ]
+    },
+    {
+      "ID": 6100343,
+      "Entries": [
+        "[Upgraded Weapons] Rosus' Axe"
+      ]
+    },
+    {
+      "ID": 6100344,
+      "Entries": [
+        "[Upgraded Weapons] Stormhawk Axe"
+      ]
+    },
+    {
+      "ID": 6100345,
+      "Entries": [
+        "[Upgraded Weapons] Greataxe"
+      ]
+    },
+    {
+      "ID": 6100346,
+      "Entries": [
+        "[Upgraded Weapons] Warped Axe"
+      ]
+    },
+    {
+      "ID": 6100347,
+      "Entries": [
+        "[Upgraded Weapons] Great Omenkiller Cleaver"
+      ]
+    },
+    {
+      "ID": 6100349,
+      "Entries": [
+        "[Upgraded Weapons] Axe of Godrick"
+      ]
+    },
+    {
+      "ID": 6100350,
+      "Entries": [
+        "[Upgraded Weapons] Longhaft Axe"
+      ]
+    },
+    {
+      "ID": 6100351,
+      "Entries": [
+        "[Upgraded Weapons] Rusted Anchor"
+      ]
+    },
+    {
+      "ID": 6100352,
+      "Entries": [
+        "[Upgraded Weapons] Executioner's Greataxe"
+      ]
+    },
+    {
+      "ID": 6100353,
+      "Entries": [
+        "[Upgraded Weapons] Winged Greathorn"
+      ]
+    },
+    {
+      "ID": 6100354,
+      "Entries": [
+        "[Upgraded Weapons] Butchering Knife"
+      ]
+    },
+    {
+      "ID": 6100355,
+      "Entries": [
+        "[Upgraded Weapons] Gargoyle's Great Axe"
+      ]
+    },
+    {
+      "ID": 6100356,
+      "Entries": [
+        "[Upgraded Weapons] Gargoyle's Black Axe"
+      ]
+    },
+    {
+      "ID": 6100357,
+      "Entries": [
+        "[Upgraded Weapons] Prelate's Inferno Crozier"
+      ]
+    },
+    {
+      "ID": 6100358,
+      "Entries": [
+        "[Upgraded Weapons] Watchdog's Staff"
+      ]
+    },
+    {
+      "ID": 6100359,
+      "Entries": [
+        "[Upgraded Weapons] Great Club"
+      ]
+    },
+    {
+      "ID": 6100360,
+      "Entries": [
+        "[Upgraded Weapons] Envoy's Greathorn"
+      ]
+    },
+    {
+      "ID": 6100361,
+      "Entries": [
+        "[Upgraded Weapons] Duelist Greataxe"
+      ]
+    },
+    {
+      "ID": 6100362,
+      "Entries": [
+        "[Upgraded Weapons] Axe of Godfrey"
+      ]
+    },
+    {
+      "ID": 6100363,
+      "Entries": [
+        "[Upgraded Weapons] Dragon Greatclaw"
+      ]
+    },
+    {
+      "ID": 6100364,
+      "Entries": [
+        "[Upgraded Weapons] Staff of the Avatar"
+      ]
+    },
+    {
+      "ID": 6100365,
+      "Entries": [
+        "[Upgraded Weapons] Fallingstar Beast Jaw"
+      ]
+    },
+    {
+      "ID": 6100366,
+      "Entries": [
+        "[Upgraded Weapons] Ghiza's Wheel"
+      ]
+    },
+    {
+      "ID": 6100367,
+      "Entries": [
+        "[Upgraded Weapons] Giant-Crusher"
+      ]
+    },
+    {
+      "ID": 6100368,
+      "Entries": [
+        "[Upgraded Weapons] Golem's Halberd"
+      ]
+    },
+    {
+      "ID": 6100369,
+      "Entries": [
+        "[Upgraded Weapons] Troll's Hammer"
+      ]
+    },
+    {
+      "ID": 6100370,
+      "Entries": [
+        "[Upgraded Weapons] Rotten Staff"
+      ]
+    },
+    {
+      "ID": 6100371,
+      "Entries": [
+        "[Upgraded Weapons] Rotten Greataxe"
+      ]
+    },
+    {
+      "ID": 6100401,
+      "Entries": [
+        "[Upgraded Weapons] Crystal Spear"
+      ]
+    },
+    {
+      "ID": 6100402,
+      "Entries": [
+        "[Upgraded Weapons] Clayman's Harpoon"
+      ]
+    },
+    {
+      "ID": 6100403,
+      "Entries": [
+        "[Upgraded Weapons] Cleanrot Spear"
+      ]
+    },
+    {
+      "ID": 6100404,
+      "Entries": [
+        "[Upgraded Weapons] Partisan"
+      ]
+    },
+    {
+      "ID": 6100405,
+      "Entries": [
+        "[Upgraded Weapons] Celebrant's Rib-Rake"
+      ]
+    },
+    {
+      "ID": 6100408,
+      "Entries": [
+        "[Upgraded Weapons] Bolt of Gransax"
+      ]
+    },
+    {
+      "ID": 6100409,
+      "Entries": [
+        "[Upgraded Weapons] Cross-Naginata"
+      ]
+    },
+    {
+      "ID": 6100410,
+      "Entries": [
+        "[Upgraded Weapons] Death Ritual Spear"
+      ]
+    },
+    {
+      "ID": 6100411,
+      "Entries": [
+        "[Upgraded Weapons] Inquisitor's Girandole"
+      ]
+    },
+    {
+      "ID": 6100412,
+      "Entries": [
+        "[Upgraded Weapons] Spiked Spear"
+      ]
+    },
+    {
+      "ID": 6100414,
+      "Entries": [
+        "[Upgraded Weapons] Rotten Crystal Spear"
+      ]
+    },
+    {
+      "ID": 6100415,
+      "Entries": [
+        "[Upgraded Weapons] Mohgwyn's Sacred Spear"
+      ]
+    },
+    {
+      "ID": 6100416,
+      "Entries": [
+        "[Upgraded Weapons] Siluria's Tree"
+      ]
+    },
+    {
+      "ID": 6100417,
+      "Entries": [
+        "[Upgraded Weapons] Serpent-Hunter"
+      ]
+    },
+    {
+      "ID": 6100418,
+      "Entries": [
+        "[Upgraded Weapons] Vyke's War Spear"
+      ]
+    },
+    {
+      "ID": 6100420,
+      "Entries": [
+        "[Upgraded Weapons] Treespear"
+      ]
+    },
+    {
+      "ID": 6100422,
+      "Entries": [
+        "[Upgraded Weapons] Pest's Glaive"
+      ]
+    },
+    {
+      "ID": 6100423,
+      "Entries": [
+        "[Upgraded Weapons] Lucerne"
+      ]
+    },
+    {
+      "ID": 6100424,
+      "Entries": [
+        "[Upgraded Weapons] Banished Knight's Halberd"
+      ]
+    },
+    {
+      "ID": 6100425,
+      "Entries": [
+        "[Upgraded Weapons] Commander's Standard"
+      ]
+    },
+    {
+      "ID": 6100426,
+      "Entries": [
+        "[Upgraded Weapons] Nightrider Glaive"
+      ]
+    },
+    {
+      "ID": 6100427,
+      "Entries": [
+        "[Upgraded Weapons] Ripple Crescent Halberd"
+      ]
+    },
+    {
+      "ID": 6100428,
+      "Entries": [
+        "[Upgraded Weapons] Vulgar Militia Saw"
+      ]
+    },
+    {
+      "ID": 6100429,
+      "Entries": [
+        "[Upgraded Weapons] Golden Halberd"
+      ]
+    },
+    {
+      "ID": 6100430,
+      "Entries": [
+        "[Upgraded Weapons] Glaive"
+      ]
+    },
+    {
+      "ID": 6100431,
+      "Entries": [
+        "[Upgraded Weapons] Loretta's War Sickle"
+      ]
+    },
+    {
+      "ID": 6100432,
+      "Entries": [
+        "[Upgraded Weapons] Guardian's Swordspear"
+      ]
+    },
+    {
+      "ID": 6100433,
+      "Entries": [
+        "[Upgraded Weapons] Vulgar Militia Shotel"
+      ]
+    },
+    {
+      "ID": 6100434,
+      "Entries": [
+        "[Upgraded Weapons] Dragon Halberd"
+      ]
+    },
+    {
+      "ID": 6100435,
+      "Entries": [
+        "[Upgraded Weapons] Gargoyle's Halberd"
+      ]
+    },
+    {
+      "ID": 6100436,
+      "Entries": [
+        "[Upgraded Weapons] Gargoyle's Black Halberd"
+      ]
+    },
+    {
+      "ID": 6100437,
+      "Entries": [
+        "[Upgraded Weapons] Scythe"
+      ]
+    },
+    {
+      "ID": 6100438,
+      "Entries": [
+        "[Upgraded Weapons] Grave Scythe"
+      ]
+    },
+    {
+      "ID": 6100439,
+      "Entries": [
+        "[Upgraded Weapons] Halo Scythe"
+      ]
+    },
+    {
+      "ID": 6100440,
+      "Entries": [
+        "[Upgraded Weapons] Winged Scythe"
+      ]
+    },
+    {
+      "ID": 6100500,
+      "Entries": [
+        "[Upgraded Weapons] Black Knife"
+      ]
+    },
+    {
+      "ID": 6100502,
+      "Entries": [
+        "[Upgraded Weapons] Misericorde"
+      ]
+    },
+    {
+      "ID": 6100503,
+      "Entries": [
+        "[Upgraded Weapons] Reduvia"
+      ]
+    },
+    {
+      "ID": 6100504,
+      "Entries": [
+        "[Upgraded Weapons] Crystal Knife"
+      ]
+    },
+    {
+      "ID": 6100505,
+      "Entries": [
+        "[Upgraded Weapons] Celebrant's Sickle"
+      ]
+    },
+    {
+      "ID": 6100506,
+      "Entries": [
+        "[Upgraded Weapons] Glintstone Kris"
+      ]
+    },
+    {
+      "ID": 6100507,
+      "Entries": [
+        "[Upgraded Weapons] Scorpion's Stinger"
+      ]
+    },
+    {
+      "ID": 6100508,
+      "Entries": [
+        "[Upgraded Weapons] Great Knife"
+      ]
+    },
+    {
+      "ID": 6100509,
+      "Entries": [
+        "[Upgraded Weapons] Wakizashi"
+      ]
+    },
+    {
+      "ID": 6100510,
+      "Entries": [
+        "[Upgraded Weapons] Cinquedea"
+      ]
+    },
+    {
+      "ID": 6100511,
+      "Entries": [
+        "[Upgraded Weapons] Ivory Sickle"
+      ]
+    },
+    {
+      "ID": 6100512,
+      "Entries": [
+        "[Upgraded Weapons] Bloodstained Dagger"
+      ]
+    },
+    {
+      "ID": 6100513,
+      "Entries": [
+        "[Upgraded Weapons] Erdsteel Dagger"
+      ]
+    },
+    {
+      "ID": 6100514,
+      "Entries": [
+        "[Upgraded Weapons] Blade of Calling"
+      ]
+    },
+    {
+      "ID": 6100516,
+      "Entries": [
+        "[Upgraded Weapons] Thorned Whip"
+      ]
+    },
+    {
+      "ID": 6100517,
+      "Entries": [
+        "[Upgraded Weapons] Magma Whip Candlestick"
+      ]
+    },
+    {
+      "ID": 6100518,
+      "Entries": [
+        "[Upgraded Weapons] Hoslow's Petal Whip"
+      ]
+    },
+    {
+      "ID": 6100519,
+      "Entries": [
+        "[Upgraded Weapons] Giant's Red Braid"
+      ]
+    },
+    {
+      "ID": 6100520,
+      "Entries": [
+        "[Upgraded Weapons] Urumi"
+      ]
+    },
+    {
+      "ID": 6100523,
+      "Entries": [
+        "[Upgraded Weapons] Grafted Dragon"
+      ]
+    },
+    {
+      "ID": 6100524,
+      "Entries": [
+        "[Upgraded Weapons] Iron Ball"
+      ]
+    },
+    {
+      "ID": 6100525,
+      "Entries": [
+        "[Upgraded Weapons] Star Fist"
+      ]
+    },
+    {
+      "ID": 6100526,
+      "Entries": [
+        "[Upgraded Weapons] Katar"
+      ]
+    },
+    {
+      "ID": 6100527,
+      "Entries": [
+        "[Upgraded Weapons] Clinging Bone"
+      ]
+    },
+    {
+      "ID": 6100528,
+      "Entries": [
+        "[Upgraded Weapons] Veteran's Prosthesis"
+      ]
+    },
+    {
+      "ID": 6100529,
+      "Entries": [
+        "[Upgraded Weapons] Cipher Pata"
+      ]
+    },
+    {
+      "ID": 6100531,
+      "Entries": [
+        "[Upgraded Weapons] Venomous Fang"
+      ]
+    },
+    {
+      "ID": 6100532,
+      "Entries": [
+        "[Upgraded Weapons] Bloodhound Claws"
+      ]
+    },
+    {
+      "ID": 6100533,
+      "Entries": [
+        "[Upgraded Weapons] Raptor Talons"
+      ]
+    },
+    {
+      "ID": 6100600,
+      "Entries": [
+        "[Upgraded Weapons] Misbegotten Shortbow"
+      ]
+    },
+    {
+      "ID": 6100601,
+      "Entries": [
+        "[Upgraded Weapons] Red Branch Shortbow"
+      ]
+    },
+    {
+      "ID": 6100602,
+      "Entries": [
+        "[Upgraded Weapons] Harp Bow"
+      ]
+    },
+    {
+      "ID": 6100605,
+      "Entries": [
+        "[Upgraded Weapons] Albinauric Bow"
+      ]
+    },
+    {
+      "ID": 6100606,
+      "Entries": [
+        "[Upgraded Weapons] Horn Bow"
+      ]
+    },
+    {
+      "ID": 6100607,
+      "Entries": [
+        "[Upgraded Weapons] Erdtree Bow"
+      ]
+    },
+    {
+      "ID": 6100608,
+      "Entries": [
+        "[Upgraded Weapons] Serpent Bow"
+      ]
+    },
+    {
+      "ID": 6100609,
+      "Entries": [
+        "[Upgraded Weapons] Pulley Bow"
+      ]
+    },
+    {
+      "ID": 6100610,
+      "Entries": [
+        "[Upgraded Weapons] Black Bow"
+      ]
+    },
+    {
+      "ID": 6100611,
+      "Entries": [
+        "[Upgraded Weapons] Lion Greatbow"
+      ]
+    },
+    {
+      "ID": 6100612,
+      "Entries": [
+        "[Upgraded Weapons] Golem Greatbow"
+      ]
+    },
+    {
+      "ID": 6100613,
+      "Entries": [
+        "[Upgraded Weapons] Erdtree Greatbow"
+      ]
+    },
+    {
+      "ID": 6100614,
+      "Entries": [
+        "[Upgraded Weapons] Greatbow"
+      ]
+    },
+    {
+      "ID": 6100615,
+      "Entries": [
+        "[Upgraded Weapons] Soldier's Crossbow"
+      ]
+    },
+    {
+      "ID": 6100617,
+      "Entries": [
+        "[Upgraded Weapons] Heavy Crossbow"
+      ]
+    },
+    {
+      "ID": 6100618,
+      "Entries": [
+        "[Upgraded Weapons] Pulley Crossbow"
+      ]
+    },
+    {
+      "ID": 6100619,
+      "Entries": [
+        "[Upgraded Weapons] Full Moon Crossbow"
+      ]
+    },
+    {
+      "ID": 6100621,
+      "Entries": [
+        "[Upgraded Weapons] Crepus's Black-Key Crossbow"
+      ]
+    },
+    {
+      "ID": 6100622,
+      "Entries": [
+        "[Upgraded Weapons] Hand Ballista"
+      ]
+    },
+    {
+      "ID": 6100623,
+      "Entries": [
+        "[Upgraded Weapons] Jar Cannon"
+      ]
+    },
+    {
+      "ID": 6100699,
+      "Entries": [
+        "[Upgraded Weapons] Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6100700,
+      "Entries": [
+        "[Upgraded Weapons] Crystal Staff"
+      ]
+    },
+    {
+      "ID": 6100701,
+      "Entries": [
+        "[Upgraded Weapons] Gelmir Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6100703,
+      "Entries": [
+        "[Upgraded Weapons] Carian Regal Scepter"
+      ]
+    },
+    {
+      "ID": 6100704,
+      "Entries": [
+        "[Upgraded Weapons] Digger's Staff"
+      ]
+    },
+    {
+      "ID": 6100706,
+      "Entries": [
+        "[Upgraded Weapons] Carian Glintblade Staff"
+      ]
+    },
+    {
+      "ID": 6100707,
+      "Entries": [
+        "[Upgraded Weapons] Prince of Death's Staff"
+      ]
+    },
+    {
+      "ID": 6100708,
+      "Entries": [
+        "[Upgraded Weapons] Albinauric Staff"
+      ]
+    },
+    {
+      "ID": 6100709,
+      "Entries": [
+        "[Upgraded Weapons] Academy Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6100710,
+      "Entries": [
+        "[Upgraded Weapons] Carian Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6100711,
+      "Entries": [
+        "[Upgraded Weapons] Azur's Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6100712,
+      "Entries": [
+        "[Upgraded Weapons] Lusat's Glintstone Staff"
+      ]
+    },
+    {
+      "ID": 6100713,
+      "Entries": [
+        "[Upgraded Weapons] Meteorite Staff"
+      ]
+    },
+    {
+      "ID": 6100714,
+      "Entries": [
+        "[Upgraded Weapons] Staff of the Guilty"
+      ]
+    },
+    {
+      "ID": 6100715,
+      "Entries": [
+        "[Upgraded Weapons] Rotten Crystal Staff"
+      ]
+    },
+    {
+      "ID": 6100716,
+      "Entries": [
+        "[Upgraded Weapons] Staff of Loss"
+      ]
+    },
+    {
+      "ID": 6100718,
+      "Entries": [
+        "[Upgraded Weapons] Godslayer's Seal"
+      ]
+    },
+    {
+      "ID": 6100719,
+      "Entries": [
+        "[Upgraded Weapons] Giant's Seal"
+      ]
+    },
+    {
+      "ID": 6100720,
+      "Entries": [
+        "[Upgraded Weapons] Gravel Stone Seal"
+      ]
+    },
+    {
+      "ID": 6100721,
+      "Entries": [
+        "[Upgraded Weapons] Clawmark Seal"
+      ]
+    },
+    {
+      "ID": 6100722,
+      "Entries": [
+        "[Upgraded Weapons] Golden Order Seal"
+      ]
+    },
+    {
+      "ID": 6100723,
+      "Entries": [
+        "[Upgraded Weapons] Erdtree Seal"
+      ]
+    },
+    {
+      "ID": 6100724,
+      "Entries": [
+        "[Upgraded Weapons] Dragon Communion Seal"
+      ]
+    },
+    {
+      "ID": 6100725,
+      "Entries": [
+        "[Upgraded Weapons] Frenzied Flame Seal"
+      ]
+    },
+    {
+      "ID": 6100800,
+      "Entries": [
+        "[Upgraded Weapons] Perfumer's Shield"
+      ]
+    },
+    {
+      "ID": 6100801,
+      "Entries": [
+        "[Upgraded Weapons] Man-Serpent's Shield"
+      ]
+    },
+    {
+      "ID": 6100802,
+      "Entries": [
+        "[Upgraded Weapons] Rickety Shield"
+      ]
+    },
+    {
+      "ID": 6100803,
+      "Entries": [
+        "[Upgraded Weapons] Pillory Shield"
+      ]
+    },
+    {
+      "ID": 6100804,
+      "Entries": [
+        "[Upgraded Weapons] Beastman's Jar-Shield"
+      ]
+    },
+    {
+      "ID": 6100806,
+      "Entries": [
+        "[Upgraded Weapons] Scripture Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6100808,
+      "Entries": [
+        "[Upgraded Weapons] Blue-White Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6100811,
+      "Entries": [
+        "[Upgraded Weapons] Gilded Iron Shield"
+      ]
+    },
+    {
+      "ID": 6100812,
+      "Entries": [
+        "[Upgraded Weapons] Ice Crest Shield"
+      ]
+    },
+    {
+      "ID": 6100813,
+      "Entries": [
+        "[Upgraded Weapons] Smoldering Shield"
+      ]
+    },
+    {
+      "ID": 6100814,
+      "Entries": [
+        "[Upgraded Weapons] Spiralhorn Shield"
+      ]
+    },
+    {
+      "ID": 6100815,
+      "Entries": [
+        "[Upgraded Weapons] Coil Shield"
+      ]
+    },
+    {
+      "ID": 6100817,
+      "Entries": [
+        "[Upgraded Weapons] Marred Leather Shield"
+      ]
+    },
+    {
+      "ID": 6100819,
+      "Entries": [
+        "[Upgraded Weapons] Banished Knight's Shield"
+      ]
+    },
+    {
+      "ID": 6100820,
+      "Entries": [
+        "[Upgraded Weapons] Albinauric Shield"
+      ]
+    },
+    {
+      "ID": 6100821,
+      "Entries": [
+        "[Upgraded Weapons] Sun Realm Shield"
+      ]
+    },
+    {
+      "ID": 6100822,
+      "Entries": [
+        "[Upgraded Weapons] Silver Mirrorshield"
+      ]
+    },
+    {
+      "ID": 6100825,
+      "Entries": [
+        "[Upgraded Weapons] Twinbird Kite Shield"
+      ]
+    },
+    {
+      "ID": 6100827,
+      "Entries": [
+        "[Upgraded Weapons] Brass Shield"
+      ]
+    },
+    {
+      "ID": 6100828,
+      "Entries": [
+        "[Upgraded Weapons] Great Turtle Shell"
+      ]
+    },
+    {
+      "ID": 6100829,
+      "Entries": [
+        "[Upgraded Weapons] Shield of the Guilty"
+      ]
+    },
+    {
+      "ID": 6100830,
+      "Entries": [
+        "[Upgraded Weapons] Carian Knight's Shield"
+      ]
+    },
+    {
+      "ID": 6100833,
+      "Entries": [
+        "[Upgraded Weapons] Candletree Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6100834,
+      "Entries": [
+        "[Upgraded Weapons] Flame Crest Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6100836,
+      "Entries": [
+        "[Upgraded Weapons] Beast Crest Heater Shield"
+      ]
+    },
+    {
+      "ID": 6100839,
+      "Entries": [
+        "[Upgraded Weapons] Eclipse Crest Heater Shield"
+      ]
+    },
+    {
+      "ID": 6100843,
+      "Entries": [
+        "[Upgraded Weapons] Dragon Towershield"
+      ]
+    },
+    {
+      "ID": 6100845,
+      "Entries": [
+        "[Upgraded Weapons] Crucible Hornshield"
+      ]
+    },
+    {
+      "ID": 6100846,
+      "Entries": [
+        "[Upgraded Weapons] Dragonclaw Shield"
+      ]
+    },
+    {
+      "ID": 6100847,
+      "Entries": [
+        "[Upgraded Weapons] Briar Greatshield"
+      ]
+    },
+    {
+      "ID": 6100848,
+      "Entries": [
+        "[Upgraded Weapons] Erdtree Greatshield"
+      ]
+    },
+    {
+      "ID": 6100849,
+      "Entries": [
+        "[Upgraded Weapons] Golden Beast Crest Shield"
+      ]
+    },
+    {
+      "ID": 6100850,
+      "Entries": [
+        "[Upgraded Weapons] Jellyfish Shield"
+      ]
+    },
+    {
+      "ID": 6100851,
+      "Entries": [
+        "[Upgraded Weapons] Fingerprint Stone Shield"
+      ]
+    },
+    {
+      "ID": 6100852,
+      "Entries": [
+        "[Upgraded Weapons] Icon Shield"
+      ]
+    },
+    {
+      "ID": 6100853,
+      "Entries": [
+        "[Upgraded Weapons] One-Eyed Shield"
+      ]
+    },
+    {
+      "ID": 6100854,
+      "Entries": [
+        "[Upgraded Weapons] Visage Shield"
+      ]
+    },
+    {
+      "ID": 6100855,
+      "Entries": [
+        "[Upgraded Weapons] Spiked Palisade Shield"
+      ]
+    },
+    {
+      "ID": 6100856,
+      "Entries": [
+        "[Upgraded Weapons] Manor Towershield"
+      ]
+    },
+    {
+      "ID": 6100858,
+      "Entries": [
+        "[Upgraded Weapons] Inverted Hawk Towershield"
+      ]
+    },
+    {
+      "ID": 6100859,
+      "Entries": [
+        "[Upgraded Weapons] Ant's Skull Plate"
+      ]
+    },
+    {
+      "ID": 6100860,
+      "Entries": [
+        "[Upgraded Weapons] Redmane Greatshield"
+      ]
+    },
+    {
+      "ID": 6100861,
+      "Entries": [
+        "[Upgraded Weapons] Eclipse Crest Greatshield"
+      ]
+    },
+    {
+      "ID": 6100862,
+      "Entries": [
+        "[Upgraded Weapons] Cuckoo Greatshield"
+      ]
+    },
+    {
+      "ID": 6100863,
+      "Entries": [
+        "[Upgraded Weapons] Golden Greatshield"
+      ]
+    },
+    {
+      "ID": 6100864,
+      "Entries": [
+        "[Upgraded Weapons] Gilded Greatshield"
+      ]
+    },
+    {
+      "ID": 6100865,
+      "Entries": [
+        "[Upgraded Weapons] Haligtree Crest Greatshield"
+      ]
+    },
+    {
+      "ID": 6100867,
+      "Entries": [
+        "[Upgraded Weapons] Lordsworn's Shield"
+      ]
+    },
+    {
+      "ID": 6100900,
+      "Entries": [
+        "[Upgraded Weapons] Steel-Wire Torch"
+      ]
+    },
+    {
+      "ID": 6100901,
+      "Entries": [
+        "[Upgraded Weapons] St. Trina's Torch"
+      ]
+    },
+    {
+      "ID": 6100902,
+      "Entries": [
+        "[Upgraded Weapons] Ghostflame Torch"
+      ]
+    },
+    {
+      "ID": 6101000,
+      "Entries": [
+        "[Upgraded Weapons] Astrologer's Staff"
+      ]
+    },
+    {
+      "ID": 6101001,
+      "Entries": [
+        "[Upgraded Weapons] Battle Axe"
+      ]
+    },
+    {
+      "ID": 6101002,
+      "Entries": [
+        "[Upgraded Weapons] Beast-Repellent Torch"
+      ]
+    },
+    {
+      "ID": 6101003,
+      "Entries": [
+        "[Upgraded Weapons] Black Leather Shield"
+      ]
+    },
+    {
+      "ID": 6101004,
+      "Entries": [
+        "[Upgraded Weapons] Blue-Gold Kite Shield"
+      ]
+    },
+    {
+      "ID": 6101005,
+      "Entries": [
+        "[Upgraded Weapons] Buckler"
+      ]
+    },
+    {
+      "ID": 6101006,
+      "Entries": [
+        "[Upgraded Weapons] Caestus"
+      ]
+    },
+    {
+      "ID": 6101007,
+      "Entries": [
+        "[Upgraded Weapons] Dagger"
+      ]
+    },
+    {
+      "ID": 6101008,
+      "Entries": [
+        "[DLC Upgraded Weapons] Deadly Poison Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 6101009,
+      "Entries": [
+        "[Upgraded Weapons] Distinguished Greatshield"
+      ]
+    },
+    {
+      "ID": 6101010,
+      "Entries": [
+        "[Upgraded Weapons] Estoc"
+      ]
+    },
+    {
+      "ID": 6101011,
+      "Entries": [
+        "[Upgraded Weapons] Finger Seal"
+      ]
+    },
+    {
+      "ID": 6101012,
+      "Entries": [
+        "[Upgraded Weapons] Halberd"
+      ]
+    },
+    {
+      "ID": 6101013,
+      "Entries": [
+        "[Upgraded Weapons] Hand Axe"
+      ]
+    },
+    {
+      "ID": 6101014,
+      "Entries": [
+        "[Upgraded Weapons] Heater Shield"
+      ]
+    },
+    {
+      "ID": 6101015,
+      "Entries": [
+        "[Upgraded Weapons] Horse Crest Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6101016,
+      "Entries": [
+        "[Upgraded Weapons] Iron Roundshield"
+      ]
+    },
+    {
+      "ID": 6101017,
+      "Entries": [
+        "[Upgraded Weapons] Kite Shield"
+      ]
+    },
+    {
+      "ID": 6101018,
+      "Entries": [
+        "[Upgraded Weapons] Large Leather Shield"
+      ]
+    },
+    {
+      "ID": 6101019,
+      "Entries": [
+        "[Upgraded Weapons] Light Crossbow"
+      ]
+    },
+    {
+      "ID": 6101020,
+      "Entries": [
+        "[Upgraded Weapons] Longbow"
+      ]
+    },
+    {
+      "ID": 6101021,
+      "Entries": [
+        "[Upgraded Weapons] Longsword"
+      ]
+    },
+    {
+      "ID": 6101022,
+      "Entries": [
+        "[Upgraded Weapons] Mace"
+      ]
+    },
+    {
+      "ID": 6101023,
+      "Entries": [
+        "[Upgraded Weapons] Parrying Dagger"
+      ]
+    },
+    {
+      "ID": 6101024,
+      "Entries": [
+        "[Upgraded Weapons] Rapier"
+      ]
+    },
+    {
+      "ID": 6101025,
+      "Entries": [
+        "[Upgraded Weapons] Ripple Blade"
+      ]
+    },
+    {
+      "ID": 6101026,
+      "Entries": [
+        "[Upgraded Weapons] Red Thorn Roundshield"
+      ]
+    },
+    {
+      "ID": 6101027,
+      "Entries": [
+        "[Upgraded Weapons] Riveted Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6101028,
+      "Entries": [
+        "[Upgraded Weapons] Round Shield"
+      ]
+    },
+    {
+      "ID": 6101029,
+      "Entries": [
+        "[Upgraded Weapons] Scimitar"
+      ]
+    },
+    {
+      "ID": 6101030,
+      "Entries": [
+        "[Upgraded Weapons] Sentry's Torch"
+      ]
+    },
+    {
+      "ID": 6101031,
+      "Entries": [
+        "[Upgraded Weapons] Short Spear"
+      ]
+    },
+    {
+      "ID": 6101032,
+      "Entries": [
+        "[Upgraded Weapons] Short Sword"
+      ]
+    },
+    {
+      "ID": 6101033,
+      "Entries": [
+        "[Upgraded Weapons] Shotel"
+      ]
+    },
+    {
+      "ID": 6101034,
+      "Entries": [
+        "[Upgraded Weapons] Spiked Caestus"
+      ]
+    },
+    {
+      "ID": 6101035,
+      "Entries": [
+        "[Upgraded Weapons] Torch"
+      ]
+    },
+    {
+      "ID": 6101036,
+      "Entries": [
+        "[Upgraded Weapons] Zweihander"
+      ]
+    },
+    {
+      "ID": 6101037,
+      "Entries": [
+        "[Upgraded Weapons] Red Crest Heater Shield"
+      ]
+    },
+    {
+      "ID": 6101038,
+      "Entries": [
+        "[Upgraded Weapons] Scorpion Kite Shield"
+      ]
+    },
+    {
+      "ID": 6101039,
+      "Entries": [
+        "[Upgraded Weapons] Crossed-Tree Towershield"
+      ]
+    },
+    {
+      "ID": 6101040,
+      "Entries": [
+        "[Upgraded Weapons] Club"
+      ]
+    },
+    {
+      "ID": 6101041,
+      "Entries": [
+        "[Upgraded Weapons] Shortbow"
+      ]
+    },
+    {
+      "ID": 6101042,
+      "Entries": [
+        "[Upgraded Weapons] Bastard Sword"
+      ]
+    },
+    {
+      "ID": 6101043,
+      "Entries": [
+        "[Upgraded Weapons] Composite Bow"
+      ]
+    },
+    {
+      "ID": 6101044,
+      "Entries": [
+        "[Upgraded Weapons] Blue Crest Heater Shield"
+      ]
+    },
+    {
+      "ID": 6101045,
+      "Entries": [
+        "[Upgraded Weapons] Rift Shield"
+      ]
+    },
+    {
+      "ID": 6101046,
+      "Entries": [
+        "[Upgraded Weapons] Lordsworn's Straight Sword"
+      ]
+    },
+    {
+      "ID": 6101047,
+      "Entries": [
+        "[Upgraded Weapons] Flail"
+      ]
+    },
+    {
+      "ID": 6101048,
+      "Entries": [
+        "[Upgraded Weapons] Whip"
+      ]
+    },
+    {
+      "ID": 6101049,
+      "Entries": [
+        "[Upgraded Weapons] Uchigatana"
+      ]
+    },
+    {
+      "ID": 6101050,
+      "Entries": [
+        "[Upgraded Weapons] Lance"
+      ]
+    },
+    {
+      "ID": 6101051,
+      "Entries": [
+        "[Upgraded Weapons] Spear"
+      ]
+    },
+    {
+      "ID": 6101052,
+      "Entries": [
+        "[Upgraded Weapons] Warpick"
+      ]
+    },
+    {
+      "ID": 6101053,
+      "Entries": [
+        "[Upgraded Weapons] Iron Spear"
+      ]
+    },
+    {
+      "ID": 6101054,
+      "Entries": [
+        "[Upgraded Weapons] Inverted Hawk Heater Shield"
+      ]
+    },
+    {
+      "ID": 6101055,
+      "Entries": [
+        "[Upgraded Weapons] Hookclaws"
+      ]
+    },
+    {
+      "ID": 6101056,
+      "Entries": [
+        "[Upgraded Weapons] Hawk Crest Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6101057,
+      "Entries": [
+        "[Upgraded Weapons] Arbalest"
+      ]
+    },
+    {
+      "ID": 6101058,
+      "Entries": [
+        "[Upgraded Weapons] Highland Axe"
+      ]
+    },
+    {
+      "ID": 6101059,
+      "Entries": [
+        "[Upgraded Weapons] Crescent Moon Axe"
+      ]
+    },
+    {
+      "ID": 6101060,
+      "Entries": [
+        "[Upgraded Weapons] Pike"
+      ]
+    },
+    {
+      "ID": 6101061,
+      "Entries": [
+        "[Upgraded Weapons] Torchpole"
+      ]
+    },
+    {
+      "ID": 6101062,
+      "Entries": [
+        "[Upgraded Weapons] Wooden Greatshield"
+      ]
+    },
+    {
+      "ID": 6101063,
+      "Entries": [
+        "[Upgraded Weapons] Omen Cleaver"
+      ]
+    },
+    {
+      "ID": 6101064,
+      "Entries": [
+        "[Upgraded Weapons] Marred Wooden Shield"
+      ]
+    },
+    {
+      "ID": 6101065,
+      "Entries": [
+        "[Upgraded Weapons] Spiked Club"
+      ]
+    },
+    {
+      "ID": 6101066,
+      "Entries": [
+        "[DLC Upgraded Weapons] Backhand Blade"
+      ]
+    },
+    {
+      "ID": 6101067,
+      "Entries": [
+        "[DLC Upgraded Weapons] Milady"
+      ]
+    },
+    {
+      "ID": 6101068,
+      "Entries": [
+        "[DLC Upgraded Weapons] Great Katana"
+      ]
+    },
+    {
+      "ID": 6101069,
+      "Entries": [
+        "[DLC Upgraded Weapons] Dueling Shield"
+      ]
+    },
+    {
+      "ID": 6101070,
+      "Entries": [
+        "[DLC Upgraded Weapons] Smithscript Dagger"
+      ]
+    },
+    {
+      "ID": 6101071,
+      "Entries": [
+        "[DLC Upgraded Weapons] Dryleaf Arts"
+      ]
+    },
+    {
+      "ID": 6101072,
+      "Entries": [
+        "[DLC Upgraded Weapons] Firespark Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 6101073,
+      "Entries": [
+        "[DLC Upgraded Weapons] Lightning Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 6101074,
+      "Entries": [
+        "[DLC Upgraded Weapons] Beast Claw"
+      ]
+    },
+    {
+      "ID": 6101075,
+      "Entries": [
+        "[Upgraded Weapons] Broadsword"
+      ]
+    },
+    {
+      "ID": 6101076,
+      "Entries": [
+        "[Upgraded Weapons] Cane Sword"
+      ]
+    },
+    {
+      "ID": 6101077,
+      "Entries": [
+        "[Upgraded Weapons] Hammer"
+      ]
+    },
+    {
+      "ID": 7000000,
+      "Entries": [
+        "[Merchant Kale - Weapons] Astrologer's Staff"
+      ]
+    },
+    {
+      "ID": 7000001,
+      "Entries": [
+        "[Merchant Kale - Weapons] Battle Axe"
+      ]
+    },
+    {
+      "ID": 7000002,
+      "Entries": [
+        "[Merchant Kale - Weapons] Beast-Repellent Torch"
+      ]
+    },
+    {
+      "ID": 7000003,
+      "Entries": [
+        "[Merchant Kale - Weapons] Black Leather Shield"
+      ]
+    },
+    {
+      "ID": 7000004,
+      "Entries": [
+        "[Merchant Kale - Weapons] Blue-Gold Kite Shield"
+      ]
+    },
+    {
+      "ID": 7000005,
+      "Entries": [
+        "[Merchant Kale - Weapons] Buckler"
+      ]
+    },
+    {
+      "ID": 7000006,
+      "Entries": [
+        "[Merchant Kale - Weapons] Caestus"
+      ]
+    },
+    {
+      "ID": 7000007,
+      "Entries": [
+        "[Merchant Kale - Weapons] Dagger"
+      ]
+    },
+    {
+      "ID": 7000008,
+      "Entries": [
+        "[Kale - DLC Weapons] Deadly Poison Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 7000009,
+      "Entries": [
+        "[Merchant Kale - Weapons] Distinguished Greatshield"
+      ]
+    },
+    {
+      "ID": 7000010,
+      "Entries": [
+        "[Merchant Kale - Weapons] Estoc"
+      ]
+    },
+    {
+      "ID": 7000011,
+      "Entries": [
+        "[Merchant Kale - Weapons] Finger Seal"
+      ]
+    },
+    {
+      "ID": 7000012,
+      "Entries": [
+        "[Merchant Kale - Weapons] Halberd"
+      ]
+    },
+    {
+      "ID": 7000013,
+      "Entries": [
+        "[Merchant Kale - Weapons] Hand Axe"
+      ]
+    },
+    {
+      "ID": 7000014,
+      "Entries": [
+        "[Merchant Kale - Weapons] Heater Shield"
+      ]
+    },
+    {
+      "ID": 7000015,
+      "Entries": [
+        "[Merchant Kale - Weapons] Horse Crest Wooden Shield"
+      ]
+    },
+    {
+      "ID": 7000016,
+      "Entries": [
+        "[Merchant Kale - Weapons] Iron Roundshield"
+      ]
+    },
+    {
+      "ID": 7000017,
+      "Entries": [
+        "[Merchant Kale - Weapons] Kite Shield"
+      ]
+    },
+    {
+      "ID": 7000018,
+      "Entries": [
+        "[Merchant Kale - Weapons] Large Leather Shield"
+      ]
+    },
+    {
+      "ID": 7000019,
+      "Entries": [
+        "[Merchant Kale - Weapons] Light Crossbow"
+      ]
+    },
+    {
+      "ID": 7000020,
+      "Entries": [
+        "[Merchant Kale - Weapons] Longbow"
+      ]
+    },
+    {
+      "ID": 7000021,
+      "Entries": [
+        "[Merchant Kale - Weapons] Longsword"
+      ]
+    },
+    {
+      "ID": 7000022,
+      "Entries": [
+        "[Merchant Kale - Weapons] Mace"
+      ]
+    },
+    {
+      "ID": 7000023,
+      "Entries": [
+        "[Merchant Kale - Weapons] Parrying Dagger"
+      ]
+    },
+    {
+      "ID": 7000024,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rapier"
+      ]
+    },
+    {
+      "ID": 7000025,
+      "Entries": [
+        "[Merchant Kale - Weapons] Ripple Blade"
+      ]
+    },
+    {
+      "ID": 7000026,
+      "Entries": [
+        "[Merchant Kale - Weapons] Red Thorn Roundshield"
+      ]
+    },
+    {
+      "ID": 7000027,
+      "Entries": [
+        "[Merchant Kale - Weapons] Riveted Wooden Shield"
+      ]
+    },
+    {
+      "ID": 7000028,
+      "Entries": [
+        "[Merchant Kale - Weapons] Round Shield"
+      ]
+    },
+    {
+      "ID": 7000029,
+      "Entries": [
+        "[Merchant Kale - Weapons] Scimitar"
+      ]
+    },
+    {
+      "ID": 7000030,
+      "Entries": [
+        "[Merchant Kale - Weapons] Sentry's Torch"
+      ]
+    },
+    {
+      "ID": 7000031,
+      "Entries": [
+        "[Merchant Kale - Weapons] Short Spear"
+      ]
+    },
+    {
+      "ID": 7000032,
+      "Entries": [
+        "[Merchant Kale - Weapons] Short Sword"
+      ]
+    },
+    {
+      "ID": 7000033,
+      "Entries": [
+        "[Merchant Kale - Weapons] Shotel"
+      ]
+    },
+    {
+      "ID": 7000034,
+      "Entries": [
+        "[Merchant Kale - Weapons] Spiked Caestus"
+      ]
+    },
+    {
+      "ID": 7000035,
+      "Entries": [
+        "[Merchant Kale - Weapons] Torch"
+      ]
+    },
+    {
+      "ID": 7000036,
+      "Entries": [
+        "[Merchant Kale - Weapons] Zweihander"
+      ]
+    },
+    {
+      "ID": 7000037,
+      "Entries": [
+        "[Merchant Kale - Weapons] Red Crest Heater Shield"
+      ]
+    },
+    {
+      "ID": 7000038,
+      "Entries": [
+        "[Merchant Kale - Weapons] Scorpion Kite Shield"
+      ]
+    },
+    {
+      "ID": 7000039,
+      "Entries": [
+        "[Merchant Kale - Weapons] Crossed-Tree Towershield"
+      ]
+    },
+    {
+      "ID": 7000040,
+      "Entries": [
+        "[Merchant Kale - Weapons] Club"
+      ]
+    },
+    {
+      "ID": 7000041,
+      "Entries": [
+        "[Merchant Kale - Weapons] Shortbow"
+      ]
+    },
+    {
+      "ID": 7000042,
+      "Entries": [
+        "[Merchant Kale - Weapons] Bastard Sword"
+      ]
+    },
+    {
+      "ID": 7000043,
+      "Entries": [
+        "[Merchant Kale - Weapons] Composite Bow"
+      ]
+    },
+    {
+      "ID": 7000044,
+      "Entries": [
+        "[Merchant Kale - Weapons] Blue Crest Heater Shield"
+      ]
+    },
+    {
+      "ID": 7000045,
+      "Entries": [
+        "[Merchant Kale - Weapons] Rift Shield"
+      ]
+    },
+    {
+      "ID": 7000046,
+      "Entries": [
+        "[Merchant Kale - Weapons] Lordsworn's Straight Sword"
+      ]
+    },
+    {
+      "ID": 7000047,
+      "Entries": [
+        "[Merchant Kale - Weapons] Flail"
+      ]
+    },
+    {
+      "ID": 7000048,
+      "Entries": [
+        "[Merchant Kale - Weapons] Whip"
+      ]
+    },
+    {
+      "ID": 7000049,
+      "Entries": [
+        "[Merchant Kale - Weapons] Uchigatana"
+      ]
+    },
+    {
+      "ID": 7000050,
+      "Entries": [
+        "[Merchant Kale - Weapons] Lance"
+      ]
+    },
+    {
+      "ID": 7000051,
+      "Entries": [
+        "[Merchant Kale - Weapons] Spear"
+      ]
+    },
+    {
+      "ID": 7000052,
+      "Entries": [
+        "[Merchant Kale - Weapons] Warpick"
+      ]
+    },
+    {
+      "ID": 7000053,
+      "Entries": [
+        "[Merchant Kale - Weapons] Iron Spear"
+      ]
+    },
+    {
+      "ID": 7000054,
+      "Entries": [
+        "[Merchant Kale - Weapons] Inverted Hawk Heater Shield"
+      ]
+    },
+    {
+      "ID": 7000055,
+      "Entries": [
+        "[Merchant Kale - Weapons] Hookclaws"
+      ]
+    },
+    {
+      "ID": 7000056,
+      "Entries": [
+        "[Merchant Kale - Weapons] Hawk Crest Wooden Shield"
+      ]
+    },
+    {
+      "ID": 7000057,
+      "Entries": [
+        "[Merchant Kale - Weapons] Arbalest"
+      ]
+    },
+    {
+      "ID": 7000058,
+      "Entries": [
+        "[Merchant Kale - Weapons] Highland Axe"
+      ]
+    },
+    {
+      "ID": 7000059,
+      "Entries": [
+        "[Merchant Kale - Weapons] Crescent Moon Axe"
+      ]
+    },
+    {
+      "ID": 7000060,
+      "Entries": [
+        "[Merchant Kale - Weapons] Pike"
+      ]
+    },
+    {
+      "ID": 7000061,
+      "Entries": [
+        "[Merchant Kale - Weapons] Torchpole"
+      ]
+    },
+    {
+      "ID": 7000062,
+      "Entries": [
+        "[Merchant Kale - Weapons] Wooden Greatshield"
+      ]
+    },
+    {
+      "ID": 7000063,
+      "Entries": [
+        "[Merchant Kale - Weapons] Omen Cleaver"
+      ]
+    },
+    {
+      "ID": 7000064,
+      "Entries": [
+        "[Merchant Kale - Weapons] Marred Wooden Shield"
+      ]
+    },
+    {
+      "ID": 7000065,
+      "Entries": [
+        "[Merchant Kale - Weapons] Spiked Club"
+      ]
+    },
+    {
+      "ID": 7000066,
+      "Entries": [
+        "[Kale - DLC Weapons] Backhand Blade"
+      ]
+    },
+    {
+      "ID": 7000067,
+      "Entries": [
+        "[Kale - DLC Weapons] Milady"
+      ]
+    },
+    {
+      "ID": 7000068,
+      "Entries": [
+        "[Kale - DLC Weapons] Great Katana"
+      ]
+    },
+    {
+      "ID": 7000069,
+      "Entries": [
+        "[Kale - DLC Weapons] Dueling Shield"
+      ]
+    },
+    {
+      "ID": 7000070,
+      "Entries": [
+        "[Kale - DLC Weapons] Smithscript Dagger"
+      ]
+    },
+    {
+      "ID": 7000071,
+      "Entries": [
+        "[Kale - DLC Weapons] Dryleaf Arts"
+      ]
+    },
+    {
+      "ID": 7000072,
+      "Entries": [
+        "[Kale - DLC Weapons] Firespark Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 7000073,
+      "Entries": [
+        "[Kale - DLC Weapons] Lightning Perfume Bottle"
+      ]
+    },
+    {
+      "ID": 7000074,
+      "Entries": [
+        "[Kale - DLC Weapons] Beast Claw"
+      ]
+    },
+    {
+      "ID": 7000075,
+      "Entries": [
+        "[Merchant Kale - Weapons] Broadsword"
+      ]
+    },
+    {
+      "ID": 7000076,
+      "Entries": [
+        "[Merchant Kale - Weapons] Cane Sword"
+      ]
+    },
+    {
+      "ID": 7000077,
+      "Entries": [
+        "[Merchant Kale - Weapons] Hammer"
+      ]
+    },
+    {
+      "ID": 7000100,
+      "Entries": [
+        "[Merchant Kale - Armor] Astrologer Hood"
+      ]
+    },
+    {
+      "ID": 7000101,
+      "Entries": [
+        "[Merchant Kale - Armor] Astrologer Robe"
+      ]
+    },
+    {
+      "ID": 7000102,
+      "Entries": [
+        "[Merchant Kale - Armor] Astrologer Gloves"
+      ]
+    },
+    {
+      "ID": 7000103,
+      "Entries": [
+        "[Merchant Kale - Armor] Astrologer Trousers"
+      ]
+    },
+    {
+      "ID": 7000104,
+      "Entries": [
+        "[Merchant Kale - Armor] Bandit Mask"
+      ]
+    },
+    {
+      "ID": 7000105,
+      "Entries": [
+        "[Merchant Kale - Armor] Bandit Garb"
+      ]
+    },
+    {
+      "ID": 7000106,
+      "Entries": [
+        "[Merchant Kale - Armor] Bandit Manchettes"
+      ]
+    },
+    {
+      "ID": 7000107,
+      "Entries": [
+        "[Merchant Kale - Armor] Bandit Boots"
+      ]
+    },
+    {
+      "ID": 7000108,
+      "Entries": [
+        "[Merchant Kale - Armor] Blue Cloth Cowl"
+      ]
+    },
+    {
+      "ID": 7000109,
+      "Entries": [
+        "[Merchant Kale - Armor] Blue Cloth Vest"
+      ]
+    },
+    {
+      "ID": 7000110,
+      "Entries": [
+        "[Merchant Kale - Armor] Chain Coif"
+      ]
+    },
+    {
+      "ID": 7000111,
+      "Entries": [
+        "[Merchant Kale - Armor] Chain Armor"
+      ]
+    },
+    {
+      "ID": 7000112,
+      "Entries": [
+        "[Merchant Kale - Armor] Chain Gauntlets"
+      ]
+    },
+    {
+      "ID": 7000113,
+      "Entries": [
+        "[Merchant Kale - Armor] Chain Leggings"
+      ]
+    },
+    {
+      "ID": 7000114,
+      "Entries": [
+        "[Merchant Kale - Armor] Champion Headband"
+      ]
+    },
+    {
+      "ID": 7000115,
+      "Entries": [
+        "[Merchant Kale - Armor] Champion Pauldron"
+      ]
+    },
+    {
+      "ID": 7000116,
+      "Entries": [
+        "[Merchant Kale - Armor] Champion Bracers"
+      ]
+    },
+    {
+      "ID": 7000117,
+      "Entries": [
+        "[Merchant Kale - Armor] Champion Gaiters"
+      ]
+    },
+    {
+      "ID": 7000118,
+      "Entries": [
+        "[Merchant Kale - Armor] Greathelm"
+      ]
+    },
+    {
+      "ID": 7000119,
+      "Entries": [
+        "[Merchant Kale - Armor] Knight Helm"
+      ]
+    },
+    {
+      "ID": 7000120,
+      "Entries": [
+        "[Merchant Kale - Armor] Knight Armor"
+      ]
+    },
+    {
+      "ID": 7000121,
+      "Entries": [
+        "[Merchant Kale - Armor] Knight Gauntlets"
+      ]
+    },
+    {
+      "ID": 7000122,
+      "Entries": [
+        "[Merchant Kale - Armor] Knight Greaves"
+      ]
+    },
+    {
+      "ID": 7000123,
+      "Entries": [
+        "[Merchant Kale - Armor] Land of Reeds Helm"
+      ]
+    },
+    {
+      "ID": 7000124,
+      "Entries": [
+        "[Merchant Kale - Armor] Land of Reeds Armor"
+      ]
+    },
+    {
+      "ID": 7000125,
+      "Entries": [
+        "[Merchant Kale - Armor] Land of Reeds Gauntlets"
+      ]
+    },
+    {
+      "ID": 7000126,
+      "Entries": [
+        "[Merchant Kale - Armor] Land of Reeds Greaves"
+      ]
+    },
+    {
+      "ID": 7000127,
+      "Entries": [
+        "[Merchant Kale - Armor] Prisoner Iron Mask"
+      ]
+    },
+    {
+      "ID": 7000128,
+      "Entries": [
+        "[Merchant Kale - Armor] Prisoner Clothing"
+      ]
+    },
+    {
+      "ID": 7000129,
+      "Entries": [
+        "[Merchant Kale - Armor] Prisoner Trousers"
+      ]
+    },
+    {
+      "ID": 7000130,
+      "Entries": [
+        "[Merchant Kale - Armor] Prophet Blindfold"
+      ]
+    },
+    {
+      "ID": 7000131,
+      "Entries": [
+        "[Merchant Kale - Armor] Prophet Robe"
+      ]
+    },
+    {
+      "ID": 7000132,
+      "Entries": [
+        "[Merchant Kale - Armor] Prophet Trousers"
+      ]
+    },
+    {
+      "ID": 7000133,
+      "Entries": [
+        "[Merchant Kale - Armor] Upper-Class Robe"
+      ]
+    },
+    {
+      "ID": 7000134,
+      "Entries": [
+        "[Merchant Kale - Armor] Vagabond Knight Helm"
+      ]
+    },
+    {
+      "ID": 7000135,
+      "Entries": [
+        "[Merchant Kale - Armor] Vagabond Knight Armor"
+      ]
+    },
+    {
+      "ID": 7000136,
+      "Entries": [
+        "[Merchant Kale - Armor] Vagabond Knight Gauntlets"
+      ]
+    },
+    {
+      "ID": 7000137,
+      "Entries": [
+        "[Merchant Kale - Armor] Vagabond Knight Greaves"
+      ]
+    },
+    {
+      "ID": 7000138,
+      "Entries": [
+        "[Merchant Kale - Armor] Warrior Gauntlets"
+      ]
+    },
+    {
+      "ID": 7000139,
+      "Entries": [
+        "[Merchant Kale - Armor] Warrior Greaves"
+      ]
+    },
+    {
+      "ID": 7000141,
+      "Entries": [
+        "[Merchant Kale - Armor] Confessor Hood"
+      ]
+    },
+    {
+      "ID": 7000142,
+      "Entries": [
+        "[Merchant Kale - Armor] Confessor Armor"
+      ]
+    },
+    {
+      "ID": 7000143,
+      "Entries": [
+        "[Merchant Kale - Armor] Confessor Gloves"
+      ]
+    },
+    {
+      "ID": 7000144,
+      "Entries": [
+        "[Merchant Kale - Armor] Confessor Boots"
+      ]
+    },
+    {
+      "ID": 7000145,
+      "Entries": [
+        "[Merchant Kale - Armor] Iron Helmet"
+      ]
+    },
+    {
+      "ID": 7000146,
+      "Entries": [
+        "[Merchant Kale - Armor] Scale Armor"
+      ]
+    },
+    {
+      "ID": 7000147,
+      "Entries": [
+        "[Merchant Kale - Armor] Iron Gauntlets"
+      ]
+    },
+    {
+      "ID": 7000148,
+      "Entries": [
+        "[Merchant Kale - Armor] Leather Trousers"
+      ]
+    },
+    {
+      "ID": 7000149,
+      "Entries": [
+        "[Merchant Kale - Armor] Tree Surcoat"
+      ]
+    },
+    {
+      "ID": 7000200,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Blessing's Boon"
+      ]
+    },
+    {
+      "ID": 7000201,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Carian Greatsword"
+      ]
+    },
+    {
+      "ID": 7000202,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Carian Phalanx"
+      ]
+    },
+    {
+      "ID": 7000203,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Carian Retaliation"
+      ]
+    },
+    {
+      "ID": 7000204,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Catch Flame"
+      ]
+    },
+    {
+      "ID": 7000205,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Crystal Barrage"
+      ]
+    },
+    {
+      "ID": 7000206,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Cure Poison"
+      ]
+    },
+    {
+      "ID": 7000207,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Discus of Light"
+      ]
+    },
+    {
+      "ID": 7000208,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Flame Fortification"
+      ]
+    },
+    {
+      "ID": 7000209,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Flame Sling"
+      ]
+    },
+    {
+      "ID": 7000211,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Freezing Mist"
+      ]
+    },
+    {
+      "ID": 7000212,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Glintstone Arc"
+      ]
+    },
+    {
+      "ID": 7000213,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Glintstone Icecrag"
+      ]
+    },
+    {
+      "ID": 7000214,
+      "Entries": [
+        "[Kale - DLC Spells] Glintstone Nail"
+      ]
+    },
+    {
+      "ID": 7000216,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Glintstone Pebble"
+      ]
+    },
+    {
+      "ID": 7000217,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Glintstone Stars"
+      ]
+    },
+    {
+      "ID": 7000218,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Great Heal"
+      ]
+    },
+    {
+      "ID": 7000219,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Heal"
+      ]
+    },
+    {
+      "ID": 7000220,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Immutable Shield"
+      ]
+    },
+    {
+      "ID": 7000221,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Lightning Fortification"
+      ]
+    },
+    {
+      "ID": 7000222,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Litany of Proper Death"
+      ]
+    },
+    {
+      "ID": 7000223,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Magic Fortification"
+      ]
+    },
+    {
+      "ID": 7000224,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Magic Glintblade"
+      ]
+    },
+    {
+      "ID": 7000225,
+      "Entries": [
+        "[Kale - DLC Spells] Miriam's Vanishing"
+      ]
+    },
+    {
+      "ID": 7000226,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Night Maiden's Mist"
+      ]
+    },
+    {
+      "ID": 7000227,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Night Shard"
+      ]
+    },
+    {
+      "ID": 7000228,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Order's Blade"
+      ]
+    },
+    {
+      "ID": 7000229,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Rejection"
+      ]
+    },
+    {
+      "ID": 7000230,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Scholar's Armament"
+      ]
+    },
+    {
+      "ID": 7000231,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Scholar's Shield"
+      ]
+    },
+    {
+      "ID": 7000232,
+      "Entries": [
+        "[Merchant Kale - Spells] [Sorcery] Starlight"
+      ]
+    },
+    {
+      "ID": 7000233,
+      "Entries": [
+        "[Merchant Kale - Spells] [Incantation] Urgent Heal"
+      ]
+    },
+    {
+      "ID": 7000300,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Assassin's Gambit"
+      ]
+    },
+    {
+      "ID": 7000301,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Carian Greatsword"
+      ]
+    },
+    {
+      "ID": 7000302,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Carian Retaliation"
+      ]
+    },
+    {
+      "ID": 7000303,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Endure"
+      ]
+    },
+    {
+      "ID": 7000304,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Eruption"
+      ]
+    },
+    {
+      "ID": 7000305,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Glintstone Pebble"
+      ]
+    },
+    {
+      "ID": 7000306,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Impaling Thrust"
+      ]
+    },
+    {
+      "ID": 7000307,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Parry"
+      ]
+    },
+    {
+      "ID": 7000308,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Quickstep"
+      ]
+    },
+    {
+      "ID": 7000309,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Spinning Slash"
+      ]
+    },
+    {
+      "ID": 7000310,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Spinning Weapon"
+      ]
+    },
+    {
+      "ID": 7000311,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Stamp (Upward Cut)"
+      ]
+    },
+    {
+      "ID": 7000312,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: Storm Blade"
+      ]
+    },
+    {
+      "ID": 7000313,
+      "Entries": [
+        "[Merchant Kale - Ash of War] Ash of War: War Cry"
+      ]
+    },
+    {
+      "ID": 7000400,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Lantern"
+      ]
+    },
+    {
+      "ID": 7000402,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Perfume Bottle 1"
+      ]
+    },
+    {
+      "ID": 7000403,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Telescope"
+      ]
+    },
+    {
+      "ID": 7000404,
+      "Entries": [
+        "[Kale - DLC Misc] Hefty Cracked Pot"
+      ]
+    },
+    {
+      "ID": 7000405,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Memory Stone 8"
+      ]
+    },
+    {
+      "ID": 7000406,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Cracked Pot"
+      ]
+    },
+    {
+      "ID": 7000407,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Ritual Pot 1"
+      ]
+    },
+    {
+      "ID": 7000408,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Margit's Shackle"
+      ]
+    },
+    {
+      "ID": 7000409,
+      "Entries": [
+        "[Kale - DLC Misc] Prattling Pate \"Lamentation\"_1"
+      ]
+    },
+    {
+      "ID": 7000410,
+      "Entries": [
+        "\"[Merchant Kale - Misc Items] Prattling Pate \"\"Hello\"\"\"_1"
+      ]
+    },
+    {
+      "ID": 7000412,
+      "Entries": [
+        "\"[Merchant Kale - Misc Items] Prattling Pate \"\"Thank you\"\"\"_1"
+      ]
+    },
+    {
+      "ID": 7000413,
+      "Entries": [
+        "\"[Merchant Kale - Misc Items] Prattling Pate \"\"Apologies\"\"\"_1"
+      ]
+    },
+    {
+      "ID": 7000414,
+      "Entries": [
+        "\"[Merchant Kale - Misc Items] Prattling Pate \"\"Wonderful\"\"\"_1"
+      ]
+    },
+    {
+      "ID": 7000415,
+      "Entries": [
+        "\"[Merchant Kale - Misc Items] Prattling Pate \"\"Please help\"\"\"_1"
+      ]
+    },
+    {
+      "ID": 7000416,
+      "Entries": [
+        "\"[Merchant Kale - Misc Items] Prattling Pate \"\"My beloved\"\"\"_1"
+      ]
+    },
+    {
+      "ID": 7000419,
+      "Entries": [
+        "\"[Merchant Kale - Misc Items] Prattling Pate \"\"Let's get to it\"\"\"_1"
+      ]
+    },
+    {
+      "ID": 7000420,
+      "Entries": [
+        "\"[Merchant Kale - Misc Items] Prattling Pate \"\"You're beautiful\"\"\"_1"
+      ]
+    },
+    {
+      "ID": 7000421,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Mimic's Veil "
+      ]
+    },
+    {
+      "ID": 7000422,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Purifying Crystal Tear"
+      ]
+    },
+    {
+      "ID": 7000423,
+      "Entries": [
+        "[Merchant Kale - Misc Items] Igon's Furled Finger"
+      ]
+    },
+    {
+      "ID": 7000500,
+      "Entries": [
+        "[Merchant Kale - Consumables] Boiled Crab"
+      ]
+    },
+    {
+      "ID": 7000501,
+      "Entries": [
+        "[Merchant Kale - Consumables] Boiled Prawn"
+      ]
+    },
+    {
+      "ID": 7000502,
+      "Entries": [
+        "[Merchant Kale - Consumables] Explosive Stone"
+      ]
+    },
+    {
+      "ID": 7000503,
+      "Entries": [
+        "[Merchant Kale - Consumables] Fan Daggers"
+      ]
+    },
+    {
+      "ID": 7000504,
+      "Entries": [
+        "[Merchant Kale - Consumables] Glintstone Scrap"
+      ]
+    },
+    {
+      "ID": 7000505,
+      "Entries": [
+        "[Merchant Kale - Consumables] Gravity Stone Chunk"
+      ]
+    },
+    {
+      "ID": 7000506,
+      "Entries": [
+        "[Merchant Kale - Consumables] Gravity Stone Fan"
+      ]
+    },
+    {
+      "ID": 7000507,
+      "Entries": [
+        "[Merchant Kale - Consumables] Kukri"
+      ]
+    },
+    {
+      "ID": 7000508,
+      "Entries": [
+        "[Merchant Kale - Consumables] Poisonbone Dart"
+      ]
+    },
+    {
+      "ID": 7000509,
+      "Entries": [
+        "[Merchant Kale - Consumables] Poisoned Stone"
+      ]
+    },
+    {
+      "ID": 7000510,
+      "Entries": [
+        "[Merchant Kale - Consumables] Poisoned Stone Clump"
+      ]
+    },
+    {
+      "ID": 7000511,
+      "Entries": [
+        "[Merchant Kale - Consumables] Neutralizing Boluses"
+      ]
+    },
+    {
+      "ID": 7000512,
+      "Entries": [
+        "[Merchant Kale - Consumables] Stanching Boluses"
+      ]
+    },
+    {
+      "ID": 7000513,
+      "Entries": [
+        "[Merchant Kale - Consumables] Stimulating Boluses"
+      ]
+    },
+    {
+      "ID": 7000514,
+      "Entries": [
+        "[Merchant Kale - Consumables] Thawfrost Boluses"
+      ]
+    },
+    {
+      "ID": 7000515,
+      "Entries": [
+        "[Merchant Kale - Consumables] Throwing Dagger"
+      ]
+    },
+    {
+      "ID": 7000516,
+      "Entries": [
+        "[Merchant Kale - Consumables] Clarifying Boluses"
+      ]
+    },
+    {
+      "ID": 7000518,
+      "Entries": [
+        "[Merchant Kale - Consumables] Preserving Boluses"
+      ]
+    },
+    {
+      "ID": 7000519,
+      "Entries": [
+        "[Merchant Kale - Consumables] Rejuvenating Boluses"
+      ]
+    },
+    {
+      "ID": 7000520,
+      "Entries": [
+        "[Merchant Kale - Consumables] Rune Arc"
+      ]
+    },
+    {
+      "ID": 7000600,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Arrow"
+      ]
+    },
+    {
+      "ID": 7000601,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Ballista Bolt"
+      ]
+    },
+    {
+      "ID": 7000602,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Bolt"
+      ]
+    },
+    {
+      "ID": 7000603,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Burred Bolt"
+      ]
+    },
+    {
+      "ID": 7000604,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Dwelling Arrow"
+      ]
+    },
+    {
+      "ID": 7000605,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Fire Arrow"
+      ]
+    },
+    {
+      "ID": 7000606,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Flaming Bolt"
+      ]
+    },
+    {
+      "ID": 7000607,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Golden Arrow"
+      ]
+    },
+    {
+      "ID": 7000608,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Golden Bolt"
+      ]
+    },
+    {
+      "ID": 7000609,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Golden Great Arrow"
+      ]
+    },
+    {
+      "ID": 7000610,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Great Arrow"
+      ]
+    },
+    {
+      "ID": 7000611,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Lightning Greatbolt"
+      ]
+    },
+    {
+      "ID": 7000612,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Meteor Bolt"
+      ]
+    },
+    {
+      "ID": 7000613,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Serpent Arrow"
+      ]
+    },
+    {
+      "ID": 7000614,
+      "Entries": [
+        "[Merchant Kale - Ammunition] St. Trina's Arrow"
+      ]
+    },
+    {
+      "ID": 7000615,
+      "Entries": [
+        "[Kale - DLC Ammo] Igon's Harpoon"
+      ]
+    },
+    {
+      "ID": 7000616,
+      "Entries": [
+        "[Kale - DLC Ammo] Rabbath's Greatbolt"
+      ]
+    },
+    {
+      "ID": 7000617,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Spiritflame Arrow"
+      ]
+    },
+    {
+      "ID": 7000618,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Golem's Great Arrow"
+      ]
+    },
+    {
+      "ID": 7000619,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Golem's Magic Arrow"
+      ]
+    },
+    {
+      "ID": 7000620,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Radahn's Spear"
+      ]
+    },
+    {
+      "ID": 7000621,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Black-Key Bolt"
+      ]
+    },
+    {
+      "ID": 7000622,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Explosive Greatbolt"
+      ]
+    },
+    {
+      "ID": 7000623,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Lightning Bolt"
+      ]
+    },
+    {
+      "ID": 7000624,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Explosive Bolt"
+      ]
+    },
+    {
+      "ID": 7000625,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Perfumer's Bolt"
+      ]
+    },
+    {
+      "ID": 7000626,
+      "Entries": [
+        "[Merchant Kale - Ammunition] Lordsworn's Bolt"
+      ]
+    },
+    {
+      "ID": 7000700,
+      "Entries": [
+        "[Merchant Kale - Consumables] Ruin Fragment"
+      ]
+    },
+    {
+      "ID": 7000701,
+      "Entries": [
+        "[Merchant Kale - Materials] Sliver of Meat"
+      ]
+    },
+    {
+      "ID": 7000702,
+      "Entries": [
+        "[Merchant Kale - Materials] Lump of Flesh"
+      ]
+    },
+    {
+      "ID": 7000703,
+      "Entries": [
+        "[Merchant Kale - Materials] Thin Beast Bones"
+      ]
+    },
+    {
+      "ID": 7000704,
+      "Entries": [
+        "[Merchant Kale - Materials] Hefty Beast Bone"
+      ]
+    },
+    {
+      "ID": 7000705,
+      "Entries": [
+        "[Merchant Kale - Materials] Toxic Mushroom"
+      ]
+    },
+    {
+      "ID": 7000706,
+      "Entries": [
+        "[Kale - DLC Materials] Whiteflesh Mushroom"
+      ]
+    },
+    {
+      "ID": 7000707,
+      "Entries": [
+        "[Merchant Kale - Materials] Sanctuary Stone"
+      ]
+    },
+    {
+      "ID": 7000709,
+      "Entries": [
+        "[Kale - DLC Materials] Rada Fruit"
+      ]
+    },
+    {
+      "ID": 7000710,
+      "Entries": [
+        "[Merchant Kale - Materials] Mushroom"
+      ]
+    },
+    {
+      "ID": 7000711,
+      "Entries": [
+        "[Kale - DLC Materials] Redflesh Mushroom"
+      ]
+    },
+    {
+      "ID": 7000712,
+      "Entries": [
+        "[Merchant Kale - Materials] Root Resin"
+      ]
+    },
+    {
+      "ID": 7000713,
+      "Entries": [
+        "[Kale - DLC Materials] Knot Resin"
+      ]
+    },
+    {
+      "ID": 7000714,
+      "Entries": [
+        "[Merchant Kale - Materials] Bloodrose"
+      ]
+    },
+    {
+      "ID": 7000715,
+      "Entries": [
+        "[Kale - DLC Materials] Fly Mold"
+      ]
+    },
+    {
+      "ID": 7000716,
+      "Entries": [
+        "[Merchant Kale - Materials] String"
+      ]
+    },
+    {
+      "ID": 7000717,
+      "Entries": [
+        "[Merchant Kale - Materials] Turtle Neck Meat"
+      ]
+    },
+    {
+      "ID": 7000800,
+      "Entries": [
+        "[Merchant Kale - Materials] Smithing Stone [1]"
+      ]
+    },
+    {
+      "ID": 7000801,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Smithing Stone [1]"
+      ]
+    },
+    {
+      "ID": 7000802,
+      "Entries": [
+        "[Merchant Kale - Materials] Grave Glovewort [1]"
+      ]
+    },
+    {
+      "ID": 7000803,
+      "Entries": [
+        "[Merchant Kale - Materials] Ghost Glovewort [1]"
+      ]
+    },
+    {
+      "ID": 7000810,
+      "Entries": [
+        "[Merchant Kale - Materials] Smithing Stone [2]"
+      ]
+    },
+    {
+      "ID": 7000811,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Smithing Stone [2]"
+      ]
+    },
+    {
+      "ID": 7000812,
+      "Entries": [
+        "[Merchant Kale - Materials] Grave Glovewort [2]"
+      ]
+    },
+    {
+      "ID": 7000813,
+      "Entries": [
+        "[Merchant Kale - Materials] Ghost Glovewort [2]"
+      ]
+    },
+    {
+      "ID": 7000820,
+      "Entries": [
+        "[Merchant Kale - Materials] Smithing Stone [3]"
+      ]
+    },
+    {
+      "ID": 7000821,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Smithing Stone [3]"
+      ]
+    },
+    {
+      "ID": 7000822,
+      "Entries": [
+        "[Merchant Kale - Materials] Grave Glovewort [3]"
+      ]
+    },
+    {
+      "ID": 7000823,
+      "Entries": [
+        "[Merchant Kale - Materials] Ghost Glovewort [3]"
+      ]
+    },
+    {
+      "ID": 7000830,
+      "Entries": [
+        "[Merchant Kale - Materials] Smithing Stone [4]"
+      ]
+    },
+    {
+      "ID": 7000831,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Smithing Stone [4]"
+      ]
+    },
+    {
+      "ID": 7000832,
+      "Entries": [
+        "[Merchant Kale - Materials] Grave Glovewort [4]"
+      ]
+    },
+    {
+      "ID": 7000833,
+      "Entries": [
+        "[Merchant Kale - Materials] Ghost Glovewort [4]"
+      ]
+    },
+    {
+      "ID": 7000834,
+      "Entries": [
+        "[Merchant Kale - Materials] Smithing Stone [5]"
+      ]
+    },
+    {
+      "ID": 7000835,
+      "Entries": [
+        "[Merchant Kale - Materials] Smithing Stone [6]"
+      ]
+    },
+    {
+      "ID": 7000836,
+      "Entries": [
+        "[Merchant Kale - Materials] Smithing Stone [7]"
+      ]
+    },
+    {
+      "ID": 7000837,
+      "Entries": [
+        "[Merchant Kale - Materials] Smithing Stone [8]"
+      ]
+    },
+    {
+      "ID": 7000838,
+      "Entries": [
+        "[Merchant Kale - Materials] Ancient Dragon Smithing Stone"
+      ]
+    },
+    {
+      "ID": 7000843,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Smithing Stone [5]"
+      ]
+    },
+    {
+      "ID": 7000844,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Smithing Stone [6]"
+      ]
+    },
+    {
+      "ID": 7000845,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Smithing Stone [7]"
+      ]
+    },
+    {
+      "ID": 7000846,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Smithing Stone [8]"
+      ]
+    },
+    {
+      "ID": 7000847,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Smithing Stone [9]"
+      ]
+    },
+    {
+      "ID": 7000848,
+      "Entries": [
+        "[Merchant Kale - Materials] Somber Ancient Dragon Smithing Stone"
+      ]
+    },
+    {
+      "ID": 7000853,
+      "Entries": [
+        "[Merchant Kale - Materials] Grave Glovewort [5]"
+      ]
+    },
+    {
+      "ID": 7000854,
+      "Entries": [
+        "[Merchant Kale - Materials] Grave Glovewort [6]"
+      ]
+    },
+    {
+      "ID": 7000855,
+      "Entries": [
+        "[Merchant Kale - Materials] Grave Glovewort [7]"
+      ]
+    },
+    {
+      "ID": 7000856,
+      "Entries": [
+        "[Merchant Kale - Materials] Grave Glovewort [8]"
+      ]
+    },
+    {
+      "ID": 7000857,
+      "Entries": [
+        "[Merchant Kale - Materials] Grave Glovewort [9]"
+      ]
+    },
+    {
+      "ID": 7000858,
+      "Entries": [
+        "[Merchant Kale - Materials] Great Grave Glovewort"
+      ]
+    },
+    {
+      "ID": 7000863,
+      "Entries": [
+        "[Merchant Kale - Materials] Ghost Glovewort [5]"
+      ]
+    },
+    {
+      "ID": 7000864,
+      "Entries": [
+        "[Merchant Kale - Materials] Ghost Glovewort [6]"
+      ]
+    },
+    {
+      "ID": 7000865,
+      "Entries": [
+        "[Merchant Kale - Materials] Ghost Glovewort [7]"
+      ]
+    },
+    {
+      "ID": 7000866,
+      "Entries": [
+        "[Merchant Kale - Materials] Ghost Glovewort [8]"
+      ]
+    },
+    {
+      "ID": 7000867,
+      "Entries": [
+        "[Merchant Kale - Materials] Ghost Glovewort [9]"
+      ]
+    },
+    {
+      "ID": 7000868,
+      "Entries": [
+        "[Merchant Kale - Materials] Great Ghost Glovewort"
+      ]
+    }
+  ]
+}

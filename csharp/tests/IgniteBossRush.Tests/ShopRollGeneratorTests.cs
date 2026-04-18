@@ -1,0 +1,291 @@
+// SPDX-License-Identifier: GPL-3.0-only
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text.Json;
+using IgniteBossRush.Core.Generation;
+using IgniteBossRush.Core.Io;
+using IgniteBossRush.Core.Models;
+using Xunit;
+
+namespace IgniteBossRush.Tests;
+
+/// <summary>
+/// Determinism + structural tests for <see cref="ShopRollGenerator"/>.
+/// Mirrors the style of <see cref="DropGeneratorTests"/>: hermetic temp
+/// fixtures, no dependency on shop_pool.json shipped under csharp/data, so
+/// the suite stays insulated from pool curation churn.
+///
+/// Test inventory:
+///   - Determinism: same seed → byte-identical tier_rewards.json.
+///   - Variability: different seeds → different fingerprints AND different
+///     observable slot contents (catches the hypothetical bug where the RNG
+///     factory is wired to ignore the seed).
+///   - Structure: 9 tiers × 11 slots in the locked W,W,W,T,T,T,A,A,A,Tear,Tear order.
+///   - Within-tier uniqueness: no duplicate param_id within a single category
+///     of a single tier (Fisher–Yates without replacement contract).
+///   - Pool sized below minimum → loud failure (caught at BuildPlan time).
+/// </summary>
+public class ShopRollGeneratorTests
+{
+    [Fact]
+    public void Generate_SameSeed_TwiceProducesIdenticalBytes()
+    {
+        using var fx = new TempPoolFixture();
+        fx.WriteDefaultPool();
+
+        string outA = Path.Combine(fx.Root, "runA");
+        string outB = Path.Combine(fx.Root, "runB");
+        var opts = new ShopRollGeneratorOptions
+        {
+            Seed = "deterministic-shop-seed",
+            ShopPoolPath = fx.PoolPath,
+        };
+
+        var r1 = new ShopRollGenerator(opts).Generate(outA);
+        var r2 = new ShopRollGenerator(opts).Generate(outB);
+
+        Assert.Equal(r1.Fingerprint, r2.Fingerprint);
+        byte[] a = File.ReadAllBytes(r1.TierRewardsPath);
+        byte[] b = File.ReadAllBytes(r2.TierRewardsPath);
+        Assert.Equal(a, b); // byte-identical tier_rewards.json
+    }
+
+    [Fact]
+    public void Generate_DifferentSeeds_ProduceDifferentFingerprintsAndContents()
+    {
+        using var fx = new TempPoolFixture();
+        fx.WriteDefaultPool();
+        // Seed pool large enough that distinct seeds will pick differently
+        // with overwhelming probability (combinatorially many orderings).
+
+        var optsA = new ShopRollGeneratorOptions { Seed = "seed-alpha", ShopPoolPath = fx.PoolPath };
+        var optsB = new ShopRollGeneratorOptions { Seed = "seed-bravo", ShopPoolPath = fx.PoolPath };
+
+        var r1 = new ShopRollGenerator(optsA).Generate(Path.Combine(fx.Root, "a"));
+        var r2 = new ShopRollGenerator(optsB).Generate(Path.Combine(fx.Root, "b"));
+
+        Assert.NotEqual(r1.Fingerprint, r2.Fingerprint);
+
+        // Belt-and-braces: parse both files and assert at least one slot's
+        // param_id differs. If both files were structurally identical despite
+        // different fingerprints something has gone very wrong with hashing.
+        var docA = JsonDocument.Parse(File.ReadAllBytes(r1.TierRewardsPath));
+        var docB = JsonDocument.Parse(File.ReadAllBytes(r2.TierRewardsPath));
+        bool foundDiff = false;
+        var tiersA = docA.RootElement.GetProperty("tiers").EnumerateArray().ToList();
+        var tiersB = docB.RootElement.GetProperty("tiers").EnumerateArray().ToList();
+        for (int t = 0; t < tiersA.Count && !foundDiff; t++)
+        {
+            var slotsA = tiersA[t].GetProperty("slots").EnumerateArray().ToList();
+            var slotsB = tiersB[t].GetProperty("slots").EnumerateArray().ToList();
+            for (int s = 0; s < slotsA.Count && !foundDiff; s++)
+            {
+                if (slotsA[s].GetProperty("param_id").GetInt32()
+                  != slotsB[s].GetProperty("param_id").GetInt32())
+                    foundDiff = true;
+            }
+        }
+        Assert.True(foundDiff,
+            "expected at least one slot to differ between distinct seeds");
+    }
+
+    [Fact]
+    public void Generate_StructureMatchesLockedSpec_9Tiers_11Slots_3W3T3A2Tear()
+    {
+        using var fx = new TempPoolFixture();
+        fx.WriteDefaultPool();
+        var r = new ShopRollGenerator(new ShopRollGeneratorOptions
+        {
+            Seed = "structure-check",
+            ShopPoolPath = fx.PoolPath,
+        }).Generate(Path.Combine(fx.Root, "out"));
+
+        Assert.Equal(9, r.TierCount);
+        Assert.Equal(99, r.SlotCount);
+
+        using var doc = JsonDocument.Parse(File.ReadAllBytes(r.TierRewardsPath));
+        var tiers = doc.RootElement.GetProperty("tiers").EnumerateArray().ToList();
+        Assert.Equal(9, tiers.Count);
+
+        for (int i = 0; i < 9; i++)
+        {
+            int tier = i + 1;
+            var t = tiers[i];
+            Assert.Equal(tier, t.GetProperty("tier").GetInt32());
+
+            // Tier flag scheme reuses base mod's per-tier flags 1049308301..309.
+            Assert.Equal(1049308300 + tier, t.GetProperty("tier_flag").GetInt32());
+            // Visibility & shard-award flags are owned by IgniteBossRush.
+            Assert.Equal(1049308400 + tier, t.GetProperty("shop_visibility_flag").GetInt32());
+            // Shard-award guard moved to 1049308220..229 — the only clean gap
+            // in the 1049308xxx plateau. Prior homes 1049308500 and 1049308200
+            // both fell inside batch-reset windows the mod runs during tier
+            // play, causing the guard to never hold (10 and 75 shards per
+            // clear observed respectively). See the detailed history in
+            // TierClearConstants.ShardAwardEventFlagBase.
+            Assert.Equal(1049308220 + tier, t.GetProperty("shard_award_event_flag").GetInt32());
+            Assert.Equal(5, t.GetProperty("shard_award_count").GetInt32());
+
+            // 11 slots in fixed kind order. Cost always 1 amber shard.
+            var slots = t.GetProperty("slots").EnumerateArray().ToList();
+            Assert.Equal(11, slots.Count);
+            string[] expectedKinds = {
+                "weapon","weapon","weapon",
+                "talisman","talisman","talisman",
+                "ash_of_war","ash_of_war","ash_of_war",
+                "tear","tear",
+            };
+            for (int s = 0; s < 11; s++)
+            {
+                Assert.Equal(expectedKinds[s], slots[s].GetProperty("kind").GetString());
+                // shop_id encoding: 8000000 + tier*100 + slot
+                Assert.Equal(8000000 + tier * 100 + s, slots[s].GetProperty("shop_id").GetInt32());
+                Assert.Equal(1, slots[s].GetProperty("cost_amber_shards").GetInt32());
+            }
+        }
+    }
+
+    [Fact]
+    public void Generate_WithinTier_NoDuplicateItemsInSameCategory()
+    {
+        // Sample-without-replacement contract: a single tier never shows the
+        // same weapon twice (etc.). Across tiers items may repeat — that's
+        // intentional and not asserted here.
+        using var fx = new TempPoolFixture();
+        fx.WriteDefaultPool();
+        var r = new ShopRollGenerator(new ShopRollGeneratorOptions
+        {
+            Seed = "uniqueness-check",
+            ShopPoolPath = fx.PoolPath,
+        }).Generate(Path.Combine(fx.Root, "u"));
+
+        using var doc = JsonDocument.Parse(File.ReadAllBytes(r.TierRewardsPath));
+        foreach (var tier in doc.RootElement.GetProperty("tiers").EnumerateArray())
+        {
+            var groups = tier.GetProperty("slots").EnumerateArray()
+                .GroupBy(s => s.GetProperty("kind").GetString())
+                .ToList();
+            foreach (var g in groups)
+            {
+                var ids = g.Select(s => s.GetProperty("param_id").GetInt32()).ToList();
+                Assert.Equal(ids.Count, ids.Distinct().Count());
+            }
+        }
+    }
+
+    [Fact]
+    public void Generate_PoolBelowMinimumSize_ThrowsLoudly()
+    {
+        using var fx = new TempPoolFixture();
+        // Only 2 weapons in pool but spec needs 3 → should fail at BuildPlan,
+        // not silently emit a malformed plan.
+        fx.WritePool(weaponCount: 2, talismanCount: 3, aowCount: 3, tearCount: 2);
+
+        var ex = Assert.Throws<InvalidDataException>(() =>
+            new ShopRollGenerator(new ShopRollGeneratorOptions
+            {
+                Seed = "too-small",
+                ShopPoolPath = fx.PoolPath,
+            }).Generate(Path.Combine(fx.Root, "x")));
+
+        Assert.Contains("weapons", ex.Message);
+    }
+
+    [Fact]
+    public void BuildPlan_IsPureFunction_NoIO()
+    {
+        // Direct call into the in-memory builder — useful for downstream
+        // callers (regulation patcher, EMEVD patcher) that want the plan
+        // without touching disk. Same seed → identical canonical bytes.
+        var pool = MakePool(weaponCount: 5, talismanCount: 4, aowCount: 4, tearCount: 3);
+        var p1 = ShopRollGenerator.BuildPlan("pure-fn-seed", pool);
+        var p2 = ShopRollGenerator.BuildPlan("pure-fn-seed", pool);
+
+        byte[] b1 = CanonicalJsonWriter.Serialize(ShopRollGenerator.ToCanonicalDict(p1));
+        byte[] b2 = CanonicalJsonWriter.Serialize(ShopRollGenerator.ToCanonicalDict(p2));
+        Assert.Equal(b1, b2);
+    }
+
+    // ------------------------------------------------------------------
+    // Fixture helpers
+    // ------------------------------------------------------------------
+
+    private static ShopPoolFile MakePool(int weaponCount, int talismanCount, int aowCount, int tearCount)
+    {
+        return new ShopPoolFile
+        {
+            SchemaVersion = 1,
+            DomainTag = "kale_shop_tier",
+            Pools = new ShopPools
+            {
+                Weapons = Enumerable.Range(0, weaponCount)
+                    .Select(i => new WeaponPoolEntry { ParamId = 2000000 + i * 1000, Name = $"W{i}" }).ToList(),
+                Talismans = Enumerable.Range(0, talismanCount)
+                    .Select(i => new TalismanPoolEntry { ParamId = 1000 + i, Name = $"T{i}" }).ToList(),
+                AshOfWar = Enumerable.Range(0, aowCount)
+                    .Select(i => new AshOfWarPoolEntry { ParamId = 10000 + i * 100, Name = $"A{i}" }).ToList(),
+                CrystalTears = Enumerable.Range(0, tearCount)
+                    .Select(i => new CrystalTearPoolEntry { ParamId = 10100 + i, Name = $"Tear{i}" }).ToList(),
+            },
+            Exclusions = new ShopExclusions(),
+        };
+    }
+
+    private sealed class TempPoolFixture : IDisposable
+    {
+        public string Root { get; }
+        public string PoolPath => Path.Combine(Root, "shop_pool.json");
+
+        public TempPoolFixture()
+        {
+            Root = Path.Combine(Path.GetTempPath(),
+                "ignite-shop-tests-" + Guid.NewGuid().ToString("N"));
+            Directory.CreateDirectory(Root);
+        }
+
+        public void WriteDefaultPool() =>
+            WritePool(weaponCount: 8, talismanCount: 6, aowCount: 6, tearCount: 4);
+
+        public void WritePool(int weaponCount, int talismanCount, int aowCount, int tearCount)
+        {
+            var pool = MakePool(weaponCount, talismanCount, aowCount, tearCount);
+            // Use System.Text.Json for fixture writing — we don't need
+            // canonical bytes for the input, only for the output we compare.
+            var poolDict = new
+            {
+                schema_version = pool.SchemaVersion,
+                domain_tag = pool.DomainTag,
+                pools = new
+                {
+                    weapons = pool.Pools.Weapons.Select(w => new {
+                        equipParamWeapon_id = w.ParamId, name = w.Name, default_upgrade = w.DefaultUpgrade
+                    }).ToArray(),
+                    talismans = pool.Pools.Talismans.Select(t => new {
+                        equipParamAccessory_id = t.ParamId, name = t.Name
+                    }).ToArray(),
+                    ash_of_war = pool.Pools.AshOfWar.Select(a => new {
+                        equipParamGem_id = a.ParamId, name = a.Name
+                    }).ToArray(),
+                    crystal_tears = pool.Pools.CrystalTears.Select(c => new {
+                        equipParamGoods_id = c.ParamId, name = c.Name
+                    }).ToArray(),
+                },
+                exclusions = new {
+                    weapons = Array.Empty<int>(),
+                    talismans = Array.Empty<int>(),
+                    ash_of_war = Array.Empty<int>(),
+                    crystal_tears = Array.Empty<int>(),
+                },
+            };
+            File.WriteAllText(PoolPath, JsonSerializer.Serialize(poolDict));
+        }
+
+        public void Dispose()
+        {
+            try { Directory.Delete(Root, recursive: true); }
+            catch { /* best-effort cleanup */ }
+        }
+    }
+}

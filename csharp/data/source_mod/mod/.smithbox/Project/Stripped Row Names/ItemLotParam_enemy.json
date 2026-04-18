@@ -1,0 +1,29 @@
+{
+  "Name": "ItemLotParam_enemy",
+  "Entries": [
+    {
+      "ID": 0,
+      "Entries": [
+        "Head"
+      ]
+    },
+    {
+      "ID": 1,
+      "Entries": [
+        "Neutralizing Boluses"
+      ]
+    },
+    {
+      "ID": 2,
+      "Entries": [
+        "Flask of Crimson Tears +5, Flask of Crimson Tears +5, Flask of Crimson Tears +6, Flask of Crimson Tears +6, Flask of Crimson Tears +11, Flask of Crimson Tears, Flask of Crimson Tears"
+      ]
+    },
+    {
+      "ID": 435320006,
+      "Entries": [
+        "[Leyndell Knight] Dragon Cult Prayerbook"
+      ]
+    }
+  ]
+}

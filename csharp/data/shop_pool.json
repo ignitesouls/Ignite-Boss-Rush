@@ -1,0 +1,1808 @@
+{
+  "schema_version": 1,
+  "domain_tag": "kale_shop_tier",
+  "pools": {
+    "weapons": [
+      {
+        "equipParamWeapon_id": 2000000,
+        "name": "Longsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2010000,
+        "name": "Short Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2020000,
+        "name": "Broadsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2040000,
+        "name": "Lordsworn's Straight Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2050000,
+        "name": "Weathered Straight Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2060000,
+        "name": "Ornamental Straight Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2070000,
+        "name": "Golden Epitaph",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2080000,
+        "name": "Nox Flowing Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2090000,
+        "name": "Inseparable Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2110000,
+        "name": "Coded Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2140000,
+        "name": "Sword of Night and Flame",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2150000,
+        "name": "Crystal Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2180000,
+        "name": "Carian Knight's Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2190000,
+        "name": "Sword of St. Trina",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2200000,
+        "name": "Miquellan Knight's Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2210000,
+        "name": "Cane Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2220000,
+        "name": "Regalia of Eochaid",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2230000,
+        "name": "Noble's Slender Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2240000,
+        "name": "Warhawk's Talon",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2250000,
+        "name": "Lazuli Glintstone Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2260000,
+        "name": "Rotten Crystal Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2510000,
+        "name": "Velvet Sword of St. Trina",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2520000,
+        "name": "Star-Lined Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2530000,
+        "name": "Carian Sorcery Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2540000,
+        "name": "Stone-Sheathed Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2550000,
+        "name": "Sword of Light",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 2560000,
+        "name": "Sword of Darkness",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3000000,
+        "name": "Bastard Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3010000,
+        "name": "Forked Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3020000,
+        "name": "Iron Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3030000,
+        "name": "Lordsworn's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3040000,
+        "name": "Knight's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3050000,
+        "name": "Flamberge",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3060000,
+        "name": "Ordovis's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3070000,
+        "name": "Alabaster Lord's Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3080000,
+        "name": "Banished Knight's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3090000,
+        "name": "Dark Moon Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3100000,
+        "name": "Sacred Relic Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3130000,
+        "name": "Helphen's Steeple",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3140000,
+        "name": "Blasphemous Blade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3150000,
+        "name": "Marais Executioner's Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3160000,
+        "name": "Sword of Milos",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3170000,
+        "name": "Golden Order Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3180000,
+        "name": "Claymore",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3190000,
+        "name": "Gargoyle's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3200000,
+        "name": "Death's Poker",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3210000,
+        "name": "Gargoyle's Blackblade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3500000,
+        "name": "Sword Lance",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3510000,
+        "name": "Greatsword of Damnation",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3520000,
+        "name": "Lizard Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 3550000,
+        "name": "Greatsword of Solitude",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4000000,
+        "name": "Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4010000,
+        "name": "Watchdog's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4020000,
+        "name": "Maliketh's Black Blade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4030000,
+        "name": "Troll's Golden Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4040000,
+        "name": "Zweihander",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4050000,
+        "name": "Starscourge Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4060000,
+        "name": "Royal Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4070000,
+        "name": "Godslayer's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4080000,
+        "name": "Ruins Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4100000,
+        "name": "Grafted Blade Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4110000,
+        "name": "Troll Knight's Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4500000,
+        "name": "Ancient Meteoric Ore Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4520000,
+        "name": "Fire Knight's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4530000,
+        "name": "Greatsword of Radahn (Lord)",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4540000,
+        "name": "Moonrithyll's Knight Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 4550000,
+        "name": "Greatsword of Radahn (Light)",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 5000000,
+        "name": "Estoc",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 5010000,
+        "name": "Cleanrot Knight's Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 5020000,
+        "name": "Rapier",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 5030000,
+        "name": "Rogier's Rapier",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 5040000,
+        "name": "Antspur Rapier",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 5050000,
+        "name": "Frozen Needle",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 5060000,
+        "name": "Noble's Estoc",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 6000000,
+        "name": "Bloody Helice",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 6010000,
+        "name": "Godskin Stitcher",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 6020000,
+        "name": "Great Épée",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 6040000,
+        "name": "Dragon King's Cragblade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 6500000,
+        "name": "Queelign's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7000000,
+        "name": "Falchion",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7010000,
+        "name": "Beastman's Curved Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7020000,
+        "name": "Shotel",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7030000,
+        "name": "Shamshir",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7040000,
+        "name": "Bandit's Curved Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7050000,
+        "name": "Magma Blade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7060000,
+        "name": "Flowing Curved Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7070000,
+        "name": "Wing of Astel",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7080000,
+        "name": "Scavenger's Curved Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7100000,
+        "name": "Eclipse Shotel",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7110000,
+        "name": "Serpent-God's Curved Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7120000,
+        "name": "Mantis Blade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7140000,
+        "name": "Scimitar",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7150000,
+        "name": "Grossmesser",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7500000,
+        "name": "Spirit Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7510000,
+        "name": "Falx",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7520000,
+        "name": "Dancing Blade of Ranah",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 7530000,
+        "name": "Horned Warrior's Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8010000,
+        "name": "Onyx Lord's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8020000,
+        "name": "Dismounter",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8030000,
+        "name": "Bloodhound's Fang",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8040000,
+        "name": "Magma Wyrm's Scalesword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8050000,
+        "name": "Zamor Curved Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8060000,
+        "name": "Omen Cleaver",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8070000,
+        "name": "Monk's Flameblade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8080000,
+        "name": "Beastman's Cleaver",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8100000,
+        "name": "Morgott's Cursed Sword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8500000,
+        "name": "Putrescence Cleaver",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8510000,
+        "name": "Freyja's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 8520000,
+        "name": "Horned Warrior's Greatsword",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 9000000,
+        "name": "Uchigatana",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 9010000,
+        "name": "Nagakiba",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 9020000,
+        "name": "Hand of Malenia",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 9030000,
+        "name": "Meteoric Ore Blade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 9040000,
+        "name": "Rivers of Blood",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 9060000,
+        "name": "Moonveil",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 9070000,
+        "name": "Dragonscale Blade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 9080000,
+        "name": "Serpentbone Blade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 9500000,
+        "name": "Sword of Night",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 10000000,
+        "name": "Twinblade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 10010000,
+        "name": "Godskin Peeler",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 10030000,
+        "name": "Twinned Knight Swords",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 10050000,
+        "name": "Eleonora's Poleblade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 10080000,
+        "name": "Gargoyle's Twinblade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 10090000,
+        "name": "Gargoyle's Black Blades",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 10500000,
+        "name": "Euporia",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 10510000,
+        "name": "Black Steel Twinblade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11000000,
+        "name": "Mace",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11010000,
+        "name": "Club",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11030000,
+        "name": "Curved Club",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11040000,
+        "name": "Warpick",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11050000,
+        "name": "Morning Star",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11060000,
+        "name": "Varré's Bouquet",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11070000,
+        "name": "Spiked Club",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11080000,
+        "name": "Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11090000,
+        "name": "Monk's Flamemace",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11100000,
+        "name": "Envoy's Horn",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11110000,
+        "name": "Scepter of the All-Knowing",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11120000,
+        "name": "Nox Flowing Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11130000,
+        "name": "Ringed Finger",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11140000,
+        "name": "Stone Club",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11150000,
+        "name": "Marika's Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 11500000,
+        "name": "Flowerstone Gavel",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12000000,
+        "name": "Large Club",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12010000,
+        "name": "Greathorn Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12020000,
+        "name": "Battle Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12060000,
+        "name": "Great Mace",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12080000,
+        "name": "Curved Great Club",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12130000,
+        "name": "Celebrant's Skull",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12140000,
+        "name": "Pickaxe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12150000,
+        "name": "Beastclaw Greathammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12160000,
+        "name": "Envoy's Long Horn",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12170000,
+        "name": "Cranial Vessel Candlestand",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12180000,
+        "name": "Great Stars",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12190000,
+        "name": "Brick Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12200000,
+        "name": "Devourer's Scepter",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12210000,
+        "name": "Rotten Battle Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12500000,
+        "name": "Smithscript Greathammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12510000,
+        "name": "Anvil Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12520000,
+        "name": "Black Steel Greathammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 12530000,
+        "name": "Bloodfiend's Arm",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 13000000,
+        "name": "Nightrider Flail",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 13010000,
+        "name": "Flail",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 13020000,
+        "name": "Family Heads",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 13030000,
+        "name": "Bastard's Stars",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 13040000,
+        "name": "Chainlink Flail",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 13500000,
+        "name": "Serpent Flail",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14000000,
+        "name": "Battle Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14010000,
+        "name": "Forked Hatchet",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14020000,
+        "name": "Hand Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14030000,
+        "name": "Jawbone Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14040000,
+        "name": "Iron Cleaver",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14050000,
+        "name": "Ripple Blade",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14060000,
+        "name": "Celebrant's Cleaver",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14080000,
+        "name": "Icerind Hatchet",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14100000,
+        "name": "Highland Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14110000,
+        "name": "Sacrificial Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14120000,
+        "name": "Rosus' Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14140000,
+        "name": "Stormhawk Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14500000,
+        "name": "Smithscript Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14510000,
+        "name": "Death Knight's Twin Axes",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14520000,
+        "name": "Messmer Soldier's Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 14540000,
+        "name": "Forked-Tongue Hatchet",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15000000,
+        "name": "Greataxe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15010000,
+        "name": "Warped Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15020000,
+        "name": "Great Omenkiller Cleaver",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15030000,
+        "name": "Crescent Moon Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15040000,
+        "name": "Axe of Godrick",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15050000,
+        "name": "Longhaft Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15060000,
+        "name": "Rusted Anchor",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15080000,
+        "name": "Executioner's Greataxe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15110000,
+        "name": "Winged Greathorn",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15130000,
+        "name": "Gargoyle's Great Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15140000,
+        "name": "Gargoyle's Black Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15500000,
+        "name": "Death Knight's Longhaft Axe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 15510000,
+        "name": "Bonny Butchering Knife",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16000000,
+        "name": "Short Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16010000,
+        "name": "Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16020000,
+        "name": "Crystal Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16030000,
+        "name": "Clayman's Harpoon",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16040000,
+        "name": "Cleanrot Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16050000,
+        "name": "Partisan",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16060000,
+        "name": "Celebrant's Rib-Rake",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16070000,
+        "name": "Pike",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16080000,
+        "name": "Torchpole",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16090000,
+        "name": "Bolt of Gransax",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16110000,
+        "name": "Cross-Naginata",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16120000,
+        "name": "Death Ritual Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16130000,
+        "name": "Inquisitor's Girandole",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16140000,
+        "name": "Spiked Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16150000,
+        "name": "Iron Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16160000,
+        "name": "Rotten Crystal Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16500000,
+        "name": "Smithscript Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16520000,
+        "name": "Swift Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16540000,
+        "name": "Bloodfiend's Fork",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 16550000,
+        "name": "Bloodfiend's Sacred Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 17010000,
+        "name": "Mohgwyn's Sacred Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 17020000,
+        "name": "Siluria's Tree",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 17030000,
+        "name": "Serpent-Hunter",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 17050000,
+        "name": "Vyke's War Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 17060000,
+        "name": "Lance",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 17070000,
+        "name": "Treespear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 17500000,
+        "name": "Spear of the Impaler",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 17510000,
+        "name": "Messmer Soldier's Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 17520000,
+        "name": "Barbed Staff-Spear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18000000,
+        "name": "Halberd",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18010000,
+        "name": "Pest's Glaive",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18020000,
+        "name": "Lucerne",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18030000,
+        "name": "Banished Knight's Halberd",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18040000,
+        "name": "Commander's Standard",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18050000,
+        "name": "Nightrider Glaive",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18060000,
+        "name": "Ripple Crescent Halberd",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18070000,
+        "name": "Vulgar Militia Saw",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18080000,
+        "name": "Golden Halberd",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18090000,
+        "name": "Glaive",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18100000,
+        "name": "Loretta's War Sickle",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18110000,
+        "name": "Guardian's Swordspear",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18130000,
+        "name": "Vulgar Militia Shotel",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18140000,
+        "name": "Dragon Halberd",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18150000,
+        "name": "Gargoyle's Halberd",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18160000,
+        "name": "Gargoyle's Black Halberd",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18500000,
+        "name": "Spirit Glaive",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 18510000,
+        "name": "Poleblade of the Bud",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 19000000,
+        "name": "Scythe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 19010000,
+        "name": "Grave Scythe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 19020000,
+        "name": "Halo Scythe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 19060000,
+        "name": "Winged Scythe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 19500000,
+        "name": "Obsidian Lamina",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 20000000,
+        "name": "Whip",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 20020000,
+        "name": "Thorned Whip",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 20030000,
+        "name": "Magma Whip Candlestick",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 20050000,
+        "name": "Hoslow's Petal Whip",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 20060000,
+        "name": "Giant's Red Braid",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 20070000,
+        "name": "Urumi",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 20500000,
+        "name": "Tooth Whip",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21000000,
+        "name": "Caestus",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21010000,
+        "name": "Spiked Caestus",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21060000,
+        "name": "Grafted Dragon",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21070000,
+        "name": "Iron Ball",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21080000,
+        "name": "Star Fist",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21100000,
+        "name": "Katar",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21110000,
+        "name": "Clinging Bone",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21120000,
+        "name": "Veteran's Prosthesis",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21130000,
+        "name": "Cipher Pata",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21500000,
+        "name": "Thiollier's Hidden Needle",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21510000,
+        "name": "Pata",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21520000,
+        "name": "Poisoned Hand",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21530000,
+        "name": "Madding Hand",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21540000,
+        "name": "Golem Fist",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 21550000,
+        "name": "Shield of Night",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 22000000,
+        "name": "Hookclaws",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 22010000,
+        "name": "Venomous Fang",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 22020000,
+        "name": "Bloodhound Claws",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 22030000,
+        "name": "Raptor Talons",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 22500000,
+        "name": "Claws of Night",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23000000,
+        "name": "Prelate's Inferno Crozier",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23010000,
+        "name": "Watchdog's Staff",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23020000,
+        "name": "Great Club",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23030000,
+        "name": "Envoy's Greathorn",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23040000,
+        "name": "Duelist Greataxe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23050000,
+        "name": "Axe of Godfrey",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23060000,
+        "name": "Dragon Greatclaw",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23070000,
+        "name": "Staff of the Avatar",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23080000,
+        "name": "Fallingstar Beast Jaw",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23100000,
+        "name": "Ghiza's Wheel",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23110000,
+        "name": "Giant-Crusher",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23120000,
+        "name": "Golem's Halberd",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23130000,
+        "name": "Troll's Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23140000,
+        "name": "Rotten Staff",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23150000,
+        "name": "Rotten Greataxe",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23500000,
+        "name": "Devonia's Hammer",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23510000,
+        "name": "Shadow Sunflower Blossom",
+        "default_upgrade": 0
+      },
+      {
+        "equipParamWeapon_id": 23520000,
+        "name": "Gazing Finger",
+        "default_upgrade": 0
+      }
+    ],
+    "talismans": [
+      {
+        "equipParamAccessory_id": 1002,
+        "name": "Crimson Amber Medallion +2"
+      },
+      {
+        "equipParamAccessory_id": 1012,
+        "name": "Cerulean Amber Medallion +2"
+      },
+      {
+        "equipParamAccessory_id": 1022,
+        "name": "Viridian Amber Medallion +2"
+      },
+      {
+        "equipParamAccessory_id": 1032,
+        "name": "Great-Jar's Arsenal"
+      },
+      {
+        "equipParamAccessory_id": 1042,
+        "name": "Erdtree's Favor +2"
+      },
+      {
+        "equipParamAccessory_id": 1051,
+        "name": "Radagon's Soreseal"
+      },
+      {
+        "equipParamAccessory_id": 1060,
+        "name": "Starscourge Heirloom"
+      },
+      {
+        "equipParamAccessory_id": 1070,
+        "name": "Prosthesis-Wearer Heirloom"
+      },
+      {
+        "equipParamAccessory_id": 1080,
+        "name": "Stargazer Heirloom"
+      },
+      {
+        "equipParamAccessory_id": 1090,
+        "name": "Two Fingers Heirloom"
+      },
+      {
+        "equipParamAccessory_id": 1110,
+        "name": "Gold Scarab"
+      },
+      {
+        "equipParamAccessory_id": 1150,
+        "name": "Green Turtle Talisman"
+      },
+      {
+        "equipParamAccessory_id": 1221,
+        "name": "Marika's Soreseal"
+      },
+      {
+        "equipParamAccessory_id": 1231,
+        "name": "Shard of Alexander"
+      },
+      {
+        "equipParamAccessory_id": 1250,
+        "name": "Millicent's Prosthesis"
+      },
+      {
+        "equipParamAccessory_id": 2000,
+        "name": "Magic Scorpion Charm"
+      },
+      {
+        "equipParamAccessory_id": 2010,
+        "name": "Lightning Scorpion Charm"
+      },
+      {
+        "equipParamAccessory_id": 2020,
+        "name": "Fire Scorpion Charm"
+      },
+      {
+        "equipParamAccessory_id": 2030,
+        "name": "Sacred Scorpion Charm"
+      },
+      {
+        "equipParamAccessory_id": 2050,
+        "name": "Ritual Sword Talisman"
+      },
+      {
+        "equipParamAccessory_id": 2081,
+        "name": "Rotten Winged Sword Insignia"
+      },
+      {
+        "equipParamAccessory_id": 2090,
+        "name": "Dagger Talisman"
+      },
+      {
+        "equipParamAccessory_id": 2110,
+        "name": "Blue Dancer Charm"
+      },
+      {
+        "equipParamAccessory_id": 2130,
+        "name": "Axe Talisman"
+      },
+      {
+        "equipParamAccessory_id": 2160,
+        "name": "Lord of Blood's Exultation"
+      },
+      {
+        "equipParamAccessory_id": 2170,
+        "name": "Kindred of Rot's Exultation"
+      },
+      {
+        "equipParamAccessory_id": 2180,
+        "name": "Claw Talisman"
+      },
+      {
+        "equipParamAccessory_id": 4002,
+        "name": "Dragoncrest Shield Talisman +2"
+      },
+      {
+        "equipParamAccessory_id": 4012,
+        "name": "Spelldrake Talisman +2"
+      },
+      {
+        "equipParamAccessory_id": 4022,
+        "name": "Flamedrake Talisman +2"
+      },
+      {
+        "equipParamAccessory_id": 4032,
+        "name": "Boltdrake Talisman +2"
+      },
+      {
+        "equipParamAccessory_id": 4042,
+        "name": "Haligdrake Talisman +2"
+      },
+      {
+        "equipParamAccessory_id": 4052,
+        "name": "Pearldrake Talisman +2"
+      },
+      {
+        "equipParamAccessory_id": 4090,
+        "name": "Ritual Shield Talisman"
+      },
+      {
+        "equipParamAccessory_id": 5000,
+        "name": "Crimson Seed Talisman"
+      },
+      {
+        "equipParamAccessory_id": 5050,
+        "name": "Assassin's Crimson Dagger"
+      },
+      {
+        "equipParamAccessory_id": 7120,
+        "name": "Golden Braid"
+      },
+      {
+        "equipParamAccessory_id": 8020,
+        "name": "Outer God Heirloom"
+      },
+      {
+        "equipParamAccessory_id": 8040,
+        "name": "Two-Handed Sword Talisman"
+      },
+      {
+        "equipParamAccessory_id": 8130,
+        "name": "Retaliatory Crossed-Tree"
+      },
+      {
+        "equipParamAccessory_id": 8220,
+        "name": "Rellana's Cameo"
+      },
+      {
+        "equipParamAccessory_id": 8230,
+        "name": "Blade of Mercy"
+      }
+    ],
+    "ash_of_war": [
+      {
+        "equipParamGem_id": 4000,
+        "name": "Ash of War: Lion's Claw"
+      },
+      {
+        "equipParamGem_id": 10100,
+        "name": "Ash of War: Impaling Thrust"
+      },
+      {
+        "equipParamGem_id": 10200,
+        "name": "Ash of War: Piercing Fang"
+      },
+      {
+        "equipParamGem_id": 10300,
+        "name": "Ash of War: Spinning Slash"
+      },
+      {
+        "equipParamGem_id": 10600,
+        "name": "Ash of War: Stamp (Upward Cut)"
+      },
+      {
+        "equipParamGem_id": 10900,
+        "name": "Ash of War: Repeating Thrust"
+      },
+      {
+        "equipParamGem_id": 11000,
+        "name": "Ash of War: Wild Strikes"
+      },
+      {
+        "equipParamGem_id": 11200,
+        "name": "Ash of War: Double Slash"
+      },
+      {
+        "equipParamGem_id": 11400,
+        "name": "Ash of War: Unsheathe"
+      },
+      {
+        "equipParamGem_id": 11500,
+        "name": "Ash of War: Square Off"
+      },
+      {
+        "equipParamGem_id": 11600,
+        "name": "Ash of War: Giant Hunt"
+      },
+      {
+        "equipParamGem_id": 12400,
+        "name": "Ash of War: Sword Dance"
+      },
+      {
+        "equipParamGem_id": 12800,
+        "name": "Ash of War: Bloody Slash"
+      },
+      {
+        "equipParamGem_id": 14100,
+        "name": "Ash of War: Carian Greatsword"
+      },
+      {
+        "equipParamGem_id": 15600,
+        "name": "Ash of War: Barrage"
+      },
+      {
+        "equipParamGem_id": 16400,
+        "name": "Ash of War: Hoarfrost Stomp"
+      },
+      {
+        "equipParamGem_id": 16500,
+        "name": "Ash of War: Storm Stomp"
+      },
+      {
+        "equipParamGem_id": 16800,
+        "name": "Ash of War: Flame of the Redmanes"
+      },
+      {
+        "equipParamGem_id": 19000,
+        "name": "Ash of War: Quickstep"
+      },
+      {
+        "equipParamGem_id": 19100,
+        "name": "Ash of War: Bloodhound's Step"
+      },
+      {
+        "equipParamGem_id": 19200,
+        "name": "Ash of War: Raptor of the Mists"
+      }
+    ],
+    "crystal_tears": [
+      {
+        "equipParamGoods_id": 11001,
+        "name": "Greenspill Crystal Tear"
+      },
+      {
+        "equipParamGoods_id": 11008,
+        "name": "Opaline Bubbletear"
+      },
+      {
+        "equipParamGoods_id": 11010,
+        "name": "Greenburst Crystal Tear"
+      },
+      {
+        "equipParamGoods_id": 11011,
+        "name": "Opaline Hardtear"
+      },
+      {
+        "equipParamGoods_id": 11012,
+        "name": "Winged Crystal Tear"
+      },
+      {
+        "equipParamGoods_id": 11013,
+        "name": "Thorny Cracked Tear"
+      },
+      {
+        "equipParamGoods_id": 11014,
+        "name": "Spiked Cracked Tear"
+      },
+      {
+        "equipParamGoods_id": 11016,
+        "name": "Ruptured Crystal Tear"
+      },
+      {
+        "equipParamGoods_id": 11021,
+        "name": "Strength-knot Crystal Tear"
+      },
+      {
+        "equipParamGoods_id": 11022,
+        "name": "Dexterity-knot Crystal Tear"
+      },
+      {
+        "equipParamGoods_id": 11023,
+        "name": "Intelligence-knot Crystal Tear"
+      },
+      {
+        "equipParamGoods_id": 11024,
+        "name": "Faith-knot Crystal Tear"
+      },
+      {
+        "equipParamGoods_id": 11026,
+        "name": "Stonebarb Cracked Tear"
+      },
+      {
+        "equipParamGoods_id": 11028,
+        "name": "Flame-Shrouding Cracked Tear"
+      },
+      {
+        "equipParamGoods_id": 11029,
+        "name": "Magic-Shrouding Cracked Tear"
+      },
+      {
+        "equipParamGoods_id": 11030,
+        "name": "Lightning-Shrouding Cracked Tear"
+      },
+      {
+        "equipParamGoods_id": 11031,
+        "name": "Holy-Shrouding Cracked Tear"
+      },
+      {
+        "equipParamGoods_id": 2011050,
+        "name": "Bloodsucking Cracked Tear"
+      },
+      {
+        "equipParamGoods_id": 2011070,
+        "name": "Deflecting Hardtear"
+      }
+    ]
+  },
+  "exclusions": {
+    "weapons": [],
+    "talismans": [],
+    "ash_of_war": [],
+    "crystal_tears": []
+  }
+}

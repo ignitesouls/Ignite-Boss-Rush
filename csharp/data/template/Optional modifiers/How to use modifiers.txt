@@ -1,0 +1,18 @@
+## Explanation of the modifiers:
+
+- Restore vanilla NG+ stats: By default, the mod buffs the stats of earlier bosses in NG+ cycles, removes the double multiplier that is applied to physical damage in every NG+ cycle, and increases rune gain from the bosses it buffs. This modifier restores all these aspects to their vanilla game values.
+
+- Enemy Randomizer compatibility fixes: Fixes bugs in the Gideon and Rykard fights that occur when using Enemy Randomizer, by removing Gideon's moveset randomization and the ability to skip Rykard's phase 1 (which isn't supported with the randomizer for any boss anyway). Note that you need to apply this modifier BEFORE you run the randomization for it to work.
+
+## How to use:
+
+1. If using Mod Engine 2, set it up first with the default version of Boss Arena Progression and verify it works properly. Skip this step if you're using ME3.
+
+2. Open the folder for the modifier you want to use, select the regulation.bin file or event folder inside, and copy it.
+
+3a. If using Mod Engine 2: Paste it inside ME2's "mod" folder, overwriting the existing elements when prompted.
+3b. If using ME3: Paste it inside Boss Arena's "mod" folder, overwriting the existing elements when prompted.
+
+## How to disable:
+
+To go back to the default behavior for the mod, simply copy the elements which are inside the "Default settings" folder, and paste them into the "mod" folder that you're using (Mod Engine 2's if you're using that, or Boss Arena's own mod folder if you're using ME3), overwriting all files when prompted.

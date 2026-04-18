@@ -1,0 +1,105 @@
+// ==EMEVD==
+// @docs    er-common.emedf.json
+// @compress    DCX_KRAK
+// @game    Sekiro
+// @string    "N:\\GR\\data\\Param\\event\\common_func.emevd\u0000N:\\GR\\data\\Param\\event\\common_macro.emevd\u0000\u0000\u0000\u0000\u0000\u0000"
+// @linked    [0,82]
+// @version    3.5
+// ==/EMEVD==
+
+$Event(0, Default, function() {
+    $InitializeCommonEvent(0, 9005810, 2049480800, 2049480000, 2049480950, 2049481950, 0);
+    RegisterBonfire(2049480001, 2049481951, 0, 0, 0, 0);
+    $InitializeEvent(0, 2049482800);
+    $InitializeEvent(0, 2049482810);
+    $InitializeEvent(0, 2049482811);
+    $InitializeEvent(0, 2049482849);
+    $InitializeCommonEvent(0, 900005610, 2049481590, 100, 800, 0);
+    $InitializeCommonEvent(0, 900005610, 2049481591, 100, 800, 0);
+});
+
+//gaius
+$Event(2049482800, Restart, function() {
+    EndIf(!EventFlag(1049308172) && !EventFlag(1049309704) && !EventFlag(1049309705)); //end if boss not selected
+    EndIf(EventFlag(2049480800));
+    WaitFor(CharacterHPValue(2049480800) <= 0);
+    WaitFixedTimeSeconds(4);
+    PlaySE(2049480800, SoundType.SFX, 888880000);
+    WaitFor(CharacterDead(2049480800));
+    HandleBossDefeatAndDisplayBanner(2049480800, TextBannerType.LegendFelled);
+    //boss rewards (6 bonus items, DLC version)
+    InitializeCommonEvent(0, 90001046, 1049304294, 1049304154, 1049304158, 1049307264, 1049307265, 1049307266, 1049307267, 1049307268, 1049307269, 1049307270, 1049306489, 1049306492, 1049306494, 1049306496, 1049306501, 1049306503, 1049306505, 1049300294);
+    //boss defeat and warp
+    if (EventFlag(1049308172)) //full fight
+        $InitializeCommonEvent(0, 90009810, 1049307572);
+    else if (EventFlag(1049309704)) //phase 2 restore hp
+        $InitializeCommonEvent(0, 90009810, 1049307704);
+    else if (EventFlag(1049309705)) //phase 2 normal hp
+        $InitializeCommonEvent(0, 90009810, 1049307705);
+});
+
+$Event(2049482810, Restart, function() {
+    if (EventFlag(2049480800)) {
+        DisableCharacter(2049485800);
+        DisableCharacterCollision(2049485800);
+        ForceCharacterDeath(2049485800, false);
+        EndEvent();
+    }
+L0:
+    DisableCharacterAI(2049485800);
+    SetSpEffect(2049480100, 9531);
+    DisableCharacterCollision(2049485800);
+    if (!EventFlag(2049480801)) {
+        SetSpEffect(2049480100, 9531);
+        IssueShortWarpRequest(2049480800, TargetEntityType.Area, 2049482810, -1);
+        WaitFor(
+            (PlayerIsInOwnWorld() && InArea(10000, 2049482801))
+                || HasDamageType(2049480800, 10000, DamageType.Unspecified));
+        if (PlayerIsInOwnWorld()) {
+            SendInvadingPhantomsHome(0);
+        }
+        SetNetworkconnectedEventFlagID(2049480801, ON);
+        EnableCharacterCollision(2049485800);
+        SetSpEffect(2049480800, 5000);
+        ChangeCharacterPatrolBehavior(2049480800, 2049483810);
+        WaitFixedTimeRealFrames(1);
+        EnableCharacterAI(2049485800);
+        SetNetworkUpdateRate(2049485800, true, CharacterUpdateFrequency.AlwaysUpdate);
+        SetSpEffect(2049480100, 9532);
+        WaitFixedTimeSeconds(5);
+    } else {
+L1:
+        IssueShortWarpRequest(2049480800, TargetEntityType.Area, 2049482810, -1);
+        WaitFor(EventFlag(2049482805) && InArea(10000, 2049482800));
+        EnableCharacterCollision(2049485800);
+        SetSpEffect(2049480800, 5000);
+        ChangeCharacterPatrolBehavior(2049480800, 2049483810);
+        WaitFixedTimeRealFrames(1);
+        EnableCharacterAI(2049485800);
+        SetNetworkUpdateRate(2049485800, true, CharacterUpdateFrequency.AlwaysUpdate);
+        SetSpEffect(2049480100, 9532);
+    }
+L2:
+    WaitFixedTimeSeconds(0.5);
+    DisplayBossHealthBar(Enabled, 2049480800, 0, 905000000);
+});
+
+//gaius p2
+$Event(2049482811, Restart, function() {
+    EndIf(EventFlag(2049480800));
+    if (EventFlag(1049309704) || EventFlag(1049309705)) { //if phase 2 selected
+        SetSpEffect(2049480800, 10493044);
+    }
+    WaitFor(CharacterHasSpEffect(2049480800, 10010048));
+    SetNetworkconnectedEventFlagID(2049482802, ON);
+    if (EventFlag(1049309704)) //if phase 2 & restore hp
+        SetSpEffect(2049480800, 10493050);
+});
+
+$Event(2049482849, Restart, function() {
+    $InitializeCommonEvent(0, 9005800, 2049480800, 2049481800, 2049482800, 2049482805, 2049485800, 10000, 2049480801, 2049482801);
+    $InitializeCommonEvent(0, 9005801, 2049480800, 2049481800, 2049482800, 2049482805, 2049482806, 10000);
+    $InitializeCommonEvent(0, 9005811, 2049480800, 2049481800, 4, 2049480801);
+    $InitializeCommonEvent(0, 9005811, 2049480800, 2049481801, 4, 0);
+    $InitializeCommonEvent(0, 9005822, 2049480800, 950000, 2049482805, 2049482806, 0, 2049482802, 0, 0);
+});

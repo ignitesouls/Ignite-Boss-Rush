@@ -1,0 +1,14 @@
+# Repo-wide ignores (the csharp/ subproject has its own nested .gitignore)
+
+# Visual Studio / IDE state (user-private, includes Copilot indices, .suo,
+# solution user options, file content caches). Never commit these.
+.vs/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch
+.../

@@ -1,0 +1,1629 @@
+
+
+
+
+
+[Alteration] Drake Knight Helm (Altered)
+[Alteration] Drake Knight Armor (Altered)
+[Alteration] Scaled Armor (Altered)
+[Alteration] Perfumer Robe (Altered)
+[Alteration] Perfumer's Traveling Garb (Altered)
+[Alteration] Spellblade's Traveling Attire (Altered)
+[Alteration] Ronin's Armor (Altered)
+[Alteration] Blaidd's Armor (Altered)
+[Alteration] Black Knife Armor (Altered)
+[Alteration] Briar Armor (Altered)
+[Alteration] Page Garb (Altered)
+[Alteration] Night's Cavalry Helm (Altered)
+[Alteration] Night's Cavalry Armor (Altered)
+[Alteration] Blue Silver Mail Armor (Altered)
+[Alteration] Nomadic Merchant's Finery (Altered)
+[Alteration] Tree Sentinel Armor (Altered)
+[Alteration] Royal Knight Armor (Altered)
+[Alteration] Nox Monk Hood (Altered)
+[Alteration] Nox Monk Armor (Altered)
+[Alteration] Nox Swordstress Crown (Altered)
+[Alteration] Nox Swordstress Armor (Altered)
+[Alteration] Gravekeeper Cloak (Altered)
+[Alteration] Cleanrot Helm (Altered)
+[Alteration] Cleanrot Armor (Altered)
+[Alteration] Depraved Perfumer Robe (Altered)
+[Alteration] All-Knowing Armor (Altered)
+[Alteration] Twinned Armor (Altered)
+[Alteration] Prophet Robe (Altered)
+[Alteration] Astrologer Robe (Altered)
+[Alteration] Lionel's Armor (Altered)
+[Alteration] Hoslow's Armor (Altered)
+[Alteration] Vagabond Knight Armor (Altered)
+[Alteration] War Surgeon Gown (Altered)
+[Alteration] Veteran's Armor (Altered)
+[Alteration] Bloodhound Knight Armor (Altered)
+[Alteration] Festive Hood (Altered)
+[Alteration] Commoner's Garb (Altered)
+[Alteration] Commoner's Simple Garb (Altered)
+[Alteration] Raging Wolf Armor (Altered)
+[Alteration] Land of Reeds Armor (Altered)
+[Alteration] Confessor Hood (Altered)
+[Alteration] Confessor Armor (Altered)
+[Alteration] Finger Maiden Robe (Altered)
+[Alteration] Preceptor's Long Gown (Altered)
+[Alteration] Eccentric's Hood (Altered)
+[Alteration] Fingerprint Armor (Altered)
+[Alteration] Carian Knight Armor (Altered)
+[Alteration] Errant Sorcerer Robe (Altered)
+[Alteration] Gelmir Knight Armor (Altered)
+[Alteration] Godrick Knight Armor (Altered)
+[Alteration] Cuckoo Knight Armor (Altered)
+[Alteration] Leyndell Knight Armor (Altered)
+[Alteration] Redmane Knight Armor (Altered)
+[Alteration] Mausoleum Knight Armor (Altered)
+[Alteration] Haligtree Knight Armor (Altered)
+[Alteration] High Page Clothes (Altered)
+[Alteration] Rotten Gravekeeper Cloak (Altered)
+[Alteration] Beast Champion Armor (Altered)
+[Alteration] Snow Witch Robe (Altered)
+[Alteration] Crucible Axe Armor (Altered)
+[Alteration] Crucible Tree Armor (Altered)
+[Alteration] Fia's Robe (Altered)
+[Alteration] Alberich's Pointed Hat (Altered)
+[Alteration] Alberich's Robe (Altered)
+[Alteration] Traveling Maiden Robe (Altered)
+[Alteration] Dryleaf Robe (Altered)
+[Alteration] Thioller's Garb (Altered)
+[Alteration] High Priest Robe
+[Alteration] Dancer's Dress (Altered)
+[Alteration] Igon's Helm (Altered)
+[Alteration] Igon's Armor (Altered)
+[Alteration] Ansbach's Attire (Altered)
+[Alteration] Freyja's Armor (Altered)
+[Alteration] Armor of Solitude (Altered)
+[Alteration] Messmer Soldier Armor (Altered)
+[Alteration] Fire Knight Armor (Altered)
+[Alteration] Elden Lord Armor (Altered)
+[Alteration] Radahn's Lion Armor (Altered)
+[Alteration] Lord of Blood's Robe (Altered)
+[Alteration] Maliketh's Armor (Altered)
+[Alteration] Malenia's Armor (Altered)
+[Alteration] Messmer's Helm (Altered)
+[Alteration] Young Lion's Armor (Altered)
+[Reversion] Drake Knight Helm
+[Reversion] Drake Knight Armor
+[Reversion] Scaled Armor
+[Reversion] Perfumer Robe
+[Reversion] Perfumer's Traveling Garb
+[Reversion] Spellblade's Traveling Attire
+[Reversion] Ronin's Armor
+[Reversion] Blaidd's Armor
+[Reversion] Black Knife Armor
+[Reversion] Briar Armor
+[Reversion] Page Garb
+[Reversion] Night's Cavalry Helm
+[Reversion] Night's Cavalry Armor
+[Reversion] Blue Silver Mail Armor
+[Reversion] Nomadic Merchant's Finery
+[Reversion] Tree Sentinel Armor
+[Reversion] Royal Knight Armor
+[Reversion] Nox Monk Hood
+[Reversion] Nox Monk Armor
+[Reversion] Nox Swordstress Crown
+[Reversion] Nox Swordstress Armor
+[Reversion] Gravekeeper Cloak
+[Reversion] Cleanrot Helm
+[Reversion] Cleanrot Armor
+[Reversion] Depraved Perfumer Robe
+[Reversion] All-Knowing Armor
+[Reversion] Twinned Armor
+[Reversion] Prophet Robe
+[Reversion] Astrologer Robe
+[Reversion] Lionel's Armor
+[Reversion] Hoslow's Armor
+[Reversion] Vagabond Knight Armor
+[Reversion] War Surgeon Gown
+[Reversion] Veteran's Armor
+[Reversion] Bloodhound Knight Armor
+[Reversion] Festive Hood
+[Reversion] Commoner's Garb
+[Reversion] Commoner's Simple Garb
+[Reversion] Raging Wolf Armor
+[Reversion] Land of Reeds Armor
+[Reversion] Confessor Hood
+[Reversion] Confessor Armor
+[Reversion] Finger Maiden Robe
+[Reversion] Preceptor's Long Gown
+[Reversion] Eccentric's Hood
+[Reversion] Fingerprint Armor
+[Reversion] Carian Knight Armor
+[Reversion] Errant Sorcerer Robe
+[Reversion] Gelmir Knight Armor
+[Reversion] Godrick Knight Armor
+[Reversion] Cuckoo Knight Armor
+[Reversion] Leyndell Knight Armor
+[Reversion] Redmane Knight Armor
+[Reversion] Mausoleum Knight Armor
+[Reversion] Haligtree Knight Armor
+[Reversion] High Page Clothes
+[Reversion] Rotten Gravekeeper Cloak
+[Reversion] Beast Champion Armor
+[Reversion] Snow Witch Robe
+[Reversion] Crucible Axe Armor
+[Reversion] Crucible Tree Armor
+[Reversion] Fia's Robe
+[Reversion] Alberich's Pointed Hat
+[Reversion] Alberich's Robe
+[Reversion] Traveling Maiden Robe
+[Reversion] Dryleaf Robe
+[Reversion] Thioller's Garb
+[Reversion] High Priest Robe
+[Reversion] Dancer's Dress
+[Reversion] Igon's Helm
+[Reversion] Igon's Armor
+[Reversion] Ansbach's Attire
+[Reversion] Freyja's Armor
+[Reversion] Armor of Solitude
+[Reversion] Messmer Soldier Armor
+[Reversion] Fire Knight Armor
+[Reversion] Elden Lord Armor
+[Reversion] Radahn's Lion Armor
+[Reversion] Lord of Blood's Robe
+[Reversion] Maliketh's Armor
+[Reversion] Malenia's Armor
+[Reversion] Messmer's Helm
+[Reversion] Young Lion's Armor
+[Alteration] Drake Knight Helm (Altered)
+[Alteration] Drake Knight Armor (Altered)
+[Alteration] Scaled Armor (Altered)
+[Alteration] Perfumer Robe (Altered)
+[Alteration] Perfumer's Traveling Garb (Altered)
+[Alteration] Spellblade's Traveling Attire (Altered)
+[Alteration] Ronin's Armor (Altered)
+[Alteration] Blaidd's Armor (Altered)
+[Alteration] Black Knife Armor (Altered)
+[Alteration] Briar Armor (Altered)
+[Alteration] Page Garb (Altered)
+[Alteration] Night's Cavalry Helm (Altered)
+[Alteration] Night's Cavalry Armor (Altered)
+[Alteration] Blue Silver Mail Armor (Altered)
+[Alteration] Nomadic Merchant's Finery (Altered)
+[Alteration] Tree Sentinel Armor (Altered)
+[Alteration] Royal Knight Armor (Altered)
+[Alteration] Nox Monk Hood (Altered)
+[Alteration] Nox Monk Armor (Altered)
+[Alteration] Nox Swordstress Crown (Altered)
+[Alteration] Nox Swordstress Armor (Altered)
+[Alteration] Gravekeeper Cloak (Altered)
+[Alteration] Cleanrot Helm (Altered)
+[Alteration] Cleanrot Armor (Altered)
+[Alteration] Depraved Perfumer Robe (Altered)
+[Alteration] All-Knowing Armor (Altered)
+[Alteration] Twinned Armor (Altered)
+[Alteration] Prophet Robe (Altered)
+[Alteration] Astrologer Robe (Altered)
+[Alteration] Lionel's Armor (Altered)
+[Alteration] Hoslow's Armor (Altered)
+[Alteration] Vagabond Knight Armor (Altered)
+[Alteration] War Surgeon Gown (Altered)
+[Alteration] Veteran's Armor (Altered)
+[Alteration] Bloodhound Knight Armor (Altered)
+[Alteration] Festive Hood (Altered)
+[Alteration] Commoner's Garb (Altered)
+[Alteration] Commoner's Simple Garb (Altered)
+[Alteration] Raging Wolf Armor (Altered)
+[Alteration] Land of Reeds Armor (Altered)
+[Alteration] Confessor Hood (Altered)
+[Alteration] Confessor Armor (Altered)
+[Alteration] Finger Maiden Robe (Altered)
+[Alteration] Preceptor's Long Gown (Altered)
+[Alteration] Eccentric's Hood (Altered)
+[Alteration] Fingerprint Armor (Altered)
+[Alteration] Carian Knight Armor (Altered)
+[Alteration] Errant Sorcerer Robe (Altered)
+[Alteration] Gelmir Knight Armor (Altered)
+[Alteration] Godrick Knight Armor (Altered)
+[Alteration] Cuckoo Knight Armor (Altered)
+[Alteration] Leyndell Knight Armor (Altered)
+[Alteration] Redmane Knight Armor (Altered)
+[Alteration] Mausoleum Knight Armor (Altered)
+[Alteration] Haligtree Knight Armor (Altered)
+[Alteration] High Page Clothes (Altered)
+[Alteration] Rotten Gravekeeper Cloak (Altered)
+[Alteration] Beast Champion Armor (Altered)
+[Alteration] Snow Witch Robe (Altered)
+[Alteration] Crucible Axe Armor (Altered)
+[Alteration] Crucible Tree Armor (Altered)
+[Alteration] Fia's Robe (Altered)
+[Alteration] Alberich's Pointed Hat (Altered)
+[Alteration] Alberich's Robe (Altered)
+[Alteration] Traveling Maiden Robe (Altered)
+[Alteration] Dryleaf Robe (Altered)
+[Alteration] Thioller's Garb (Altered)
+[Alteration] High Priest Robe
+[Alteration] Dancer's Dress (Altered)
+[Alteration] Igon's Helm (Altered)
+[Alteration] Igon's Armor (Altered)
+[Alteration] Ansbach's Attire (Altered)
+[Alteration] Freyja's Armor (Altered)
+[Alteration] Armor of Solitude (Altered)
+[Alteration] Messmer Soldier Armor (Altered)
+[Alteration] Fire Knight Armor (Altered)
+[Alteration] Elden Lord Armor (Altered)
+[Alteration] Radahn's Lion Armor (Altered)
+[Alteration] Lord of Blood's Robe (Altered)
+[Alteration] Maliketh's Armor (Altered)
+[Alteration] Malenia's Armor (Altered)
+[Alteration] Messmer's Helm (Altered)
+[Alteration] Young Lion's Armor (Altered)
+[Reversion] Drake Knight Helm
+[Reversion] Drake Knight Armor
+[Reversion] Scaled Armor
+[Reversion] Perfumer Robe
+[Reversion] Perfumer's Traveling Garb
+[Reversion] Spellblade's Traveling Attire
+[Reversion] Ronin's Armor
+[Reversion] Blaidd's Armor
+[Reversion] Black Knife Armor
+[Reversion] Briar Armor
+[Reversion] Page Garb
+[Reversion] Night's Cavalry Helm
+[Reversion] Night's Cavalry Armor
+[Reversion] Blue Silver Mail Armor
+[Reversion] Nomadic Merchant's Finery
+[Reversion] Tree Sentinel Armor
+[Reversion] Royal Knight Armor
+[Reversion] Nox Monk Hood
+[Reversion] Nox Monk Armor
+[Reversion] Nox Swordstress Crown
+[Reversion] Nox Swordstress Armor
+[Reversion] Gravekeeper Cloak
+[Reversion] Cleanrot Helm
+[Reversion] Cleanrot Armor
+[Reversion] Depraved Perfumer Robe
+[Reversion] All-Knowing Armor
+[Reversion] Twinned Armor
+[Reversion] Prophet Robe
+[Reversion] Astrologer Robe
+[Reversion] Lionel's Armor
+[Reversion] Hoslow's Armor
+[Reversion] Vagabond Knight Armor
+[Reversion] War Surgeon Gown
+[Reversion] Veteran's Armor
+[Reversion] Bloodhound Knight Armor
+[Reversion] Festive Hood
+[Reversion] Commoner's Garb
+[Reversion] Commoner's Simple Garb
+[Reversion] Raging Wolf Armor
+[Reversion] Land of Reeds Armor
+[Reversion] Confessor Hood
+[Reversion] Confessor Armor
+[Reversion] Finger Maiden Robe
+[Reversion] Preceptor's Long Gown
+[Reversion] Eccentric's Hood
+[Reversion] Fingerprint Armor
+[Reversion] Carian Knight Armor
+[Reversion] Errant Sorcerer Robe
+[Reversion] Gelmir Knight Armor
+[Reversion] Godrick Knight Armor
+[Reversion] Cuckoo Knight Armor
+[Reversion] Leyndell Knight Armor
+[Reversion] Redmane Knight Armor
+[Reversion] Mausoleum Knight Armor
+[Reversion] Haligtree Knight Armor
+[Reversion] High Page Clothes
+[Reversion] Rotten Gravekeeper Cloak
+[Reversion] Beast Champion Armor
+[Reversion] Snow Witch Robe
+[Reversion] Crucible Axe Armor
+[Reversion] Crucible Tree Armor
+[Reversion] Fia's Robe
+[Reversion] Alberich's Pointed Hat
+[Reversion] Alberich's Robe
+[Reversion] Traveling Maiden Robe
+[Reversion] Dryleaf Robe
+[Reversion] Thioller's Garb
+[Reversion] High Priest Robe
+[Reversion] Dancer's Dress
+[Reversion] Igon's Helm
+[Reversion] Igon's Armor
+[Reversion] Ansbach's Attire
+[Reversion] Freyja's Armor
+[Reversion] Armor of Solitude
+[Reversion] Messmer Soldier Armor
+[Reversion] Fire Knight Armor
+[Reversion] Elden Lord Armor
+[Reversion] Radahn's Lion Armor
+[Reversion] Lord of Blood's Robe
+[Reversion] Maliketh's Armor
+[Reversion] Malenia's Armor
+[Reversion] Messmer's Helm
+[Reversion] Young Lion's Armor
+Ash of War: Impaling Thrust
+Ash of War: Piercing Fang
+Ash of War: Spinning Slash
+Ash of War: Repeating Thrust
+Ash of War: Double Slash
+Ash of War: Unsheathe
+Ash of War: Sword Dance
+Ash of War: Quickstep
+Ash of War: Bloodhound's Step
+Ash of War: Lion's Claw
+Ash of War: Stamp (Upward Cut)
+Ash of War: Stamp (Sweep)
+Ash of War: Wild Strikes
+Ash of War: Earthshaker
+Ash of War: Kick
+Ash of War: Ground Slam
+Ash of War: Hoarah Loux's Earthshaker
+Ash of War: Barbaric Roar
+Ash of War: War Cry
+Ash of War: Troll's Roar
+Ash of War: Braggart's Roar
+Ash of War: Endure
+Ash of War: Charge Forth
+Ash of War: Square Off
+Ash of War: Giant Hunt
+Ash of War: Spinning Strikes
+Ash of War: Storm Assault
+Ash of War: Stormcaller
+Ash of War: Storm Blade
+Ash of War: Vacuum Slice
+Ash of War: Storm Stomp
+Ash of War: Determination
+Ash of War: Royal Knight's Resolve
+Ash of War: Prelate's Charge
+Ash of War: Eruption
+Ash of War: Flaming Strike
+Ash of War: Black Flame Tornado
+Ash of War: Flame of the Redmanes
+Ash of War: Thunderbolt
+Ash of War: Lightning Slash
+Ash of War: Lightning Ram
+Ash of War: Loretta's Slash
+Ash of War: Spinning Weapon
+Ash of War: Glintblade Phalanx
+Ash of War: Glintstone Pebble
+Ash of War: Gravitas
+Ash of War: Carian Grandeur
+Ash of War: Carian Greatsword
+Ash of War: Waves of Darkness
+Ash of War: Cragblade
+Ash of War: Sacred Blade
+Ash of War: Prayerful Strike
+Ash of War: Golden Land
+Ash of War: Sacred Ring of Light
+Ash of War: Golden Slam
+Ash of War: Golden Vow
+Ash of War: Sacred Order
+Ash of War: Shared Order
+Ash of War: Beast's Roar
+Ash of War: Phantom Slash
+Ash of War: Spectral Lance
+Ash of War: Raptor of the Mists
+Ash of War: White Shadow's Lure
+Ash of War: Poison Moth Flight
+Ash of War: Poisonous Mist
+Ash of War: Blood Tax
+Ash of War: Bloody Slash
+Ash of War: Lifesteal Fist
+Ash of War: Blood Blade
+Ash of War: Assassin's Gambit
+Ash of War: Seppuku
+Ash of War: Ice Spear
+Ash of War: Chilling Mist
+Ash of War: Hoarfrost Stomp
+Ash of War: No Skill
+Ash of War: Shield Bash
+Ash of War: Shield Crash
+Ash of War: Barricade Shield
+Ash of War: Parry
+Ash of War: Carian Retaliation
+Ash of War: Storm Wall
+Ash of War: Golden Parry
+Ash of War: Thops's Barrier
+Ash of War: Holy Ground
+Ash of War: Vow of the Indomitable
+Ash of War: Barrage
+Ash of War: Mighty Shot
+Ash of War: Sky Shot
+Ash of War: Through and Through
+Ash of War: Enchanted Shot
+Ash of War: Rain of Arrows
+Ash of War: Dryleaf Whirlwind
+Ash of War: Aspects of the Crucible: Wings
+Ash of War: Spinning Gravity Thrust
+Ash of War: Palm Blast
+Ash of War: Piercing Throw
+Ash of War: Scattershot Throw
+Ash of War: Wall of Sparks
+Ash of War: Rolling Sparks
+Ash of War: Raging Beast
+Ash of War: Savage Claws
+Ash of War: Blind Spot
+Ash of War: Swift Slash
+Ash of War: Overhead Stance
+Ash of War: Wing Stance
+Ash of War: Blinkbolt
+Ash of War: Flame Skewer
+Ash of War: Savage Lion's Claw
+Ash of War: Divine Beast Frost Stomp
+Ash of War: Flame Spear
+Ash of War: Carian Sovereignty
+Ash of War: Shriek of Sorrow
+Ash of War: Ghostflame Call
+Ash of War: The Poison Flower Blooms Twice
+Ash of War: Igon's Drake Hunt
+Ash of War: Shield Strike
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

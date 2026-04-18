@@ -1,0 +1,457 @@
+## 3.6.4
+
+- When launched via ME3, the mod now forces the use of a separate savefile, with Sandbox and Progression having their own savefile. The first time it's launched, it will create a copy of the default savefile and use the copy from that point on. Seamless Co-op still uses its own savefile and should not be affected.
+
+- ME2 support has been deprecated. You can still use it if you wish, but the install instructions will not mention it and no support will be provided for its usage.
+
+## 3.6.3
+
+- ME3 profile now loads Seamless Co-op automatically if present.
+
+## 3.6.2
+
+- Updated for ER 1.16.1 compatibility.
+
+- Normalized status effect resistances for the target dummy at the Roundtable Hold.
+
+## 3.6.1
+
+- Fixed bug with "phase 2 start" bosses not working when used in custom Boss Rush.
+
+- Fixed incorrect description for Mohg's Great Rune.
+
+## 3.6
+
+- Added difficulty settings: Hard and Very Hard. These reduce the player's HP to 0.7x and 0.5x respectively, and attack power/stance damage to 0.8x and 0.65x respectively. These can be found in the new Options submenu at Gideon. Note that there are no special rewards for playing on higher difficulties - it's only for extra challenge.
+
+- Moved most existing options to the new Options submenu to reduce clutter.
+
+- Reduced the attack power increase from Mohg's Great Rune from 10% to 7%.
+
+- Increased the base drop rate of Rune Arcs from 10% to 20%.
+
+## 3.5.2
+
+- Added toggle to enable/disable rune loss on death to Gideon's menu.
+
+- Fixed incorrect initial weather for Placidusax fight.
+
+## 3.5.1
+
+- Fixed defeat events for some overworld bosses.
+
+## 3.5
+
+- Added ME3 support. If ME3 is installed (version 0.6.0 or newer required), opening the included .me3 file will automatically launch the game with the mod. Using the mod via ME2 is still supported as always.
+
+- Added a new item drop randomization mode: "Full randomization (per item type)". Like with the existing full randomization mode, any boss can drop any item, but in this case the items are split into separate pools for each item type (weapons, armor, spells, etc) and each pool is rolled separately, similar to how drops work in DS3/DSR Boss Arena. Like the other modes with randomization, higher NG+ cycles increase the amount of RNG rolls and potential drops of each type.
+
+- The existing full randomization mode has been renamed to "Full randomization (single item pool)" to differentiate it from the new mode.
+
+- Increased the amount of RNG rolls under partial randomization and full randomization (single item pool) by 1 across every game cycle.
+
+- Added the ability to level up at Rennala (since a strangely large amount of people were confused about not being able to level up there, for some reason).
+
+- Modified the Memory of Grace item to warp you to the Roundtable Hold instead, and without losing any runes. This can be useful to warp in situations where you can't use the map (such as during boss fights).
+
+- When full item drop randomization (of either type) is selected, the random boss selection option for "All bosses with unobtained items" is now hidden, as it's not relevant since any boss can drop any item.
+
+- The "all items obtained" check for each boss now runs on every visit to the Roundtable, instead of only when that boss is defeated. This makes it update properly when full randomization is used. This is only relevant if you switch back to the default randomization mode later.
+
+- Modified the Stone Platform event script to prevent unwanted flag changes if an existing non-Boss Arena character is accidentally loaded.
+
+- Fixed error when trying to use the Enemy Onslaught mode in Enemy Randomizer.
+
+- Fixed issue where the defeat condition was incorrect for overworld single bosses being replaced by duo/trio bosses with Enemy Randomizer (including Enemy Onslaught). For most bosses, the game should now correctly require defeating all bosses in the group and not just one.
+
+- Added an optional modifier to improve compatibility with Enemy Randomizer for Gideon and Rykard's fights. It disables Gideon's moveset randomization and the ability to skip to phase 2 for Rykard, which is why it's not integrated into the main mod by default (note that the phase skip feature is generally not compatible with Enemy Randomizer anyway).
+
+## 3.4.1
+
+- Fixed warp prompt after boss defeat.
+
+## 3.4
+
+- When using full item randomization, talismans with tiered versions (+1, +2, etc) will now drop in order of strength.
+
+- DLC item drops (both unique items and crafting materials) are now disabled by default if the DLC is not owned. An option has been added to the item drop randomization menu to enable these drops again, but be aware that having certain DLC items in your inventory without owning the DLC could result in a multiplayer ban if you load the character while online, so enable this at your own risk.
+
+- Crafting materials are now awarded in sets of 4 instead of 3.
+
+- Rennala's and Rykard's HP is now buffed when selecting the option to skip phase 1.
+
+- Added the option to initialize Boss Arena to all Roundtable NPCs.
+
+- Added a failsafe to force a warp back to the Roundtable if the player dies after defeating a boss, preventing some bugs and exploits that would happen otherwise.
+
+- Improved logic of the "loaded an existing character" checks.
+
+- Prevented certain changes from being applied to characters before the mod is initialized.
+
+## 3.3.2
+
+- Fixed the check for switching between modes as it was causing false positives on a new character.
+
+## 3.3.1
+
+- Fixed initial warp to the Roundtable Hold.
+
+## 3.3
+
+- Modified the "Random endless" mode to "Random sequential", which keeps track of bosses defeated during the sequence and avoids selecting them again. Like Boss Rush, this sequence can be resumed (although you'll probably get a different boss than the one you paused at), but selecting any other mode will erase progress. If you have added custom exclusions to a random mode, this will still work, but since the end condition will never be fulfilled, it will instead rely on a 30 second timeout until it gives up trying to find another undefeated random boss.
+
+- Boss Arena now needs to be initialized manually (by talking to Gideon) on each character the first time they're loaded with the mod installed. This will prevent issues where accidentally loading an existing character would apply various permanent changes to it.
+
+- Improved performance of the filtering in the "Random: All undefeated bosses" and "Random: All bosses with unobtained items" options.
+
+- Added a warning when a character previously used in Progression mode is loaded in Sandbox mode and viceversa.
+
+- Added a warning when a character that has not been initialized in Boss Arena is loaded, if the location is not the Roundtable.
+
+- Improved logic when reaching the end of boss sequences.
+
+- Modified text to make it clearer whether certain toggles are on or off.
+
+- Music now correctly stops after a boss is defeated.
+
+## 3.2
+
+- Added the ability to start fights in phase 2 for select bosses. To keep with the spirit of the mode, in Progression mode this option is only unlocked after defeating a boss for the first time (and unlocking boss replay), and it restores the boss's HP to full in most cases. These are all treated as separate boss selections internally, so they can also be used in customized Boss Rush (but they are not included in the random pools). Note that some phase 2 triggers are a bit random and may not happen immediately.
+
+- Added a toggle to Gideon's menu that lets you choose whether to allow warps to skip boss death dialogue, or always play it in full before the defeat banner appears.
+
+- Bosses will now only trigger their defeat logic if they have been selected in the first place. This should prevent some reported issues with certain bosses in nearby maps being auto-killed by scripts and triggering warps when fighting a completely different boss.
+
+- Fixed bug with Gideon fight not working if the "Reset first encounter cutscenes" option was used.
+
+- Increased number of custom Boss Rush slots to 5.
+
+- Moved the spawn point for the Placidusax fight inside the arena.
+
+- Added an optional modifier regulation.bin to restore the vanilla NG+ stats (removing the buffs to earlier enemies).
+
+- The title screen now indicates if you're playing on Sandbox or Progression mode.
+
+- Updated French translation (credit to KaruMiraii).
+
+## 3.1.2
+
+- Modified the logic for setting the player respawn point, to try and prevent cases of bricked save slots when the game crashes after defeating a boss.
+
+- Moved multiple Stake of Marika respawn points closer to the boss fog gates.
+
+- Dying to Dragonlord Placidusax will now respawn you inside the arena, instead of having to lie down at the grave and trigger the cutscene.
+
+## 3.1.1
+
+- The "Reset first encounter cutscenes" option now also removes the fog gate for Fire Giant and Commander Gaius.
+
+## 3.1
+
+- Added compatibility with thefifthmatt's Enemy Randomizer (https://www.nexusmods.com/eldenring/mods/428).
+
+- IMPORTANT: Item Randomizer is NOT compatible and will result in errors. Therefore, make sure to uncheck the Item Randomizer tab in the randomizer mod. Boss Arena Progression Mode includes its own item randomizer options you should use instead.
+
+- Adjusted the timing of warps after defeating Evergaol bosses to prevent not obtaining the rune rewards
+
+- Made the "Resume Boss Rush" / "Re-select last boss" options a different color to stand out.
+
+- Changed the rune rewards for Dryleaf Dane back to 0 as the value is not scaled by Enemy Randomizer.
+
+## 3.0.6
+
+- Reverted changes that may be causing freezes and bricked save slots when dying to a boss at the same time as the boss is defeated.
+
+## 3.0.5
+
+- Added boss HP bar and music to Crucible Knight Devonia, and increased their HP by 25%.
+
+- Added a mitigation for a rare issue that can result in a bricked save slot when defeating a boss and dying at the same time.
+
+## 3.0.4
+
+- Fixed behavior of warp prompt toggle when using Tier Boss Rush.
+
+## 3.0.3
+
+- Added missing Messmer Soldier Shield to the boss drops.
+
+## 3.0.2
+
+- Fixed Igon's Furled Finger and Purifying Crystal Tear not being awarded from the intended bosses.
+
+- The Lantern now stays enabled through loading screens and after quitting the game and reloading.
+
+- Removed a few more walls blocking the way back from the boss fog.
+
+## 3.0.1
+
+- Fixed the Random selection submenu display conditions when the DLC is not installed. It will now correctly appear when tier 11 is unlocked and there are undefeated bosses, or when NG+ is triggered.
+
+## 3.0
+
+- Added Boss Rush options to each tier, to fight all bosses in that tier in sequence. These behave like the options in the Boss Rush submenu, and are also resumable.
+
+- Added new options to the Random menu to randomly select bosses which haven't been defeated yet or which still have items left to obtain.
+
+- When playing Boss Rush and Random Endless modes, a prompt will now appear after defeating a boss that lets you choose whether to continue to the next boss or go to the Roundtable. The appearance of these prompts can be toggled individually for each mode. When disabled, you will automatically be warped to the next boss as usual.
+
+- Small known issue: when you choose the Roundtable option after defeating the last boss in a Boss Rush sequence, the "Resume Boss Rush" option will still appear at Gideon's menu, even though it does nothing. This will probably not get fixed as it doesn't really affect anything and it would be quite complex to fix.
+
+- Added a dummy target enemy to the Roundtable Hold for damage testing. The combat restrictions at the Roundtable are now removed and all other NPCs are invincible.
+
+- Added a new option to Kale's shop with fully upgraded versions of all basic and unlocked weapons. This unlocks as soon as all upgrade materials are unlocked (beating tier 11). This avoids having to upgrade new weapons to max manually.
+
+- Fixed Cerulean-Sapping Cracked Tear not being obtainable when using partial or no randomization. It's now obtainable from Metyr as intended.
+
+- The Random menu will now appear as soon as all base game tiers are unlocked (if the DLC is not installed) or all base game + DLC tiers are unlocked (if the DLC is installed), while previously it also required NG+. Most options in it still require NG+ however, as they require the ability to re-fight bosses.
+
+- The "Random: All bosses" option now correctly excludes DLC bosses if the DLC is not installed, preventing potential bricked saves.
+
+- The option to re-fight the last boss selected is now also available in NG, as long as that boss has not been defeated yet. It will also be hidden if a Boss Rush is currently resumable, to avoid confusion. Previously it required NG+.
+
+- Added an "Advanced options/Cheats" submenu to Gideon. This includes an option to immediately force-unlock all tiers and NG+ access at any point, and an option to enable replaying bosses in NG.
+
+- Fixed Tailoring Tools and Golden Tailoring Tools not dropping as guaranteed items from Demi-Human Chief x2 and Bell Bearing Hunter (Liurnia) respectively. You will get the items automatically if you have already defeated these bosses.
+
+- The "DLC completion" scaling multiplier now applies only after defeating the DLC final boss and going into NG+, the same as in the vanilla game. Previously, the multiplier would apply as soon as you triggered NG+, whether you had played the DLC or not. This made it extremely hard to start the DLC tiers in NG+, as this multiplier is designed to compensate for having max Scadutree level during your second DLC playthrough.
+
+- Fixed time of day switching abruptly around the Limgrave Tree Sentinel area.
+
+- Time of day is now set to late night for the Radahn fight, as in the normal game.
+
+- Removed confirmation prompts for using Golden Seeds, Sacred Tears, Scadutree Fragments and Revered Spirit Ash.
+
+- Added Rune Arcs to Kale's shop.
+
+- The Scadutree Fragments awarded when unlocking DLC tier 1 will now only trigger if the DLC is installed.
+
+- Swapped upgrade material rewards of Runebear and Scaly Misbegotten to better reflect their difficulty.
+
+- Dying during Boss Rush will now always respawn you before the boss as intended, even if you have selected "Respawn at Roundtable Hold" in the options. The only exception is if there's a Stake of Marika in range and you choose to respawn at the last Grace visited.
+
+- Added a confirmation prompt to Morgott's NG+ trigger.
+
+- Defeating a boss now sets the player's respawn point to the Roundtable as soon as possible, to reduce instances of dying at the same time as the boss, getting the rewards but still being able to fight the boss again in NG.
+
+- Reduced prices for various shop items.
+
+- Adjusted some spawn points.
+
+- Dryleaf Dane now drops 50,000 runes instead of 0.
+
+- The "May the Best Win" gesture is now only awarded once.
+
+- Various menu improvements.
+
+## 2.2.2
+
+- Slightly rebalanced Scadutree Fragment rewards to make DLC Tier 1 a bit easier. You will now start the tier with 2 fragments, and to compensate, 1 fragment has been removed from 2 bosses later on. This change applies retroactively if you have not defeated these bosses yet.
+
+- Added missing Vagabond Knight Gauntlets to the armor shop.
+
+## 2.2.1
+
+- Fixed Dragonkin Soldier of Nokstella (again).
+
+## 2.2
+
+- All NPC co-op summon signs (that I know of) should now be available to use.
+
+- Adjusted warp spawn points to make NPC summon signs more visible.
+
+- Fixed Leda returning home immediately after being summoned for Rellana.
+
+- Finger Severer is now awarded automatically to new characters and existing characters who don't have it, so you can dismiss NPC summons.
+
+- Prevented cutscene from playing on the first visit to the Stranded Graveyard.
+
+- Reverted Edgar to his normal appearance and equipment.
+
+- Fixed text bug in boss selection menu with Tree Sentinel x2 if all items had been obtained.
+
+- Reduced cost of Cracked Pot items at Kale's shop.
+
+## 2.1.4
+
+- Fixed item rewards for Dragonkin Soldier of Nokstella when item drop randomization is disabled. If the boss was already defeated and randomization is currently disabled, the items should be given automatically on the first Roundtable Hold visit.
+
+## 2.1.3
+
+- Fixed Tailoring Tools and Golden Tailoring Tools not being awarded when defeating the respective bosses. The items should be given automatically on the first Roundtable Hold visit if applicable.
+
+## 2.1.2
+
+- Fixed bug where some guaranteed items were not being awarded if using the option to disable item drop randomization. You should receive all the items you missed the next time you visit the Roundtable Hold.
+
+Note that if you used the option for full item drop randomization at any point and defeated bosses with it enabled, you will get the guaranteed drops for those bosses as well. This is not intended behavior, but there is no other way to retroactively fix the bug, and I think it's better to give unearned items than to force players to defeat bosses again.
+
+## 2.1.1
+
+- Fixed bugged spawn points for some DLC minor bosses.
+
+- Selecting Radagon/Elden Beast will now spawn you before the wall of light, instead of directly in the boss arena. This allows the intro cutscene to play.
+
+- Tweaked Rennala's event script to try and prevent issues with the fight not ending (probably caused by using existing characters from vanilla).
+
+## 2.1
+
+- Added an option to disable item drops randomization entirely. With this enabled, bosses will drop all their items the first time you defeat them.
+
+- Fixed Crucible Knight Devonia not triggering the defeat event and dropping items under certain circumstances.
+
+- Added a new "Shops" entry to the Site of Grace menu, which is a copy of the Twin Maiden Husks menu, except it doesn't require any Bell Bearings. While the shops inside are all empty, their purpose is to make it easier to merge mods such as Clever's Moveset Modpack, which add weapons to merchant shops around the game. This way, those shops can be accessed directly.
+
+- Made boss selection menus fancier with colors.
+
+- Fixed potential "void spawn" bugs under specific conditions.
+
+- Reordered Site of Grace options to make more sense.
+
+- Enabled DLC map toggle in the map screen.
+
+## 2.0.2
+
+- Fixed flags for Misbegotten Warrior + Crucible Knight spawn.
+
+- Fixed a potential bug with the NG+ trigger.
+
+- Fixed a minor menu bug in the DLC boss tiers.
+
+- Added custom "save corrupted" warnings to the French version (still in English).
+
+## 2.0.1
+
+- Fixed Spirit Calling Bell not being awarded to the player automatically.
+
+## 2.0
+
+- Added Boss Rush options, on par with Sandbox Mode. Note that Boss Rush is only unlocked in NG+, and you need to first unlock all the DLC bosses in order to access DLC Boss Rush options. As with Sandbox, you can create your own Boss Rush sequences by following this guide: https://docs.google.com/document/d/1uOUF6rMRcfPdUAOSptxZWAWZFznEp3rSVxgKxCUOAM8
+
+- The mod now recognizes whether you have the DLC installed or not, and will not show or trigger DLC bosses if the DLC is not detected. Thanks to LordExelot for his help with implementing this.
+
+- Added an in-game toggle to Gideon's menu to enable/disable fully randomized drops. This was previously an optional modifier that involved replacing some files in the mod, which is not needed anymore.
+
+- Also due to this integration of the two modes, the "all items obtained from this boss" flag will now be set when applicable even when using fully randomized drops. However, this is only evaluated when you defeat that specific boss, so even if you already have all the regular drops from a boss, the menu won't show this until you defeat that boss again. Of course, this is only a factor if you switch between fully randomized and regular drops.
+
+- Note that with fully randomized drops enabled, you will obtain DLC items even without the DLC installed. As I have no way of testing this behavior, beware of possible bugs.
+
+- Added the ability to add exclusions to the randomized boss pools. This is also explained in the link above.
+
+- The option to immediately re-fight the last boss fought has been removed before NG+, due to the complexity in integrating this option with other additions (because of Progression Mode's NG restriction on re-fighting bosses).
+
+- Changed Hewg's animation so that he stops hammering.
+
+- Modified the "save is corrupted" text to add some indications on what the user should do (shamelessly copied from thefifthmatt's randomizer).
+
+- Added info messages after boss defeat.
+
+- Various menu improvements.
+
+## 1.1.5
+
+- Fortissax fight will not trigger until you move forward from spawn, just like with Fia's Champions, rather than being on a timer. Due to this change, dying to Fortissax will now respawn you there, rather than back at the Roundtable, if the option is selected.
+
+- Modified the Radagon and Elden Beast event scripts to reduce the chances of the boss fights breaking under certain circumstances.
+
+- Bosses will not need to finish their death dialogue before the warp back to the Roundtable or the next boss happens. This may help prevent some reported instances of getting stuck in the boss arena after the fight.
+
+- Fixed some incorrect miniboss defeat flags (won't matter on a new character, but just in case).
+
+## 1.1.4
+
+- Fixed rune loss prevention on death.
+
+## 1.1.3
+
+- Mod updated for game version 1.15.
+
+- Removed Jar-Bairn from Roundtable Hold, as he was included by mistake in the last update.
+
+## 1.1.2
+
+- Moved the Stake of Marika for Nox Duo next to the fog gate.
+
+- Added a note to the loading screen hints about rune loss prevention not working if you die to deathblight (this is already the case in vanilla and too complex for me to change).
+
+- Restored a missing wall near Malenia's fog gate.
+
+- Manual warping from Sealed Tunnel (Onyx Lord - Capital Outskirts location) is now possible.
+
+## 1.1.1
+
+- Fixed HP values for Tree Sentinel x2 (Hinterland)
+
+## 1.1
+
+- Almost every boss now allows respawning near them after dying. Huge thanks to Gabe12345 on the ?ServerName? Discord for helping me figure out what I was doing wrong before that didn't work for many locations. The only exception is Fortissax, to avoid getting stuck in the area as you're instantly warped into the fight.
+
+- Added an option to the boss selection menu where you can choose the behavior of respawns after death, for bosses without Stakes of Marika. By default, you will respawn before the boss when possible, but you can set it to always respawn you at the Roundtable Hold instead. This essentially acts like the Stake of Marika respawn options, except you choose in advance instead of after you die.
+
+- The Stake of Marika option to go back to the last Site of Grace should now correctly take you back to the Roundtable Hold in all cases, if no other Grace has been used in between. Previously in some cases, both options would spawn you near the boss - one at the regular Stake spawn point, and the other at the custom Boss Arena spawn point.
+
+- Moved the Stake of Marika respawn location for multiple bosses next to their fog gates.
+
+- Removed the Stake of Marika effect for Demi-Human Queen Maggie since the respawn point is significantly further away than the custom spawn point. Moving it was not practical as it's in a different map segment.
+
+- Removed the Stake of Marika effect for Metyr as it's useless without having done Ymir's quest.
+
+- Bosses will now have "first encounter" behavior the first time you fight them, including playing their cutscene. Radagon is the only exception, due to how the fight is set up.
+
+- This also fixes a funny bug where Miquella's arm in the cocoon would appear both in the raised and lowered position at the same time, due to Mohg's intro cutscene never playing. Same for the doors to Rennala's boss room staying closed with the fog gate overlaid on top.
+
+- Added an option to the boss selection menu to reset the "first encounter" flags for all bosses where it makes a meaningful difference.
+
+- Removed forced time of day switch to night for Death Rite Birds in Mountaintops and Charo's Hidden Grave, as they don't require it to spawn.
+
+- Various warp point adjustments.
+
+- Minor menu navigation improvements.
+
+## 1.0.5
+
+- (Fully randomized modifier only) Fixed a bug where some unused item award flags were not enabled but still checked for completion, resulting in the 100% completion message not being achievable.
+
+- (Fully randomized modifier only) Fixed Igon's Furled Finger not showing up in Kale's shop (Misc. Items). It's still a boss drop in the default version.
+
+- (Fully randomized modifier only) Fixed a bug where the tailoring tools were not given when creating a new character. They are still boss drops in the default version.
+
+- The character initialization script now also runs the first time the Roundtable Hold is visited, if it hasn't already run previously. This means you will still get items such as Whetblades even if the character was created outside the mod. However, starting a new character with the mod installed is still the recommended method to avoid possible bugs.
+
+- Due to the previous change, the one-time check that attempts to verify if the character was created and used outside of the mod has also been modified. Now it checks if any remembrance "boss defeated" flags are on, as those bosses have the highest potential to cause bugs if defeated outside the mod.
+
+- Added a new one-time check to verify if key items awarded automatically by Boss Arena are held by the player, and show a warning if not. This will help spot edge cases where a character was created using an outdated version of the mod and did not receive any items.
+
+## 1.0.4
+
+- Updated mod for version 1.14 of Elden Ring.
+
+- Made all characters at the Roundtable Hold invincible to prevent unexpected situations (like aggroing from rolling into them with the Briar Set).
+
+- Minor text changes.
+
+## 1.0.3
+
+- Added French translation (credit to KaruMiraiii)
+
+- Changed Gideon's NPC ID at the Roundtable Hold to the correct one to hopefully prevent instances of him dying to spirit summons in Seamless Co-Op. It also fixes the missing NPC name when talking to him.
+
+## 1.0.2
+
+- Fixed issue with runes still being lost on death.
+
+- Added extra failsafes to prevent warp loop with Seamless Co-Op.
+
+- Removed regulation.bin from full randomization modifier as it's unnecessary, only the \e## Credits
+
+## 1.0.1
+
+- Fixed Omenkiller (tier 3) warp.
+
+- Added a mechanism that attempts to detect if the mod has not been started with a fresh character and shows a warning to the player.
+
+- Fixed warp loop issue with Seamless Co-Op guests.
+
+## 1.0
+
+- Initial release

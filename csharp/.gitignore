@@ -1,0 +1,38 @@
+# --- .NET build output ---
+bin/
+obj/
+*.user
+*.suo
+
+# --- IDE / editor cruft ---
+.vs/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- Runtime-generated pipeline output ---
+# Populated by the GUI/CLI at run time; every bundle regenerates deterministically.
+data/output/
+
+# --- Mod runtime backups ---
+# Pipeline writes these with a timestamp suffix before mutating any file.
+*.prepatched_*
+
+# --- Non-redistributable native libraries ---
+# Oodle compression (RAD Game Tools / Epic Games proprietary). Users copy
+# oo2core_9_win64.dll from their own Elden Ring install into the program dir
+# on first run. Do not commit.
+oo2core_*.dll
+
+# --- Dev-time diagnostic dumps ---
+# One-off outputs from inspect-msgbnd / ESD dump tooling. Regenerate via CLI.
+inspect.txt
+kale-esd-dump.txt
+kale-patched-dump.txt
+kale-source-dump.txt
+group-40.txt
+patched-group-40.txt
+
+# --- Stray empty scratch dirs ---
+.../

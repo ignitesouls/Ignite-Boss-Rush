@@ -1,0 +1,29 @@
+<Project>
+  <!--
+    Shared MSBuild properties for every project under Seeded Competition Tool/csharp/.
+    Keeps targeting + lang settings in one place so the tool ships reproducibly.
+  -->
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <!--
+      We deliberately DO NOT set <InvariantGlobalization>true</InvariantGlobalization>.
+      WPF's text input stack (IME / keyboard-layout services) needs real ICU
+      culture data when a TextBox gains focus; enabling globalization-invariant
+      mode causes CultureNotFoundException the moment you click any input.
+      Every place in the pipeline that needs deterministic formatting already
+      passes CultureInfo.InvariantCulture explicitly, so we get reproducibility
+      without stripping ICU.
+    -->
+    <AnalysisMode>Recommended</AnalysisMode>
+    <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <!--
+      Prevent the vendored SoulsFormatsNEXT tree (consumed via the Phase0
+      ProjectReference path) from being globbed into any OTHER csproj's
+      Compile item group.
+    -->
+    <DefaultItemExcludes>$(DefaultItemExcludes);..\..\..\Phase0_RoundTripTest\vendor\**</DefaultItemExcludes>
+  </PropertyGroup>
+</Project>

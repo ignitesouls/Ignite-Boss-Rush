@@ -1,0 +1,2664 @@
+
+
+Flask of Crimson Tears
+
+
+
+
+Flask of Crimson Tears
+Flask of Cerulean Tears
+
+Small Golden Effigy
+
+Flask of Wondrous Physick
+
+
+
+
+
+
+
+Baldachin's Blessing
+Mending Rune of Perfect Order
+Mending Rune of the Death-Prince
+Mending Rune of the Fell Curse
+Oil Pot
+Small Golden Effigy
+
+
+
+
+
+
+
+
+
+
+Tarnished's Furled Finger
+
+
+
+
+
+[Stormveil - Godrick] Godrick's Great Rune
+[Stormveil - Godrick] Remembrance of the Grafted
+
+[Leyndell - Morgott] Remembrance of the Omen King
+[Leyndell - Morgott] Morgott's Great Rune
+[Ashen Leyndell - Hoarah Loux] Remembrance of Hoarah Loux
+[Lake or Rot - Astel] Remembrance of the Naturalborn
+[Deeproot Depths - Fortissax] Remembrance of the Lichdragon
+[Mohgwyn Palace - Mohg] Remembrance of the Blood Lord
+[Mohgwyn Palace - Mohg] Mohg's Great Rune
+
+[Farum Azula - Godskin Duo] Smithing-Stone Miner's Bell Bearing [4]
+[Farum Azula - Dragonlord Placidusax] Remembrance of the Dragonlord
+[Farum Azula - Maliketh] Remembrance of the Black Blade
+[Raya Lucaria - Red Wolf of Radagon] Memory Stone
+[Raya Lucaria - Rennala] Remembrance of the Full Moon Queen
+[Raya Lucaria - Rennala] Great Rune of the Unborn
+[Raya Lucaria - Rennala] None
+[Haligtree - Malenia] Remembrance of the Rot Goddess
+[Haligtree - Malenia] Malenia's Great Rune
+[Mt. Gelmir - Rykard] Remembrance of the Blasphemous
+[Mt. Gelmir - Rykard] Rykard's Great Rune
+[Erdtree - Elden Beast] Elden Remembrance
+
+
+[Caelid - Radahn] Remembrance of the Starscourge
+[Caelid - Radahn] Radahn's Great Rune
+[Mountaintops - Fire Giant] Remembrance of the Fire Giant
+[Nokron - Regal Ancestor Spirit] Remembrance of the Regal Ancestor
+Remembrance of the Dancing Lion
+Remembrance of a God and a Lord
+Remembrance of the Impaler
+Messmer's Kindling
+Remembrance of Putrescence
+Remembrance of the Mother of Fingers
+Remembrance of the Lord of Frenzied Flame
+Remembrance of the Saint of the Bud
+Remembrance of the Shadow Sunflower
+Miquella's Great Rune
+Heart of Bayle
+Remembrance of the Wild Boar Rider
+Remembrance of the Twin Moon Knight
+[Wyndham Catacombs - Erdtree Burial Watchdog] Glovewort Picker's Bell Bearing [1]
+[Giants' Mountaintop Catacombs - Ulcerated Tree Spirit] Glovewort Picker's Bell Bearing [2]
+[Black Knife Catacombs - Black Knife Assassin] Black Knifeprint
+
+[Coastal Cave - Demi-Human Chief] Sewing Needle
+[Coastal Cave - Demi-Human Chief] Tailoring Tools
+[Raya Lucaria Crystal Tunnel - Crystalian] Smithing-Stone Miner's Bell Bearing [1]
+[Altus Tunnel - Crystalians] Somberstone Miner's Bell Bearing [2]
+[Sellia Crystal Tunnel - Fallingstar Beast] Somberstone Miner's Bell Bearing [1]
+[Weeping Penisula - Field - Erdtree Avatar] Crimsonburst Crystal Tear
+[Weeping Penisula - Field - Erdtree Avatar] Opaline Bubbletear
+[Liurnia - Field - Erdtree Avatar] Magic-Shrouding Cracked Tear
+[Liurnia - Field - Erdtree Avatar] Lightning-Shrouding Cracked Tear
+[Liurnia - Field - Erdtree Avatar] Holy-Shrouding Cracked Tear
+[Liurnia - Field - Erdtree Avatar] Cerulean Crystal Tear
+[Liurnia - Field - Erdtree Avatar] Ruptured Crystal Tear
+[Liurnia - Field - Tibia Mariner] Deathroot
+[Altus Plateau - Field - Wormface] Speckled Hardtear
+[Altus Plateau - Field - Wormface] Crimsonspill Crystal Tear
+[Mt. Gelmir - Field - Ulcerated Tree Spirit] Leaden Hardtear
+[Mt. Gelmir - Field - Ulcerated Tree Spirit] Cerulean Hidden Tear
+[Altus Plateau - Field - Tibia Mariner] Deathroot
+[Mt. Gelmir - Field - Demi-Human Queen Maggie] Memory Stone
+[Caelid - Field - Commander O'Neil] Unalloyed Gold Needle
+[Caelid - Field - Erdtree Avatar] Greenburst Crystal Tear
+[Caelid - Field - Erdtree Avatar] Flame-Shrouding Cracked Tear
+[Caelid - Field - Putrid Avatar] Opaline Hardtear
+[Caelid - Field - Putrid Avatar] Stonebarb Cracked Tear
+[Consecrated Snowfield - Field - Putrid Avatar] Thorny Cracked Tear
+[Consecrated Snowfield - Field - Putrid Avatar] Ruptured Crystal Tear
+[Info Item] About Sites of Grace
+[Info Item] About Sorceries and Incantations
+[Info Item] About Bows
+[Info Item] About Crouching
+[Info Item] About Stance-Breaking
+[Info Item] About Stakes of Marika
+[Info Item] About Guard Counters
+[Info Item] About the Map
+[Info Item] About Guidance of Grace
+[Info Item] About Horseback Riding
+[Info Item] About Death
+[Info Item] About Summoning Spirits
+[Info Item] About Guarding
+[Info Item] About Item Crafting
+
+[Info Item] About Flask of Wondrous Physick
+[Info Item] About Adding Skills
+[Info Item] About Birdseye Telescopes
+[Info Item] About Spiritspring Jumping
+[Info Item] About Vanquishing Enemy Groups
+[Info Item] About Teardrop Scarabs
+[Info Item] About Summoning Other Players
+[Info Item] About Cooperative Multiplayer
+[Info Item] About Competitive Multiplayer
+[Info Item] About Invasion Multiplayer
+[Info Item] About Hunter Multiplayer
+[Info Item] About Summoning Pools
+[Info Item] About Monument Icon
+[Info Item] About Requesting Help from Hunters
+[Info Item] About Skills
+[Limgrave - Artist's Shack] "Homing Instinct" Painting
+[Liurnia - Artist's Shack] "Resurrection" Painting
+[Altus Plateau - Shaded Castle] "Champion's Song" Painting
+[Consecrated Snowfield - Castle Sol] "Sorcerer" Painting
+[Stormveil Castle] "Prophecy" Painting
+[Leyndell - Fortifed Manor] "Flightless Bird" Painting
+[Caelid - Sellia] "Redmane" Painting
+"Incursion" Painting
+"The Sacred Tower" Painting
+"Domain of Dragons" Painting
+
+
+
+
+[Melina - Third Grace Found] Spectral Steed Whistle
+[Melina - Morgott Killed] Rold Medallion
+[Unknown]
+[Unknown]
+[White-Faced Varre - ?] Festering Bloody Finger
+[White-Faced Varre - Maiden Kill] Lord of Blood's Favor
+[White-Faced Varre - 3 Invasions] Pureblood Knight's Medal
+[White-Faced Varre - Maiden Kill] Lord of Blood's Favor
+[White-Faced Varre - Returned Oath-Cloth] Bloody Finger
+[White-Faced Varre]
+[White-Faced Varre - Invasion] Festering Bloody Finger
+[Unknown]
+[Gatekeeper Gostoc - Gostoc Killed] Gostoc's Bell Bearing
+[Edgar] Shabriri Grape
+[Tanith] Tonic of Forgetfulness
+[Tanith] Drawing-Room Key
+Drawing-Room Key
+Tonic of Forgetfulness
+[Tanith] Letter from Volcano Manor
+[Tanith] Letter from Volcano Manor
+[Tanith] Red Letter
+[Irina] Irina's Letter
+[Rya] Rya's Necklace
+[Rya] Volcano Manor Invitation
+[Rya] Zorayas's Letter
+[Sorceress Sellen] Sellen's Primal Glintstone
+[Sorceress Sellen] Sellian Sealbreaker
+[Sorceress Sellen] Sellen's Bell Bearing
+[Albus] Haligtree Secret Medallion (Right)
+[Seluvis] Seluvis's Potion
+[Seluvis]
+[Seluvis] Seluvis's Introduction
+[Seluvis] Amber Draught
+[Seluvis]
+[Seluvis] Seluvis's Bell Bearing
+[Pidia- Carian Servant] Pidia's Bell Bearing
+[Pidia- Carian Servant] Pidia's Bell Bearing
+[Blaidd is the Half-Wolf] Discarded Palace Key
+[Unknown] White Cipher Ring
+[Iron Fist Alexander] Alexander's Innards
+[Unknown]
+[Patches] Letter to Patches
+[Patches] Dancer's Castanets
+[Chest - Gatefront Ruins] Whetstone Knife
+[War Counselor Iji] Iji's Bell Bearing
+[Castle Sol] Haligtree Secret Medallion (Left)
+[Unknown]
+[Gideon Ofnir - Mohgwyn Dynasty Mausoleum] Fevor's Cookbook [3]
+[Knight Bernahl] Letter to Bernahl
+[Big Boggart] Rya's Necklace
+[Big Boggart] Blackguard's Bell Bearing
+[Gowry] Unalloyed Gold Needle
+[Gowry] Sellia's Secret
+[Gowry] Gowry's Bell Bearing
+[Millicent] Unalloyed Gold Needle
+[Millicent] Miquella's Needle
+[Fia] Baldachin's Blessing
+[Fia] Weathered Dagger
+[Fia] Radiant Baldachin's Blessing
+[Fia] Knifeprint Clue
+[Fia] Mending Rune of the Death-Prince
+[D- Hunter of the Dead] D's Bell Bearing
+[Sorcerer Rogier] Black Knifeprint
+[Sorcerer Rogier] Black Knifeprint
+[Sorcerer Rogier] Rogier's Letter
+[Sorcerer Rogier] Rogier's Bell Bearing
+[Thops] Thops's Bell Bearing
+[Brother Corhyn] Corhyn's Bell Bearing
+[Dung Eater] Sewer-Gaol Key
+[Ranni the Witch] Spirit Calling Bell
+[Ranni the Witch] Carian Inverted Statue
+[Ranni the Witch] Cursemark of Death
+[Ranni the Witch] Miniature Ranni
+[Ranni the Witch] Fingerslayer Blade
+Cross Map
+Cross Map
+New Cross Map
+New Cross Map
+Cross Map
+New Cross Map
+Letter for Freyja
+Letter for Freyja
+Thiollier's Concoction
+Forager Brood Cookbook [7]
+Black Syrup
+Moore's Bell Bearing
+Hole-Laden Necklace
+Ruins Map
+Ruins Map (2nd)
+Ruins Map (3rd)
+Ruins Map (2nd)
+Ruins Map (3rd)
+Ymir's Bell Bearing
+Prayer Room Key
+Ancient Dragon's Blessing
+Igon's Greatbow - Igon's Great Hunt
+Igon's Bell Bearing
+Igon's Bell Bearing
+Scorpion Stew
+Scorpion Stew
+Gourmet Scorpion Stew
+Gourmet Scorpion Stew
+Dryleaf Arts - Palm Blast
+
+
+
+
+
+
+
+[Corpse - White-Faced Varre - Invasion] Festering Bloody Finger
+[Corpse - Unknown]
+[Merchant Kale] Kale's Bell Bearing
+[Corpse - Gatekeeper Gostoc] Gostoc's Bell Bearing
+[Corpse - Edgar] Shabriri Grape
+[Corpse - Unknown]
+[Corpse - Hyetta] Irina's Letter
+[Corpse - Hyetta] Frenzyflame Stone
+[Corpse - Hyetta] Irina's Letter
+[Corpse - Sorceress Sellen] Sellen's Bell Bearing
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Albus] Haligtree Secret Medallion (Right)
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Patches] Patches' Bell Bearing
+[Corpse - Patches] Patches' Bell Bearing
+[Corpse - Patches] Dancer's Castanets
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Miriel- Pastor of Vows] Miriel's Bell Bearing
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Knight Bernahl] Bernahl's Bell Bearing
+[Corpse - Big Boggart] Rya's Necklace
+[Corpse - Big Boggart] Blackguard's Bell Bearing
+[Corpse - Big Boggart] Blackguard's Bell Bearing
+[Corpse - Gowry] Gowry's Bell Bearing
+[Corpse - Millicent] Unalloyed Gold Needle
+[Corpse - D- Hunter of the Dead] D's Bell Bearing
+[Corpse - Unknown]
+[Corpse - Thops] Thops's Bell Bearing
+[Corpse - Unknown]
+[Corpse - Brother Corhyn] Corhyn's Bell Bearing
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+Moore's Bell Bearing
+Igon's Bell Bearing
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [1]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [2]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [3]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [4]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [5]
+[Corpse - Merchant] Isolated Merchant's Bell Bearing [1]
+[Corpse - Merchant] Isolated Merchant's Bell Bearing [2]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [6]
+[Corpse - Merchant] Hermit Merchant's Bell Bearing [1]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [7]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [8]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [9]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [10]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [11]
+[Corpse - Merchant] Isolated Merchant's Bell Bearing [3]
+[Corpse - Merchant] Hermit Merchant's Bell Bearing [2]
+[Corpse - Merchant] Abandoned Merchant's Bell Bearing
+[Corpse - Merchant] Hermit Merchant's Bell Bearing [3]
+[Corpse - Merchant] Imprisoned Merchant's Bell Bearing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flask of Wondrous Physick
+[LD - Stormveil] Stonesword Key
+[LD - Stormveil] Stonesword Key
+[LD - Stormveil] Nomadic Warrior's Cookbook [10]
+[LD - Stormveil] Rusty Key
+[LD - Stormveil] Shabriri Grape
+[LD - Stormveil] Stonesword Key
+[LD - Stormveil] Godskin Prayerbook
+[LD - Chapel of Anticipation] Tarnished's Wizened Finger
+[LD - Chapel of Anticipation] The Stormhawk King
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Two Fingers' Prayerbook
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Sanctified Whetblade
+[LD - Roundtable Hold] Assassin's Prayerbook
+[LD - Roundtable Hold] Taunter's Tongue
+[LD - Ainsel/Lake of Rot] Map: Ainsel
+[LD - Ainsel/Lake of Rot] Map: Lake of Rot
+[LD - Ainsel/Lake of Rot] Nomadic Warrior's Cookbook [22]
+[LD - Ainsel/Lake of Rot] Stonesword Key
+[LD - Ainsel/Lake of Rot] Stonesword Key
+[LD - Ainsel/Lake of Rot] Ghost-Glovewort Picker's Bell Bearing [2]
+[LD - Nokron / Siofra] Black Whetblade
+[LD - Nokron / Siofra] Missionary's Cookbook [5]
+[LD - Nokron / Siofra] Map: Siofra River
+[LD - Nokron / Siofra] Fingerslayer Blade
+[LD - Nokron / Siofra] Armorer's Cookbook [6]
+[LD - Nokron / Siofra] Stonesword Key
+[LD - Nokron / Siofra] Stonesword Key
+[LD - Nokron / Siofra] Stonesword Key
+[LD - Deeproot Depths] Map: Deeproot Depths
+[LD - Deeproot Depths] Stonesword Key
+[LD - Mohgwyn] Map: Mohgwyn Palace
+[LD - Mohgwyn] Nomadic Warrior's Cookbook [24]
+[LD - Mohgwyn] Stonesword Key
+[LD - Mohgwyn] Stonesword Key
+[LD - Mohgwyn]
+[LD - Nokron / Siofra] Ghost-Glovewort Picker's Bell Bearing [1]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Ancient Dragon Prayerbook
+[LD - Crumbling Farum Azula] Somberstone Miner's Bell Bearing [4]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Stonesword Key
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Ancient Dragon Apostle's Cookbook [4]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Somberstone Miner's Bell Bearing [5]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Glovewort Picker's Bell Bearing [3]
+[LD - Crumbling Farum Azula]
+[LD - Academy of Raya Lucaria] Conspectus Scroll
+[LD - Academy of Raya Lucaria] Stonesword Key
+[LD - Academy of Raya Lucaria] Stonesword Key
+[LD - Academy of Raya Lucaria] Glintstone Whetblade
+[LD - Academy of Raya Lucaria] Imbued Sword Key
+[LD - Academy of Raya Lucaria] Academy Glintstone Key
+[LD - Academy of Raya Lucaria] Glintstone Craftsman's Cookbook [5]
+[LD - Academy of Raya Lucaria] Dark Moon Ring
+[LD - Elphael / Miquella's Haligtree] Stonesword Key
+[LD - Elphael / Miquella's Haligtree] Stonesword Key
+[LD - Elphael / Miquella's Haligtree] Ghost-Glovewort Picker's Bell Bearing [3]
+[LD - Elphael / Miquella's Haligtree]
+[LD - Elphael / Miquella's Haligtree]
+[LD - Elphael / Miquella's Haligtree]
+[LD - Elphael / Miquella's Haligtree]
+[LD - Volcano Manor] Stonesword Key
+[LD - Volcano Manor] Nomadic Warrior's Cookbook [21]
+[LD - Volcano Manor] Missionary's Cookbook [6]
+[LD - Volcano Manor] Stonesword Key
+[LD - Volcano Manor] Serpent-Hunter
+[LD - Volcano Manor] Recusant Finger
+[LD - Stranded Graveyard] Stonesword Key
+[LD - Stranded Graveyard] Tarnished's Furled Finger
+[LD - Stranded Graveyard] Finger Severer
+Storeroom Key
+Well Depths Key
+Divine Beast Head
+Battlefield Priest's Cookbook [1]
+Secret Rite Scroll
+Battlefield Priest's Cookbook [4]
+St. Trina Disciple's Cookbook [3]
+Mad Craftsman's Cookbook [3]
+[Weeping Peninsula - Tombsward Catacombs] Nomadic Warrior's Cookbook [9]
+[Mt. Gelmir - Wyndham Catacombs] Ancient Dragon Apostle's Cookbook [1]
+[Mt. Gelmir - Gelmir Hero's Grave] Stonesword Key
+[Capital Outskirts - Auriza Hero's Grave] Stonesword Key
+[Capital Outskirts - Auriza Side Tomb] Perfumer's Cookbook [3]
+[Weeping Peninsula - Tombsward Cave] Nomadic Warrior's Cookbook [8]
+[Liurnia - Academy Crystal Cave] Stonesword Key
+[Altus Plateau - Sage's Cave] Stonesword Key
+[Caelid - Gaol Cave] Stonesword Key
+[Liurnia - Divine Tower of Liurnia] Cursemark of Death
+[Capital Outskirts - Divine Tower of West Altus]
+[Capital Outskirts - Divine Tower of West Altus] Stonesword Key
+[Capital Outskirts - Divine Tower of West Altus]
+[Capital Outskirts - Divine Tower of West Altus] Smithing-Stone Miner's Bell Bearing [2]
+[Greyoll's Dragonbarrow - Divine Tower of Caelid] Stonesword Key
+[Forbidden Lands - Divine Tower of East Altus] Mohg's Great Rune
+[Greyoll's Dragonbarrow - Isolated Divine Tower] Malenia's Great Rune
+[Subterranean Shunning-Grounds] Stonesword Key
+[Subterranean Shunning-Grounds] Frenzied's Cookbook [2]
+Ancient Dragon Knight's Cookbook [1]
+Ancient Dragon Knight's Cookbook [2]
+Greater Potentate's Cookbook [11]
+Gaol Upper Level Key
+Gaol Lower Level Key
+Greater Potentate's Cookbook [13]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Troll Carriage]
+[Troll Carriage]
+[Troll Carriage]
+[Troll Carriage]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Imbued Sword Key
+Academy Glintstone Key
+Map: Liurnia- West
+
+Nomadic Warrior's Cookbook [12]
+Stonesword Key
+Stonesword Key
+Glintstone Craftsman's Cookbook [6]
+Stonesword Key
+Armorer's Cookbook [7]
+Fire Monks' Prayerbook
+Glintstone Craftsman's Cookbook [4]
+Stonesword Key
+Perfumer's Cookbook [1]
+Map: Mt. Gelmir
+Nomadic Warrior's Cookbook [11]
+Map: Liurnia- North
+Meat Peddler's Bell Bearing
+Fingerprint Grape
+Stonesword Key
+Glintstone Craftsman's Cookbook [1]
+Glintstone Craftsman's Cookbook [2]
+Map: Liurnia- East
+Glintstone Craftsman's Cookbook [3]
+Dragon Cult Prayerbook
+Stonesword Key
+Frenzied's Cookbook [1]
+Stonesword Key
+Academy Scroll
+Shabriri Grape
+Stonesword Key
+Stonesword Key
+Perfumer's Cookbook [2]
+Nomadic Warrior's Cookbook [7]
+Amber Starlight
+Map: Altus Plateau
+Stonesword Key
+Stonesword Key
+Nomadic Warrior's Cookbook [19]
+
+
+Map: Limgrave- West
+Whetstone Knife
+
+
+Bone Peddler's Bell Bearing
+Duelist's Furled Finger
+Small Red Effigy
+Map: Leyndell- Royal Capital
+
+
+
+
+
+
+
+
+
+
+
+Stonesword Key
+
+
+
+
+
+
+
+
+
+
+
+
+Stonesword Key
+Armorer's Cookbook [1]
+Missionary's Cookbook [4]
+Medicine Peddler's Bell Bearing
+Map: Weeping Peninsula
+Stonesword Key
+Royal House Scroll
+
+
+
+Stonesword Key
+Map: Limgrave- East
+Nomadic Warrior's Cookbook [4]
+Fevor's Cookbook [1]
+Nomadic Warrior's Cookbook [6]
+Dectus Medallion (Left)
+Missionary's Cookbook [3]
+Nomadic Warrior's Cookbook [14]
+Stonesword Key
+Ancient Dragon Apostle's Cookbook [3]
+Stonesword Key
+Gravity Stone Peddler's Bell Bearing
+Stonesword Key
+Map: Consecrated Snowfield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Map: Caelid
+Stonesword Key
+Map: Dragonbarrow
+Map: Mountaintops of the Giants- West
+Smithing-Stone Miner's Bell Bearing [3]
+Nomadic Warrior's Cookbook [23]
+Glintstone Craftsman's Cookbook [8]
+Stonesword Key
+Imbued Sword Key
+Armorer's Cookbook [4]
+Red-Hot Whetblade
+Armorer's Cookbook [5]
+Dectus Medallion (Right)
+Stonesword Key
+Haligtree Secret Medallion (Left)
+Map: Mountaintops of the Giants- East
+Stonesword Key
+Giant's Prayerbook
+Somberstone Miner's Bell Bearing [3]
+Greater Potentate's Cookbook [9]
+String-Seller's Bell Bearing
+Greater Potentate's Cookbook [8]
+Grave Keeper's Cookbook [1]
+Greater Potentate's Cookbook [5]
+Greater Potentate's Cookbook [2]
+Greater Potentate's Cookbook [10]
+Mushroom-Seller's Bell Bearing [1]
+Map: Rauh Ruins
+Antiquity Scholar's Cookbook [2]
+St. Trina Disciple's Cookbook [2]
+Greater Potentate's Cookbook [14]
+Greater Potentate's Cookbook [1]
+Mushroom-Seller's Bell Bearing [2]
+Herbalist's Bell Bearing
+Map: Gravesite Plain
+Greater Potentate's Cookbook [12]
+Backhand Blade - Blind Spot
+Fire Knight's Cookbook [2]
+Loyal Knight's Cookbook
+Greater Potentate's Cookbook [3]
+Map: Southern Shore
+St. Trina Disciple's Cookbook [1]
+Tibia's Cookbook
+Mad Craftsman's Cookbook [1]
+Imbued Sword Key
+Map: Scadu Altus
+Battlefield Priest's Cookbook [3]
+Grave Keeper's Cookbook [2]
+Finger-Weaver's Cookbook [1]
+Igon's Cookbook [1]
+Greater Potentate's Cookbook [7]
+Battlefield Priest's Cookbook [2]
+Fire Knight's Cookbook [1]
+Mad Craftsman's Cookbook [2]
+Moldmonger's Bell Bearing
+Greater Potentate's Cookbook [6]
+Greater Potentate's Cookbook [4]
+Finger-Weaver's Cookbook [2]
+Spellmachinist's Bell Bearing
+Greasemonger's Bell Bearing
+Map: Abyss
+Igon's Cookbook [2]
