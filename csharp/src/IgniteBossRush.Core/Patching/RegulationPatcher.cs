@@ -389,9 +389,10 @@ public sealed class RegulationPatcher
                 // "for N runes" cosmetic bug.
                 SetCell(row, RegulationConstants.ShopLineupField_CostType,
                         RegulationConstants.ShopCostTypeStarlightShards);
-                // Per-slot cost from the plan (base slots = 1 shard, Great
-                // Rune slots = 3 shards). See ShopRollGenerator.BaseSlotCostAmberShards
-                // and GreatRuneCostAmberShards for the defaults.
+                // Per-slot cost from the plan. Set per item via
+                // cost_amber_shards in shop_pool.json or its prices_csv sheet;
+                // defaults are ShopRollGenerator.BaseSlotCostAmberShards (1)
+                // and GreatRuneCostAmberShards (3).
                 SetCell(row, RegulationConstants.ShopLineupField_Value,
                         slot.CostAmberShards);
 

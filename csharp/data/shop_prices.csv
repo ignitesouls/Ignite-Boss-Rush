@@ -1,0 +1,405 @@
+category,param_id,name,cost_amber_shards
+weapons,2000000,Longsword,1
+weapons,2010000,Short Sword,1
+weapons,2020000,Broadsword,1
+weapons,2040000,Lordsworn's Straight Sword,1
+weapons,2050000,Weathered Straight Sword,1
+weapons,2060000,Ornamental Straight Sword,1
+weapons,2070000,Golden Epitaph,1
+weapons,2080000,Nox Flowing Sword,1
+weapons,2090000,Inseparable Sword,1
+weapons,2110000,Coded Sword,1
+weapons,2140000,Sword of Night and Flame,1
+weapons,2150000,Crystal Sword,1
+weapons,2180000,Carian Knight's Sword,1
+weapons,2190000,Sword of St. Trina,1
+weapons,2200000,Miquellan Knight's Sword,1
+weapons,2210000,Cane Sword,1
+weapons,2220000,Regalia of Eochaid,1
+weapons,2230000,Noble's Slender Sword,1
+weapons,2240000,Warhawk's Talon,1
+weapons,2250000,Lazuli Glintstone Sword,1
+weapons,2260000,Rotten Crystal Sword,1
+weapons,2510000,Velvet Sword of St. Trina,1
+weapons,2520000,Star-Lined Sword,1
+weapons,2530000,Carian Sorcery Sword,1
+weapons,2540000,Stone-Sheathed Sword,1
+weapons,2550000,Sword of Light,1
+weapons,2560000,Sword of Darkness,1
+weapons,3000000,Bastard Sword,1
+weapons,3010000,Forked Greatsword,1
+weapons,3020000,Iron Greatsword,1
+weapons,3030000,Lordsworn's Greatsword,1
+weapons,3040000,Knight's Greatsword,1
+weapons,3050000,Flamberge,1
+weapons,3060000,Ordovis's Greatsword,1
+weapons,3070000,Alabaster Lord's Sword,1
+weapons,3080000,Banished Knight's Greatsword,1
+weapons,3090000,Dark Moon Greatsword,1
+weapons,3100000,Sacred Relic Sword,1
+weapons,3130000,Helphen's Steeple,1
+weapons,3140000,Blasphemous Blade,1
+weapons,3150000,Marais Executioner's Sword,1
+weapons,3160000,Sword of Milos,1
+weapons,3170000,Golden Order Greatsword,1
+weapons,3180000,Claymore,1
+weapons,3190000,Gargoyle's Greatsword,1
+weapons,3200000,Death's Poker,1
+weapons,3210000,Gargoyle's Blackblade,1
+weapons,3500000,Sword Lance,1
+weapons,3510000,Greatsword of Damnation,1
+weapons,3520000,Lizard Greatsword,1
+weapons,3550000,Greatsword of Solitude,1
+weapons,4000000,Greatsword,1
+weapons,4010000,Watchdog's Greatsword,1
+weapons,4020000,Maliketh's Black Blade,1
+weapons,4030000,Troll's Golden Sword,1
+weapons,4040000,Zweihander,1
+weapons,4050000,Starscourge Greatsword,1
+weapons,4060000,Royal Greatsword,1
+weapons,4070000,Godslayer's Greatsword,1
+weapons,4080000,Ruins Greatsword,1
+weapons,4100000,Grafted Blade Greatsword,1
+weapons,4110000,Troll Knight's Sword,1
+weapons,4500000,Ancient Meteoric Ore Greatsword,1
+weapons,4520000,Fire Knight's Greatsword,1
+weapons,4530000,Greatsword of Radahn (Lord),1
+weapons,4540000,Moonrithyll's Knight Sword,1
+weapons,4550000,Greatsword of Radahn (Light),1
+weapons,5000000,Estoc,1
+weapons,5010000,Cleanrot Knight's Sword,1
+weapons,5020000,Rapier,1
+weapons,5030000,Rogier's Rapier,1
+weapons,5040000,Antspur Rapier,1
+weapons,5050000,Frozen Needle,1
+weapons,5060000,Noble's Estoc,1
+weapons,6000000,Bloody Helice,1
+weapons,6010000,Godskin Stitcher,1
+weapons,6020000,Great Épée,1
+weapons,6040000,Dragon King's Cragblade,1
+weapons,6500000,Queelign's Greatsword,1
+weapons,7000000,Falchion,1
+weapons,7010000,Beastman's Curved Sword,1
+weapons,7020000,Shotel,1
+weapons,7030000,Shamshir,1
+weapons,7040000,Bandit's Curved Sword,1
+weapons,7050000,Magma Blade,1
+weapons,7060000,Flowing Curved Sword,1
+weapons,7070000,Wing of Astel,1
+weapons,7080000,Scavenger's Curved Sword,1
+weapons,7100000,Eclipse Shotel,1
+weapons,7110000,Serpent-God's Curved Sword,1
+weapons,7120000,Mantis Blade,1
+weapons,7140000,Scimitar,1
+weapons,7150000,Grossmesser,1
+weapons,7500000,Spirit Sword,1
+weapons,7510000,Falx,1
+weapons,7520000,Dancing Blade of Ranah,1
+weapons,7530000,Horned Warrior's Sword,1
+weapons,8010000,Onyx Lord's Greatsword,1
+weapons,8020000,Dismounter,1
+weapons,8030000,Bloodhound's Fang,1
+weapons,8040000,Magma Wyrm's Scalesword,1
+weapons,8050000,Zamor Curved Sword,1
+weapons,8060000,Omen Cleaver,1
+weapons,8070000,Monk's Flameblade,1
+weapons,8080000,Beastman's Cleaver,1
+weapons,8100000,Morgott's Cursed Sword,1
+weapons,8500000,Putrescence Cleaver,1
+weapons,8510000,Freyja's Greatsword,1
+weapons,8520000,Horned Warrior's Greatsword,1
+weapons,9000000,Uchigatana,1
+weapons,9010000,Nagakiba,1
+weapons,9020000,Hand of Malenia,1
+weapons,9030000,Meteoric Ore Blade,1
+weapons,9040000,Rivers of Blood,1
+weapons,9060000,Moonveil,1
+weapons,9070000,Dragonscale Blade,1
+weapons,9080000,Serpentbone Blade,1
+weapons,9500000,Sword of Night,1
+weapons,10000000,Twinblade,1
+weapons,10010000,Godskin Peeler,1
+weapons,10030000,Twinned Knight Swords,1
+weapons,10050000,Eleonora's Poleblade,1
+weapons,10080000,Gargoyle's Twinblade,1
+weapons,10090000,Gargoyle's Black Blades,1
+weapons,10500000,Euporia,1
+weapons,10510000,Black Steel Twinblade,1
+weapons,11000000,Mace,1
+weapons,11010000,Club,1
+weapons,11030000,Curved Club,1
+weapons,11040000,Warpick,1
+weapons,11050000,Morning Star,1
+weapons,11060000,Varré's Bouquet,1
+weapons,11070000,Spiked Club,1
+weapons,11080000,Hammer,1
+weapons,11090000,Monk's Flamemace,1
+weapons,11100000,Envoy's Horn,1
+weapons,11110000,Scepter of the All-Knowing,1
+weapons,11120000,Nox Flowing Hammer,1
+weapons,11130000,Ringed Finger,1
+weapons,11140000,Stone Club,1
+weapons,11150000,Marika's Hammer,1
+weapons,11500000,Flowerstone Gavel,1
+weapons,12000000,Large Club,1
+weapons,12010000,Greathorn Hammer,1
+weapons,12020000,Battle Hammer,1
+weapons,12060000,Great Mace,1
+weapons,12080000,Curved Great Club,1
+weapons,12130000,Celebrant's Skull,1
+weapons,12140000,Pickaxe,1
+weapons,12150000,Beastclaw Greathammer,1
+weapons,12160000,Envoy's Long Horn,1
+weapons,12170000,Cranial Vessel Candlestand,1
+weapons,12180000,Great Stars,1
+weapons,12190000,Brick Hammer,1
+weapons,12200000,Devourer's Scepter,1
+weapons,12210000,Rotten Battle Hammer,1
+weapons,12500000,Smithscript Greathammer,1
+weapons,12510000,Anvil Hammer,1
+weapons,12520000,Black Steel Greathammer,1
+weapons,12530000,Bloodfiend's Arm,1
+weapons,13000000,Nightrider Flail,1
+weapons,13010000,Flail,1
+weapons,13020000,Family Heads,1
+weapons,13030000,Bastard's Stars,1
+weapons,13040000,Chainlink Flail,1
+weapons,13500000,Serpent Flail,1
+weapons,14000000,Battle Axe,1
+weapons,14010000,Forked Hatchet,1
+weapons,14020000,Hand Axe,1
+weapons,14030000,Jawbone Axe,1
+weapons,14040000,Iron Cleaver,1
+weapons,14050000,Ripple Blade,1
+weapons,14060000,Celebrant's Cleaver,1
+weapons,14080000,Icerind Hatchet,1
+weapons,14100000,Highland Axe,1
+weapons,14110000,Sacrificial Axe,1
+weapons,14120000,Rosus' Axe,1
+weapons,14140000,Stormhawk Axe,1
+weapons,14500000,Smithscript Axe,1
+weapons,14510000,Death Knight's Twin Axes,1
+weapons,14520000,Messmer Soldier's Axe,1
+weapons,14540000,Forked-Tongue Hatchet,1
+weapons,15000000,Greataxe,1
+weapons,15010000,Warped Axe,1
+weapons,15020000,Great Omenkiller Cleaver,1
+weapons,15030000,Crescent Moon Axe,1
+weapons,15040000,Axe of Godrick,1
+weapons,15050000,Longhaft Axe,1
+weapons,15060000,Rusted Anchor,1
+weapons,15080000,Executioner's Greataxe,1
+weapons,15110000,Winged Greathorn,1
+weapons,15130000,Gargoyle's Great Axe,1
+weapons,15140000,Gargoyle's Black Axe,1
+weapons,15500000,Death Knight's Longhaft Axe,1
+weapons,15510000,Bonny Butchering Knife,1
+weapons,16000000,Short Spear,1
+weapons,16010000,Spear,1
+weapons,16020000,Crystal Spear,1
+weapons,16030000,Clayman's Harpoon,1
+weapons,16040000,Cleanrot Spear,1
+weapons,16050000,Partisan,1
+weapons,16060000,Celebrant's Rib-Rake,1
+weapons,16070000,Pike,1
+weapons,16080000,Torchpole,1
+weapons,16090000,Bolt of Gransax,1
+weapons,16110000,Cross-Naginata,1
+weapons,16120000,Death Ritual Spear,1
+weapons,16130000,Inquisitor's Girandole,1
+weapons,16140000,Spiked Spear,1
+weapons,16150000,Iron Spear,1
+weapons,16160000,Rotten Crystal Spear,1
+weapons,16500000,Smithscript Spear,1
+weapons,16520000,Swift Spear,1
+weapons,16540000,Bloodfiend's Fork,1
+weapons,16550000,Bloodfiend's Sacred Spear,1
+weapons,17010000,Mohgwyn's Sacred Spear,1
+weapons,17020000,Siluria's Tree,1
+weapons,17030000,Serpent-Hunter,1
+weapons,17050000,Vyke's War Spear,1
+weapons,17060000,Lance,1
+weapons,17070000,Treespear,1
+weapons,17500000,Spear of the Impaler,1
+weapons,17510000,Messmer Soldier's Spear,1
+weapons,17520000,Barbed Staff-Spear,1
+weapons,18000000,Halberd,1
+weapons,18010000,Pest's Glaive,1
+weapons,18020000,Lucerne,1
+weapons,18030000,Banished Knight's Halberd,1
+weapons,18040000,Commander's Standard,1
+weapons,18050000,Nightrider Glaive,1
+weapons,18060000,Ripple Crescent Halberd,1
+weapons,18070000,Vulgar Militia Saw,1
+weapons,18080000,Golden Halberd,1
+weapons,18090000,Glaive,1
+weapons,18100000,Loretta's War Sickle,1
+weapons,18110000,Guardian's Swordspear,1
+weapons,18130000,Vulgar Militia Shotel,1
+weapons,18140000,Dragon Halberd,1
+weapons,18150000,Gargoyle's Halberd,1
+weapons,18160000,Gargoyle's Black Halberd,1
+weapons,18500000,Spirit Glaive,1
+weapons,18510000,Poleblade of the Bud,1
+weapons,19000000,Scythe,1
+weapons,19010000,Grave Scythe,1
+weapons,19020000,Halo Scythe,1
+weapons,19060000,Winged Scythe,1
+weapons,19500000,Obsidian Lamina,1
+weapons,20000000,Whip,1
+weapons,20020000,Thorned Whip,1
+weapons,20030000,Magma Whip Candlestick,1
+weapons,20050000,Hoslow's Petal Whip,1
+weapons,20060000,Giant's Red Braid,1
+weapons,20070000,Urumi,1
+weapons,20500000,Tooth Whip,1
+weapons,21000000,Caestus,1
+weapons,21010000,Spiked Caestus,1
+weapons,21060000,Grafted Dragon,1
+weapons,21070000,Iron Ball,1
+weapons,21080000,Star Fist,1
+weapons,21100000,Katar,1
+weapons,21110000,Clinging Bone,1
+weapons,21120000,Veteran's Prosthesis,1
+weapons,21130000,Cipher Pata,1
+weapons,21500000,Thiollier's Hidden Needle,1
+weapons,21510000,Pata,1
+weapons,21520000,Poisoned Hand,1
+weapons,21530000,Madding Hand,1
+weapons,21540000,Golem Fist,1
+weapons,21550000,Shield of Night,1
+weapons,22000000,Hookclaws,1
+weapons,22010000,Venomous Fang,1
+weapons,22020000,Bloodhound Claws,1
+weapons,22030000,Raptor Talons,1
+weapons,22500000,Claws of Night,1
+weapons,23000000,Prelate's Inferno Crozier,1
+weapons,23010000,Watchdog's Staff,1
+weapons,23020000,Great Club,1
+weapons,23030000,Envoy's Greathorn,1
+weapons,23040000,Duelist Greataxe,1
+weapons,23050000,Axe of Godfrey,1
+weapons,23060000,Dragon Greatclaw,1
+weapons,23070000,Staff of the Avatar,1
+weapons,23080000,Fallingstar Beast Jaw,1
+weapons,23100000,Ghiza's Wheel,1
+weapons,23110000,Giant-Crusher,1
+weapons,23120000,Golem's Halberd,1
+weapons,23130000,Troll's Hammer,1
+weapons,23140000,Rotten Staff,1
+weapons,23150000,Rotten Greataxe,1
+weapons,23500000,Devonia's Hammer,1
+weapons,23510000,Shadow Sunflower Blossom,1
+weapons,23520000,Gazing Finger,1
+talismans,1002,Crimson Amber Medallion +2,1
+talismans,1012,Cerulean Amber Medallion +2,1
+talismans,1022,Viridian Amber Medallion +2,1
+talismans,1032,Great-Jar's Arsenal,1
+talismans,1042,Erdtree's Favor +2,1
+talismans,1051,Radagon's Soreseal,1
+talismans,1060,Starscourge Heirloom,1
+talismans,1070,Prosthesis-Wearer Heirloom,1
+talismans,1080,Stargazer Heirloom,1
+talismans,1090,Two Fingers Heirloom,1
+talismans,1110,Gold Scarab,1
+talismans,1150,Green Turtle Talisman,1
+talismans,1221,Marika's Soreseal,1
+talismans,1231,Shard of Alexander,1
+talismans,1250,Millicent's Prosthesis,1
+talismans,2000,Magic Scorpion Charm,1
+talismans,2010,Lightning Scorpion Charm,1
+talismans,2020,Fire Scorpion Charm,1
+talismans,2030,Sacred Scorpion Charm,1
+talismans,2050,Ritual Sword Talisman,1
+talismans,2081,Rotten Winged Sword Insignia,1
+talismans,2090,Dagger Talisman,1
+talismans,2110,Blue Dancer Charm,1
+talismans,2130,Axe Talisman,1
+talismans,2160,Lord of Blood's Exultation,1
+talismans,2170,Kindred of Rot's Exultation,1
+talismans,2180,Claw Talisman,1
+talismans,4002,Dragoncrest Shield Talisman +2,1
+talismans,4012,Spelldrake Talisman +2,1
+talismans,4022,Flamedrake Talisman +2,1
+talismans,4032,Boltdrake Talisman +2,1
+talismans,4042,Haligdrake Talisman +2,1
+talismans,4052,Pearldrake Talisman +2,1
+talismans,4090,Ritual Shield Talisman,1
+talismans,5000,Crimson Seed Talisman,1
+talismans,5050,Assassin's Crimson Dagger,1
+talismans,7120,Golden Braid,1
+talismans,8020,Outer God Heirloom,1
+talismans,8040,Two-Handed Sword Talisman,1
+talismans,8130,Retaliatory Crossed-Tree,1
+talismans,8220,Rellana's Cameo,1
+talismans,8230,Blade of Mercy,1
+ash_of_war,10000,Ash of War: Lion's Claw,1
+ash_of_war,10100,Ash of War: Impaling Thrust,1
+ash_of_war,10200,Ash of War: Piercing Fang,1
+ash_of_war,10300,Ash of War: Spinning Slash,1
+ash_of_war,10600,Ash of War: Stamp (Upward Cut),1
+ash_of_war,10900,Ash of War: Repeating Thrust,1
+ash_of_war,11000,Ash of War: Wild Strikes,1
+ash_of_war,11200,Ash of War: Double Slash,1
+ash_of_war,11400,Ash of War: Unsheathe,1
+ash_of_war,11500,Ash of War: Square Off,1
+ash_of_war,11600,Ash of War: Giant Hunt,1
+ash_of_war,12400,Ash of War: Sword Dance,1
+ash_of_war,20400,Ash of War: Bloody Slash,1
+ash_of_war,14100,Ash of War: Carian Greatsword,1
+ash_of_war,15600,Ash of War: Barrage,1
+ash_of_war,16400,Ash of War: Hoarfrost Stomp,1
+ash_of_war,16500,Ash of War: Storm Stomp,1
+ash_of_war,16800,Ash of War: Flame of the Redmanes,1
+ash_of_war,19000,Ash of War: Quickstep,1
+ash_of_war,80100,Ash of War: Bloodhound's Step,1
+ash_of_war,19200,Ash of War: Raptor of the Mists,1
+ash_of_war,10800,Ash of War: Blood Tax,1
+ash_of_war,11100,Ash of War: Spinning Strikes,1
+ash_of_war,11900,Ash of War: Poison Moth Flight,1
+ash_of_war,20100,Ash of War: Sacred Blade,1
+ash_of_war,20200,Ash of War: Ice Spear,1
+ash_of_war,21000,Ash of War: Storm Blade,1
+ash_of_war,21400,Ash of War: Flaming Strike,1
+ash_of_war,21700,Ash of War: Lightning Slash,1
+ash_of_war,22000,Ash of War: Vacuum Slice,1
+ash_of_war,22100,Ash of War: Black Flame Tornado,1
+ash_of_war,22700,Ash of War: Chilling Mist,1
+ash_of_war,22800,Ash of War: Poisonous Mist,1
+ash_of_war,30700,Ash of War: Golden Parry,1
+ash_of_war,60000,Ash of War: Determination,1
+ash_of_war,60300,Ash of War: Golden Vow,1
+ash_of_war,60600,Ash of War: Seppuku,1
+ash_of_war,60700,Ash of War: Cragblade,1
+ash_of_war,65400,Ash of War: Braggart's Roar,1
+ash_of_war,414000,Ash of War: Flame Skewer,1
+ash_of_war,415000,Ash of War: Savage Lion's Claw,1
+ash_of_war,416000,Ash of War: Divine Beast Frost Stomp,1
+ash_of_war,417000,Ash of War: Flame Spear,1
+ash_of_war,418000,Ash of War: Carian Sovereignty,1
+ash_of_war,419000,Ash of War: Shriek of Sorrow,1
+ash_of_war,505000,Ash of War: The Poison Flower Blooms Twice,1
+crystal_tears,11001,Greenspill Crystal Tear,1
+crystal_tears,11008,Opaline Bubbletear,1
+crystal_tears,11010,Greenburst Crystal Tear,1
+crystal_tears,11011,Opaline Hardtear,1
+crystal_tears,11012,Winged Crystal Tear,1
+crystal_tears,11013,Thorny Cracked Tear,1
+crystal_tears,11014,Spiked Cracked Tear,1
+crystal_tears,11016,Ruptured Crystal Tear,1
+crystal_tears,11021,Strength-knot Crystal Tear,1
+crystal_tears,11022,Dexterity-knot Crystal Tear,1
+crystal_tears,11023,Intelligence-knot Crystal Tear,1
+crystal_tears,11024,Faith-knot Crystal Tear,1
+crystal_tears,11026,Stonebarb Cracked Tear,1
+crystal_tears,11028,Flame-Shrouding Cracked Tear,1
+crystal_tears,11029,Magic-Shrouding Cracked Tear,1
+crystal_tears,11030,Lightning-Shrouding Cracked Tear,1
+crystal_tears,11031,Holy-Shrouding Cracked Tear,1
+crystal_tears,2011050,Bloodsucking Cracked Tear,1
+crystal_tears,2011070,Deflecting Hardtear,1
+great_runes,191,Godrick's Great Rune,3
+great_runes,192,Radahn's Great Rune,3
+great_runes,193,Morgott's Great Rune,3
+great_runes,194,Rykard's Great Rune,3
+great_runes,195,Mohg's Great Rune,3

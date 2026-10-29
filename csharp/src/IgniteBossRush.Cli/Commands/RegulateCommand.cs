@@ -82,7 +82,7 @@ igniterush regulate — roll tier_rewards.json + patch regulation.bin (Step 7).
         // Re-build the in-memory plan rather than re-parsing the JSON we just
         // wrote — keeps the source of truth (BuildPlan) in one place and saves
         // a round trip.
-        var pool = JsonLoader.LoadFile<ShopPoolFile>(shopPoolPath);
+        var pool = ShopPoolLoader.Load(shopPoolPath);
         TierRewardsPlan plan = ShopRollGenerator.BuildPlan(seed, pool);
 
         // --- 2. patch regulation.bin ---

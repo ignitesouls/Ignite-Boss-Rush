@@ -49,6 +49,13 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+    <!-- Per-item price sheet referenced by shop_pool.json's "prices_csv".
+         Must sit next to shop_pool.json in the output tree. -->
+    <Content Include="..\..\data\shop_prices.csv" Condition="Exists('..\..\data\shop_prices.csv')">
+      <Link>data\shop_prices.csv</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
     <Content Include="..\..\data\template\**\*">
       <Link>data\template\%(RecursiveDir)%(Filename)%(Extension)</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

@@ -88,7 +88,7 @@ public sealed class PipelineRunner
         progress?.Report($"        tier_rewards.json = {shopResult.Fingerprint}");
         progress?.Report($"        tiers={shopResult.TierCount}, slots={shopResult.SlotCount}");
 
-        var pool = JsonLoader.LoadFile<ShopPoolFile>(Options.ShopPoolPath);
+        var pool = ShopPoolLoader.Load(Options.ShopPoolPath);
         TierRewardsPlan plan = ShopRollGenerator.BuildPlan(seed, pool);
 
         // --- 3. regulation patch ---

@@ -1,6 +1,7 @@
 {
   "schema_version": 1,
   "domain_tag": "kale_shop_tier",
+  "prices_csv": "shop_prices.csv",
   "pools": {
     "weapons": [
       {

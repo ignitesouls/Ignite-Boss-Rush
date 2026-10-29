@@ -20,7 +20,12 @@ namespace IgniteBossRush.Core.Generation;
 /// <c>tier_rewards.json</c> alongside the existing <c>drops.json</c>.
 ///
 /// Determinism contract:
-///   - Same seed + same shop_pool.json bytes → byte-identical tier_rewards.json.
+///   - Same seed + same shop_pool.json bytes (+ the prices_csv it points
+///     at, if any) → byte-identical tier_rewards.json.
+///   - Prices are per item: <c>cost_amber_shards</c> on a pool entry, or a
+///     row in the CSV price sheet, overrides the category default. Prices
+///     are never fed to the PRNG, so re-pricing never changes which items
+///     roll for a given seed.
 ///   - Domain tag is per-category: <c>"{base_tag}_weapons"</c>,
 ///     <c>"{base_tag}_talismans"</c>, <c>"{base_tag}_ash_of_war"</c>,
 ///     <c>"{base_tag}_crystal_tears"</c>, <c>"{base_tag}_great_runes"</c>
@@ -43,8 +48,9 @@ namespace IgniteBossRush.Core.Generation;
 ///     appended to that tier. Same global-uniqueness rule: no rune appears
 ///     in two tiers in the same run. Per-tier slot count is therefore 7 or
 ///     8, and total run slot count is 63 + luckyTierCount ∈ [63, 72].
-///     Cost = <see cref="GreatRuneCostAmberShards"/> Starlight Shards
-///     (base slots cost <see cref="BaseSlotCostAmberShards"/>).
+///     Default cost = <see cref="GreatRuneCostAmberShards"/> Starlight Shards
+///     (base slots default to <see cref="BaseSlotCostAmberShards"/>);
+///     either can be overridden per item.
 ///
 /// Fisher–Yates is driven by <see cref="ShakeDeterministicRng.RandBelow"/>.
 /// We must NOT use <c>OrderBy(rng.Next())</c>-style sorts: those would consume
@@ -90,6 +96,12 @@ public sealed class ShopRollGenerator
     /// slot. Written to ShopLineupParam's <c>value</c> field.</summary>
     public const int BaseSlotCostAmberShards = 1;
 
+    /// <summary>Allowed per-item price range. Mirrors the check in
+    /// <c>RegulationPatcher</c> (merchant UI only renders 1–2 digit prices
+    /// cleanly), but fails at roll time with the item's name attached.</summary>
+    public const int MinSlotCostAmberShards = 1;
+    public const int MaxSlotCostAmberShards = 99;
+
     /// <summary>Tier visibility / award flags — owned by IgniteBossRush, NOT
     /// part of the base Ignite Rush mod's flag scheme. Documented in
     /// patcher_summary.md (TODO: add once patcher lands).</summary>
@@ -122,7 +134,7 @@ public sealed class ShopRollGenerator
     {
         Directory.CreateDirectory(outDir);
 
-        var pool = JsonLoader.LoadFile<ShopPoolFile>(Options.ShopPoolPath);
+        var pool = ShopPoolLoader.Load(Options.ShopPoolPath);
         ValidatePool(pool);
 
         TierRewardsPlan plan = BuildPlan(Options.Seed, pool);
@@ -150,6 +162,11 @@ public sealed class ShopRollGenerator
     {
         if (string.IsNullOrEmpty(seed))
             throw new ArgumentException("seed must not be empty", nameof(seed));
+
+        // Prices are validated before any sampling. They never feed the PRNG,
+        // so editing a price cannot change which items roll for a seed —
+        // only the cost_amber_shards written for that slot.
+        ValidateCosts(pool);
 
         // Apply exclusions once up-front so each tier draws from the same
         // post-exclusion pool. Order of survivors is preserved from the
@@ -250,7 +267,7 @@ public sealed class ShopRollGenerator
                     ShopId = shopBase + slotIdx++,
                     Kind = ShopSlotKinds.Weapon,
                     ParamId = weaponsShuffled[wOffset + i].ParamId,
-                    CostAmberShards = BaseSlotCostAmberShards,
+                    CostAmberShards = ResolveCost(weaponsShuffled[wOffset + i], BaseSlotCostAmberShards),
                 });
             for (int i = 0; i < TalismansPerTier; i++)
                 picks.Add(new ShopSlot
@@ -258,7 +275,7 @@ public sealed class ShopRollGenerator
                     ShopId = shopBase + slotIdx++,
                     Kind = ShopSlotKinds.Talisman,
                     ParamId = talismansShuffled[tOffset + i].ParamId,
-                    CostAmberShards = BaseSlotCostAmberShards,
+                    CostAmberShards = ResolveCost(talismansShuffled[tOffset + i], BaseSlotCostAmberShards),
                 });
             for (int i = 0; i < AshOfWarPerTier; i++)
                 picks.Add(new ShopSlot
@@ -266,7 +283,7 @@ public sealed class ShopRollGenerator
                     ShopId = shopBase + slotIdx++,
                     Kind = ShopSlotKinds.AshOfWar,
                     ParamId = aowShuffled[aOffset + i].ParamId,
-                    CostAmberShards = BaseSlotCostAmberShards,
+                    CostAmberShards = ResolveCost(aowShuffled[aOffset + i], BaseSlotCostAmberShards),
                 });
             for (int i = 0; i < TearsPerTier; i++)
                 picks.Add(new ShopSlot
@@ -274,7 +291,7 @@ public sealed class ShopRollGenerator
                     ShopId = shopBase + slotIdx++,
                     Kind = ShopSlotKinds.Tear,
                     ParamId = tearsShuffled[tearOffset + i].ParamId,
-                    CostAmberShards = BaseSlotCostAmberShards,
+                    CostAmberShards = ResolveCost(tearsShuffled[tearOffset + i], BaseSlotCostAmberShards),
                 });
 
             // Bonus 8th slot: appended only if this tier won the 15% roll AND
@@ -289,7 +306,7 @@ public sealed class ShopRollGenerator
                     ShopId = shopBase + slotIdx++,
                     Kind = ShopSlotKinds.GreatRune,
                     ParamId = rune.ParamId,
-                    CostAmberShards = GreatRuneCostAmberShards,
+                    CostAmberShards = ResolveCost(rune, GreatRuneCostAmberShards),
                 });
             }
 
@@ -400,6 +417,25 @@ public sealed class ShopRollGenerator
                 $"Unsupported shop_pool.json schema_version {pool.SchemaVersion} (expected 1)");
         if (string.IsNullOrEmpty(pool.DomainTag))
             throw new InvalidDataException("shop_pool.json domain_tag must not be empty");
+    }
+
+    /// <summary>Per-item price if the pool (or the CSV price sheet merged
+    /// into it) set one, otherwise the category default.</summary>
+    private static int ResolveCost(IShopPoolEntry entry, int categoryDefault) =>
+        entry.CostAmberShards ?? categoryDefault;
+
+    private static void ValidateCosts(ShopPoolFile pool)
+    {
+        foreach (var (name, entries) in pool.Pools.ByCategory())
+        foreach (var e in entries)
+        {
+            if (e.CostAmberShards is int c
+                && (c < MinSlotCostAmberShards || c > MaxSlotCostAmberShards))
+                throw new InvalidDataException(
+                    $"shop pool '{name}' item {e.ParamId} ({e.Name}): "
+                    + $"cost_amber_shards={c} is out of range "
+                    + $"[{MinSlotCostAmberShards}, {MaxSlotCostAmberShards}].");
+        }
     }
 
     private static void RequireMinSize(int actual, int min, string poolName)

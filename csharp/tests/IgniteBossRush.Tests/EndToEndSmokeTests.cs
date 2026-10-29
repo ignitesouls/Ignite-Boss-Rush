@@ -87,7 +87,7 @@ public class EndToEndSmokeTests
 
             // Rebuild the plan deterministically from the same seed + pool so
             // we can compare every written row against the expected plan.
-            var pool = JsonLoader.LoadFile<ShopPoolFile>(fx.ShopPoolPath);
+            var pool = ShopPoolLoader.Load(fx.ShopPoolPath);
             TierRewardsPlan plan = ShopRollGenerator.BuildPlan(TestSeed, pool);
 
             // --- regulation.bin content verification ---
